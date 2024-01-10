@@ -1,4 +1,4 @@
-# Project Title: Gemini AI Text Generation and Thumbnail Extraction
+# Gemini AI Text Generation and Thumbnail Extraction
 
 ## Overview
 
