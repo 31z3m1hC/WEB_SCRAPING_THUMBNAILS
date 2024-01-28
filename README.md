@@ -1,8 +1,8 @@
-# Text Generation and Image Processing Specialist
+# Text Generation and Thumbnails Extraction
 
 ## Overview:
 
-As a Text Generation and Image Processing Specialist, this project involves leveraging advanced technologies and tools to generate textual content and process associated images. This comprehensive process includes text generation using Gemini AI, document formatting in Microsoft PowerPoint, and image extraction from Windows thumbcache databases.
+This project involves leveraging advanced technologies and tools to generate textual content and process associated images. The comprehensive process includes text generation using Gemini AI, document formatting in Microsoft PowerPoint, and Thumbnails Extraction from Windows thumbcache databases.
 
 ## Processes:
 
@@ -18,7 +18,7 @@ As a Text Generation and Image Processing Specialist, this project involves leve
 - Diversified presentation by saving each set in three font types, resulting in a total of 3000 PowerPoint slides.
 - Accompanied each PowerPoint file with a corresponding .txt copy of the text for reference and analysis.
 
-### 3. Image Extraction using Thumbcache Viewer:
+### 3. Thumbnails Extraction using Thumbcache Viewer:
 
 - Employed Thumbcache Viewer on a Windows 10 machine to extract thumbnails from thumbcache_xxx.db files.
 - Extracted thumbnails in three resolutions: 256 (Extra-large), 96 (Large), and 48 (Medium), based on folder explorer display preferences.
@@ -34,13 +34,13 @@ As a Text Generation and Image Processing Specialist, this project involves leve
 
 - Gemini AI for text generation.
 - Microsoft PowerPoint for document formatting.
-- Thumbcache Viewer on Windows 10 for thumbnail extraction.
+- Thumbcache Viewer on Windows 10 for thumbnails extraction.
 - Python for scripting and mapping functionalities.
 
 ## Future Considerations:
 
 - Continuous refinement of text generation models for enhanced content diversity.
-- Exploration of advanced image processing techniques to improve data set quality.
+- Exploration of advanced image processing techniques to improve dataset quality.
 - Integration of emerging technologies to further optimize the overall workflow.
 
-This readme file provides an overview of the comprehensive processes involved in text generation and image processing. The combination of cutting-edge tools and thoughtful scripting ensures the creation of a rich dataset suitable for various applications, from content generation to training machine learning models.
+This readme file provides an overview of the comprehensive processes involved in text generation and thumbnails extraction. The combination of cutting-edge tools and thoughtful scripting ensures the creation of a rich dataset suitable for various applications, from content generation to training machine learning models.
