@@ -1,0 +1,6 @@
+{
+  "title": "Exploiting AI for Sustainable Energy",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Berkeley ",
+  "email": "s.jones@berkeley.edu"
+}

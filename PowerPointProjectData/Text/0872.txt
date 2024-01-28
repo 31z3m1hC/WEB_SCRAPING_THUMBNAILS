@@ -1,0 +1,6 @@
+{
+  "title": "Healthy Eating for Healthy Living",
+  "author": "Dr. Jane Smith",
+  "affiliation": "Harvard University",
+  "email": "jane.smith@harvard.edu"
+}

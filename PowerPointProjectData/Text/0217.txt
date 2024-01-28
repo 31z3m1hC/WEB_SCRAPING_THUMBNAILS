@@ -1,0 +1,6 @@
+{
+  "title": "Understanding the World of Dreams",
+  "author": "Dr. Laura Smith",
+  "affiliation": "University of California",
+  "email": "laurasmith@ucla.edu"
+}

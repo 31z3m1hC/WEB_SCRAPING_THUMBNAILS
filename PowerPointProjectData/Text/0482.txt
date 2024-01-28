@@ -1,0 +1,6 @@
+{
+  "title": "Ocean Acidification: A Threat to Marine Life",
+  "author": "Rebecca Albright",
+  "affiliation": "National Oceanic and Atmospheric Administration",
+  "email": "rebecca.albright@noaa.gov"
+}

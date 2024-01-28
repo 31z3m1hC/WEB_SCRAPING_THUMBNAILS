@@ -1,0 +1,6 @@
+{
+  "title": "Nuclear Energy: Boon or Bane",
+  "author": "Dr. Jane Smith",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "janesmith@mit.edu"
+}

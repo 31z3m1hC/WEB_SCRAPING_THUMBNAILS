@@ -1,0 +1,6 @@
+{
+  "title": "Uncovering the Solar System's Enigma",
+  "author": "Dr. Jonas Becker",
+  "affiliation": "Max Planck Institute",
+  "email": "jonas.becker@mpis.org"
+}

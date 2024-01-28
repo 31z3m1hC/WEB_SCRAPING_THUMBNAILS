@@ -1,0 +1,6 @@
+{
+  "title": "Study of Solar Cells Efficiency",
+  "author": "Dr. Lisa detr Goldner",
+  "affiliation": "Stanford University",
+  "email": "lisagoldner@stanford.edu"
+}

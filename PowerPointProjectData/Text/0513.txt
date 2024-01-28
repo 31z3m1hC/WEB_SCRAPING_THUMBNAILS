@@ -1,0 +1,6 @@
+{
+  "title": "Mental Health Evaluation Using AI: A Systematic Review",
+  "author": "Javad Shokri",
+  "affiliation": "Department of Psychiatry and Behavioral Sciences",
+  "email": "javad.shokri@stanford.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Plant-Based Diets for a Sustainable Future",
+  "author": "Dr. Sarah Williams",
+  "affiliation": "University of California, Davis",
+  "email": "swilliams@ucdavis.edu"
+}

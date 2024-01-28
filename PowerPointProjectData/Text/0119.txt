@@ -1,0 +1,6 @@
+{
+  "title": "Improving Battery Life in Smartphones",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sjones@berkeley.edu"
+}

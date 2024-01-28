@@ -1,0 +1,6 @@
+{
+  "title": "Energy Efficiency in 5G Networks",
+  "author": "Robert Heath",
+  "affiliation": "University of Texas at Austin",
+  "email": "heath@ece.utexas.edu"
+}

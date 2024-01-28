@@ -1,0 +1,6 @@
+{
+  "title": "AI-Driven Drug Discovery",
+  "author": "Elijah Broughton",
+  "affiliation": "NVIDIA Research",
+  "email": "ebroughton@nvidia.com"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Novel SARS-CoV-2 Variants: A Looming Threat",
+  "author": "Dr. Anthony Fauci",
+  "affiliation": "National Institute of Allergy and Infectious Diseases",
+  "email": "tony.fauci@nih.gov"
+}

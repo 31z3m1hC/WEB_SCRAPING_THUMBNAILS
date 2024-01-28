@@ -1,0 +1,6 @@
+{
+  "title": "Low-Cost Shrimp Farming",
+  "author": "Rajeshwari Ramesh",
+  "affiliation": "National Institute of Oceanography",
+  "email": "rrajeshwari@nio.org"
+}

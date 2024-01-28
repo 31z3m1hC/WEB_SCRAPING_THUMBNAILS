@@ -1,0 +1,6 @@
+{
+  "title": "Mindfulness for Pain Relief",
+  "author": "Dr. Jon Kabat-Zinn",
+  "affiliation": "University of Massachusetts Medical School",
+  "email": "jkbz@umassmed.edu"
+}

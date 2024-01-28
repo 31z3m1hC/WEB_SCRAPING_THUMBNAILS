@@ -1,0 +1,6 @@
+{
+  "title": " Harnessing Music's Power: Healing Sounds",
+  "author": "Elena Ioni",
+  "affiliation": "Portsmouth University",
+  "email": "ei24@port.ac.uk"
+}

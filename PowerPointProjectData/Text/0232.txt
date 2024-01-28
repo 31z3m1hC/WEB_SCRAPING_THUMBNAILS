@@ -1,0 +1,6 @@
+{
+  "title": "Preserving Indigenous Knowledge",
+  "author": "Dr. Dwayne Fayle",
+  "affiliation": "University of British Columbia",
+  "email": "dwayne.fayle@ubc.ca"
+}

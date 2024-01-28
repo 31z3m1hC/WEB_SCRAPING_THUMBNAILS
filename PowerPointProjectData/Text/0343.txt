@@ -1,0 +1,6 @@
+{
+  "title": "Boosting Crops with Light",
+  "author": "Sarah Mitchell",
+  "affiliation": "University of California, Davis",
+  "email": "smitchell@ucdavis.edu"
+}

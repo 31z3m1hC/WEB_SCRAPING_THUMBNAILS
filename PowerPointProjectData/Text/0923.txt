@@ -1,0 +1,6 @@
+{
+  "title": "The Neural Correlates of Consciousness",
+  "author": "Anil K Seth",
+  "affiliation": "University of Sussex",
+  "email": "a.k.seth@sussex.ac.uk"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Quantifying Microbial Diversity in Soil",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Davis",
+  "email": "janedoe@ucdavis.edu"
+}

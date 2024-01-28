@@ -1,0 +1,6 @@
+{
+  "title": "Gene Editing in Agriculture: Prospects for Sustainable Farming",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Davis",
+  "email": "jane.doe@ucdavis.edu"
+}

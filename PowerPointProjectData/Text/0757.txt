@@ -1,0 +1,6 @@
+{
+  "title": "Energy Efficiency in Cloud Data Centers",
+  "author": "Sunil Kumar",
+  "affiliation": "University of California, Berkeley",
+  "email": "sunilkumar@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Impacts of Diet on Mental Health",
+  "author": "Eva Cassidy",
+  "affiliation": "John Hopkins University",
+  "email": "evacassidy206@jhu.edu"
+}

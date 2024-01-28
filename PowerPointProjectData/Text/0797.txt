@@ -1,0 +1,6 @@
+{
+  "title": "The Internet: A Global Network",
+  "author": "Vinton Cerf",
+  "affiliation": "Google",
+  "email": "vcerf@google.com"
+}

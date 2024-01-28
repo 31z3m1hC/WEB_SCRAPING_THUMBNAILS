@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change Impact on Ocean Ecosystems",
+  "author": "Dr. Elizabeth Kolb",
+  "affiliation": "Stanford University",
+  "email": "ekolb@stanford.edu"
+}

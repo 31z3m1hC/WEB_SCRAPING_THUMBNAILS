@@ -1,0 +1,6 @@
+{
+  "title": "Carbon Capture and Utilization: Pathways to Sustainability",
+  "author": "Jennifer Wilcox",
+  "affiliation": "University of California, Berkeley",
+  "email": "jwilcox@berkeley.edu"
+}

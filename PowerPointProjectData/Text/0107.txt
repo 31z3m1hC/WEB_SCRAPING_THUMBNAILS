@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change and Health",
+  "author": "Dr. Thomas E. McKone",
+  "affiliation": "Lawrence Berkeley National Laboratory",
+  "email": "tmckone@lbl.gov"
+}

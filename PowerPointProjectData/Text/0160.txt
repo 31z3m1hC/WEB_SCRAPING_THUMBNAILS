@@ -1,0 +1,6 @@
+{
+  "title": "Examining Caffeine's Impact on Sleep",
+  "author": "Dr. Steven Miller",
+  "affiliation": "University of California, Berkeley",
+  "email": "smiller@berkeley.edu"
+}

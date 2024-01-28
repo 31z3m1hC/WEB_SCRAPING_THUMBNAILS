@@ -1,0 +1,6 @@
+{
+  "title": "Urban Heat Effects: Mitigating Strategies",
+  "author": "Dr. Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.doe@berkeley.edu"
+}

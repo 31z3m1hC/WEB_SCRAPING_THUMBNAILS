@@ -1,0 +1,6 @@
+{
+  "title": "Developing Eco-Friendly Fuels",
+  "author": "Ravindra Prakash",
+  "affiliation": "Indian Institute of Science",
+  "email": "ravindra.prakash@iisc.ac.in"
+}

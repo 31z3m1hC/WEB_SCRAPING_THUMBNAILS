@@ -1,0 +1,6 @@
+{
+  "title": "Impact of E-Learning on Student Performance",
+  "author": "Dr. Maria Clarke",
+  "affiliation": "Harvard University",
+  "email": "mariaclarke@harvard.edu"
+}

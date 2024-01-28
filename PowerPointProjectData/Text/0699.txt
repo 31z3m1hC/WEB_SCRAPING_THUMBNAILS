@@ -1,0 +1,6 @@
+{
+  "title": "Improving Crop Yield: A Collaborative Effort",
+  "author": "Dr. Alice J. Smith",
+  "affiliation": "Agricultural Research Institute",
+  "email": "alicejsmith@ari.edu"
+}

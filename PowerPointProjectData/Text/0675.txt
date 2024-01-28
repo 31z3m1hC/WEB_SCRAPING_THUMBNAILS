@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy: Powering Homes",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sjones@berkeley.edu"
+}

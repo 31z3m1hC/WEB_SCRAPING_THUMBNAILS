@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Yield: A Review",
+  "author": "John Smith",
+  "affiliation": "Agriculture University",
+  "email": "johnsmith@gmail.com"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Cancer Detection Using AI",
+  "author": "Dr. Emily Jones",
+  "affiliation": "MIT Computer Science",
+  "email": "emily.jones@mit.edu"
+}

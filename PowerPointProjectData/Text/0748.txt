@@ -1,0 +1,6 @@
+{
+  "title": "Financial Literacy: A Path to Stability",
+  "author": "Philip De Backer",
+  "affiliation": "Univeristy of Leuven",
+  "email": "philip.debacker@kuleuven.be"
+}

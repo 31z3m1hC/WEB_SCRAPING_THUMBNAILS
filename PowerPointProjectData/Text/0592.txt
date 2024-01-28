@@ -1,0 +1,6 @@
+{
+  "title": "Internet Addiction: An Overview",
+  "author": "Ramesh Gopinath",
+  "affiliation": "National Institute of Mental Health",
+  "email": "ramesh.gopinath@nih.gov"
+}

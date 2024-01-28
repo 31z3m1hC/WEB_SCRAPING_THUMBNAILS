@@ -1,0 +1,6 @@
+{
+  "title": "Embracing Empathy: Fostering Community in Academic Settings",
+  "author": "A.C. Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "acsmith@berkeley.edu"
+}

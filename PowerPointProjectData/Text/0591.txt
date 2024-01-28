@@ -1,0 +1,6 @@
+{
+  "title": "Evolving Invasive Species",
+  "author": "Emma Berman",
+  "affiliation": "University of Cambridge",
+  "email": "emma.bermant@cam.ac.uk"
+}

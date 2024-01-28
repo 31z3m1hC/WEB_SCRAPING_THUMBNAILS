@@ -1,0 +1,6 @@
+{
+  "title": "Genetics of Fingerprint Patterns",
+  "author": "Peter M. Visscher",
+  "affiliation": "Queensland Institute of Medical Research",
+  "email": "peter.visscher@qimr.edu.au"
+}

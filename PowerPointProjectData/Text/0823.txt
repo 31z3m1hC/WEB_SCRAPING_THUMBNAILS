@@ -1,0 +1,6 @@
+{
+  "title": "Health Effects of Air Pollution",
+  "author": "Dr. Jennifer Cole",
+  "affiliation": "Yale University",
+  "email": "jennifer.cole@yale.edu"
+}

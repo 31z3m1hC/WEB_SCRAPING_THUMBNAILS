@@ -1,0 +1,6 @@
+{
+  "title": "AI-Powered Crop Prediction",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "Cambridge University",
+  "email": "sarah.johnson@cam.ac.uk"
+}

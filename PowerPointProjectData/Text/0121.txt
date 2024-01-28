@@ -1,0 +1,6 @@
+{
+  "title": "The Power of Social Media Platforms",
+  "author": "Isabella Holstein",
+  "affiliation": "University of Delaware",
+  "email": "iholstein73@udel.edu"
+}

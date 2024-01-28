@@ -1,0 +1,6 @@
+{
+  "title": "The Art of Seeing Sound",
+  "author": "Stephen C. Kramer",
+  "affiliation": "University of California, San Diego",
+  "email": "skramer@ucsd.edu"
+}

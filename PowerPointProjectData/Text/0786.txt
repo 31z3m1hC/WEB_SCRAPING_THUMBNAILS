@@ -1,0 +1,6 @@
+{
+  "title": "Investigating Cosmic Mystery: Dark Matter",
+  "author": "Felipe Menanteau",
+  "affiliation": "Rutgers, The State University of New Jersey",
+  "email": "fmenante@physics.rutgers.edu"
+}

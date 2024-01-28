@@ -1,0 +1,6 @@
+{
+  "title": "Rising Sea Levels: A Threat to Coastal Cities",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of Massachusetts, Amherst",
+  "email": "sjones@umass.edu"
+}

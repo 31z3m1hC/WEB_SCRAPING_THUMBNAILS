@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Food Waste Reduction Strategies",
+  "author": "Sarah Williams",
+  "affiliation": "University of California, Berkeley",
+  "email": "swilliams@berkeley.edu"
+}

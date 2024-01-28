@@ -1,0 +1,6 @@
+{
+  "title": "Wearable Tech: Health Implications",
+  "author": "Dr. Sarah Miller",
+  "affiliation": "Stanford University",
+  "email": "smiller@stanford.edu"
+}

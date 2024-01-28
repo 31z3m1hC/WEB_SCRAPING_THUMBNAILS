@@ -1,0 +1,6 @@
+{
+  "title": "The Art of Microplastics Reduction",
+  "author": "Dr. Amanda L. Brooks",
+  "affiliation": "Georgia Institute of Technology",
+  "email": "alb@gatech.edu"
+}

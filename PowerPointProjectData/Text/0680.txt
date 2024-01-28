@@ -1,0 +1,6 @@
+{
+  "title": "AI in Healthcare: Challenges and Opportunities",
+  "author": "Sophia Sakinofsky",
+  "affiliation": "MIT Institute for Human Health",
+  "email": "sophias@mit.edu"
+}

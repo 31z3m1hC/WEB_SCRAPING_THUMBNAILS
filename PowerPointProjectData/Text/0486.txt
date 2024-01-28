@@ -1,0 +1,6 @@
+{
+  "title": "Shrimp Shell: A Natural Remedy for Water Pollution",
+  "author": "Dr. Susan B. Biggers",
+  "affiliation": "University of California, Santa Barbara",
+  "email": "sbbiggers@ucsb.edu"
+}

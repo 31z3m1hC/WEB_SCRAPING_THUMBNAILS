@@ -1,0 +1,6 @@
+{
+  "title": "AI in Healthcare: A Closer Look",
+  "author": "Dr. Aisha Smith",
+  "affiliation": "University of Cambridge",
+  "email": "aisha.smith@cam.ac.uk"
+}

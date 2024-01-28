@@ -1,0 +1,6 @@
+{
+  "title": "The Effects of Sleep on Memory",
+  "author": "Dr. John Smith",
+  "affiliation": "Harvard University",
+  "email": "jsmith@harvard.edu"
+}

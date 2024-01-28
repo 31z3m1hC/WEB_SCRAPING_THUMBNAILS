@@ -1,0 +1,6 @@
+{
+  "title": "Exploring the Nexus Between Sleep and Cognitive Performance",
+  "author": "Dr. Robert Stickgold",
+  "affiliation": "Harvard Medical School",
+  "email": "rstickgold@hms.harvard.edu"
+}

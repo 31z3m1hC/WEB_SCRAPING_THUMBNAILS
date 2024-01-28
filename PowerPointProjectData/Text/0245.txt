@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Ancient Secrets: DNA Study of Pharaoh Ramesses III",
+  "author": "Salima Ikram",
+  "affiliation": "American University in Cairo",
+  "email": "salima.ikram@aucegypt.edu"
+}

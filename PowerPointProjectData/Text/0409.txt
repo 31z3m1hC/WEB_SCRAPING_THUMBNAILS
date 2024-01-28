@@ -1,0 +1,6 @@
+{
+  "title": "Blockchain Applications in Digital Marketing",
+  "author": "Sarah Fischer",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarahf@berkeley.edu"
+}

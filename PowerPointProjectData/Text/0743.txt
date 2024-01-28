@@ -1,0 +1,6 @@
+{
+  "title": "Unraveling the Enigma of Alzheimer's",
+  "author": "Dr. Samuel Cohen",
+  "affiliation": "Harvard Medical School",
+  "email": "scohen@hms.harvard.edu"
+}

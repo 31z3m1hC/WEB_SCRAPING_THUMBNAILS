@@ -1,0 +1,6 @@
+{
+  "title": "Supplementing Diet with Omega-3",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "University of California, Los Angeles",
+  "email": "sarah.johnson@ucla.edu"
+}

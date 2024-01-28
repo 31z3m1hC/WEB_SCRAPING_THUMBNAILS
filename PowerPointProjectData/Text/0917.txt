@@ -1,0 +1,6 @@
+{
+  "title": "Google's Quest for AI Supremacy",
+  "author": "Geoffrey Hinton",
+  "affiliation": "University of Toronto",
+  "email": "hinton@cs.utoronto.ca"
+}

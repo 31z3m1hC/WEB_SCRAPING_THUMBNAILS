@@ -1,0 +1,6 @@
+{
+  "title": "Examining Consumer Perception: A Retail Study",
+  "author": "John Smith",
+  "affiliation": "Marketing Research Group",
+  "email": "jsmith@researchgroup.com"
+}

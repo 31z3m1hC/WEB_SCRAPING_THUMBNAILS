@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change Impacts on Coastal Cities",
+  "author": "Dr. Susan Hanson",
+  "affiliation": "University of Maryland Center for Environmental Science",
+  "email": "shanson@umces.edu"
+}

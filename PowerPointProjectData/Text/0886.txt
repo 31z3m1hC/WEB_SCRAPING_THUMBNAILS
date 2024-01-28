@@ -1,0 +1,6 @@
+{
+  "title": "AI-Generated Art: Beauty or Deception?",
+  "author": "Oliver Smith",
+  "affiliation": "University of Cambridge",
+  "email": "oliver.smith@cam.ac.uk"
+}

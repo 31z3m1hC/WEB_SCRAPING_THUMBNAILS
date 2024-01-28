@@ -1,0 +1,6 @@
+{
+  "title": "Impacts of Climate Change on Coral Reefs",
+  "author": "Dr. Sylvia Earle",
+  "affiliation": "National Geographic Society",
+  "email": "sylviaearle@nationalgeographic.com"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change's Impact on Ocean Life",
+  "author": "Dr.Jane Smith",
+  "affiliation": "Oceanography Institute",
+  "email": "jsmith@oceanographyinstitute.org"
+}

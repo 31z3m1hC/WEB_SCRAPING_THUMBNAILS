@@ -1,0 +1,6 @@
+{
+  "title": "AI Rocketing Real Estate",
+  "author": "Mark Brueckner",
+  "affiliation": "University of California, Berkeley",
+  "email": "brueckner@berkeley.edu"
+}

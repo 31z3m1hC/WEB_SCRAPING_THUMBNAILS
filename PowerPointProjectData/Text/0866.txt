@@ -1,0 +1,6 @@
+{
+  "title": "Long-term Memory Retention in Honeybees",
+  "author": "James L. Gould",
+  "affiliation": "Wageningen University",
+  "email": "james.gould@wur.nl"
+}

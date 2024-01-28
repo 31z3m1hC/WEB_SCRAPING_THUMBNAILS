@@ -1,0 +1,6 @@
+{
+  "title": "Brain Connectivity in Autism Spectrum Disorders",
+  "author": "Jameela Akhbari Barani",
+  "affiliation": "Stanford University",
+  "email": "jameela@stanford.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Nanoparticle-Enabled Cancer Diagnostics",
+  "author": "Isabella K. Brown",
+  "affiliation": "University of Southampton",
+  "email": "i.k.brown@soton.ac.uk"
+}

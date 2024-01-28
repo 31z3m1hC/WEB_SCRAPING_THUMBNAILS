@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics: As Small as Atoms, As Big as Problems",
+  "author": "Sandra Leibowitz",
+  "affiliation": "University of California, San Diego",
+  "email": "sandra.leibowitz@ucsd.edu"
+}

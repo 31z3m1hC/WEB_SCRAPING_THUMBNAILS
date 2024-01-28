@@ -1,0 +1,6 @@
+{
+  "title": "Microplastic Pollution in Oceans: A Growing Threat",
+  "author": "Sarah Smith",
+  "affiliation": "University of California, San Diego",
+  "email": "sarah.smith@ucsd.edu"
+}

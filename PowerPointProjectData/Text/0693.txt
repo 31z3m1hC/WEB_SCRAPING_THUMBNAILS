@@ -1,0 +1,6 @@
+{
+  "title": "Sleep Rhythm: Natural Cycles",
+  "author": "Felix D. Guerrero",
+  "affiliation": "Northwestern University",
+  "email": "fguerrero@northwestern.edu"
+}

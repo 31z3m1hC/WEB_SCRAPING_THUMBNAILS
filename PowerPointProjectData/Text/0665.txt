@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy: A Sustainable Solution",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sjones@berkeley.edu"
+}

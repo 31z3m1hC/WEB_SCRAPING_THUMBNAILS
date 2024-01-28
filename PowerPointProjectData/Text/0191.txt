@@ -1,0 +1,6 @@
+{
+  "title": "Eco-friendly Cooling: Efficiency Analysis",
+  "author": "Jennifer Smith",
+  "affiliation": "GreenTech University",
+  "email": "jsmith@greentech.edu"
+}

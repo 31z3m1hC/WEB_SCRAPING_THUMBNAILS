@@ -1,0 +1,6 @@
+{
+  "title": "AI-powered Cars: The Future of Transportation",
+  "author": "Danica McDowell",
+  "affiliation": "MIT Media Lab",
+  "email": "danica.mcdowell@media.mit.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Benefits of Sleep",
+  "author": "Alex Dimitriu",
+  "affiliation": "Stanford University",
+  "email": "aldimiu@stanford.edu"
+}

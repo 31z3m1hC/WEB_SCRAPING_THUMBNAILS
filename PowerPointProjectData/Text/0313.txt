@@ -1,0 +1,6 @@
+{
+  "title": "AI-Based Tooth Decay Detection",
+  "author": "Sarah Jones",
+  "affiliation": "XYZ University",
+  "email": "sarah.jones@xyz.edu"
+}

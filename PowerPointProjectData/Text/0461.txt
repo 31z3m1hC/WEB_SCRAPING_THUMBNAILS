@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Secrets of the Cosmos",
+  "author": "Maria Mitchell",
+  "affiliation": "Maria Mitchell Observatory",
+  "email": "mm@mariamitchellobservatory.org"
+}

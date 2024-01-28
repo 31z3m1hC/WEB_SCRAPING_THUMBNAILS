@@ -1,0 +1,6 @@
+{
+  "title": "Improving Breast Cancer Detection",
+  "author": "Isabella Williams",
+  "affiliation": "University of Texas",
+  "email": "iwilliams@utexas.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "AI-Generated Music: A New Era of Creativity",
+  "author": "Dr. Emily Taylor",
+  "affiliation": "University of California, Berkeley",
+  "email": "emily.taylor@berkeley.edu"
+}

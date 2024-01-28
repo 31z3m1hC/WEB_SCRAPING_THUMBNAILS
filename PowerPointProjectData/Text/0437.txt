@@ -1,0 +1,6 @@
+{
+  "title": "Cities United Against Despair",
+  "author": "Sarah Williams",
+  "affiliation": "New Humanity Initiative",
+  "email": "sarah.williams@newhumanity.org"
+}

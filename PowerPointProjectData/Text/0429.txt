@@ -1,0 +1,6 @@
+{
+  "title": "Laughter's Impact on Memory Consolidation",
+  "author": "Daniel J. Schacter",
+  "affiliation": "Harvard University",
+  "email": "dschacter@wjh.harvard.edu"
+}

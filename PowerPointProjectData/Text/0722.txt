@@ -1,0 +1,6 @@
+{
+  "title": "Artificial Sweeteners and Cancer Risk",
+  "author": "Valerie Vuolo",
+  "affiliation": "National Cancer Institute",
+  "email": "valerie.vuolo@nih.gov"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Uncovering Hidden Patterns in Stock Market Data",
+  "author": "Dr. Oliver Smith",
+  "affiliation": "Cambridge University",
+  "email": "oliver.smith@cam.ac.uk"
+}

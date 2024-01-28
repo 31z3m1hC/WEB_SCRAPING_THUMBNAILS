@@ -1,0 +1,6 @@
+{
+  "title": "AI-Generated Music: The Future of Composition",
+  "author": "Dr. Emily Howell",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "emily.howell@mit.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Printable Solar Cells: A Revolutionary Energy Source",
+  "author": "Isabella Avancini",
+  "affiliation": "University of Twente",
+  "email": "i.avancini@utwente.nl"
+}

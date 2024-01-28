@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change and Coral Bleaching",
+  "author": "Marie K. Andersson",
+  "affiliation": "Scripps Institution of Oceanography",
+  "email": "marie.andersson@ucsd.edu"
+}

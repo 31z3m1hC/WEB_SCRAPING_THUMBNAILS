@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Secrets of Sleep",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sjones@berkeley.edu"
+}

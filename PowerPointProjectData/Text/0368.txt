@@ -1,0 +1,6 @@
+{
+  "title": "Green Energy: The Future of Power",
+  "author": "Dr. Emily Watson",
+  "affiliation": "University of California, Berkeley",
+  "email": "emily.watson@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Coffee Consumption and Cardiovascular Health",
+  "author": "Dr. Mark Hyman",
+  "affiliation": "Cleveland Clinic",
+  "email": "mhyman@clevelandclinic.org"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Education During Emergencies",
+  "author": "Joyce Baluyot",
+  "affiliation": "UNICEF",
+  "email": "jbaluyot@unicef.org"
+}

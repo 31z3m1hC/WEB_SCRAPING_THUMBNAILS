@@ -1,0 +1,6 @@
+{
+  "title": "Anxiety and Sleep Disturbances",
+  "author": "Emily A. Holmes",
+  "affiliation": "University of Pittsburgh",
+  "email": "eah17@pitt.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Rapid Diagnosis of Malaria",
+  "author": "Jessica Smith",
+  "affiliation": "Harvard University",
+  "email": "jessicasmith@harvard.edu"
+}

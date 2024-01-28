@@ -1,0 +1,6 @@
+{
+  "title": "Innovative Grid Optimization Algorithms",
+  "author": "Dr. Arun Kumar",
+  "affiliation": "IIT Delhi",
+  "email": "arunkumar@iitd.ac.in"
+}

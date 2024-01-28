@@ -1,0 +1,6 @@
+{
+  "title": "Investigating Health Benefits of Coffee Consumption",
+  "author": "Sarah Miles",
+  "affiliation": "University of California, Davis",
+  "email": "smiles@ucdavis.edu"
+}

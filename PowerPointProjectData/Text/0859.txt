@@ -1,0 +1,6 @@
+{
+  "title": "Online Learning: A Global Perspective",
+  "author": "John Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "jsmith@berkeley.edu"
+}

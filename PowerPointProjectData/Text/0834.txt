@@ -1,0 +1,6 @@
+{
+  "title": "Smartphones for Health Tracking",
+  "author": "Dr. Lisa Jackson",
+  "affiliation": "Stanford University",
+  "email": "lisajackson@stanford.edu"
+}

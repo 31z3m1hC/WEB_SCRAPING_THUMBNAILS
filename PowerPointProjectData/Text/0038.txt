@@ -1,0 +1,6 @@
+{
+  "title": "AI in Healthcare",
+  "author": "Sarah Jones",
+  "affiliation": "Stanford University",
+  "email": "sjones@stanford.edu"
+}

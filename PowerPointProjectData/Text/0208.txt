@@ -1,0 +1,6 @@
+{
+  "title": "Ancient Egyptian Beer Brewing Practices",
+  "author": "Dr. Joyce Tyldesley",
+  "affiliation": "University of Manchester",
+  "email": "joyce.tyldesley@manchester.ac.uk"
+}

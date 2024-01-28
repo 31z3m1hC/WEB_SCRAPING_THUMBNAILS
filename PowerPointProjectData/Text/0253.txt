@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy for Sustainable Living",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "Stanford University",
+  "email": "sarah.jones@stanford.edu"
+}

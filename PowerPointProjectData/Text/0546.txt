@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Social Media on Youth Mental Health",
+  "author": "Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

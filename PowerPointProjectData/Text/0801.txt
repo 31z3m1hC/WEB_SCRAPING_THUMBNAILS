@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change: A Global Threat",
+  "author": "Dr. Jane Smith",
+  "affiliation": "University of Cambridge",
+  "email": "jane.smith@cam.ac.uk"
+}

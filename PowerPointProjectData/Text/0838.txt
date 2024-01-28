@@ -1,0 +1,6 @@
+{
+  "title": "Determining Sleep Quality in Astronauts",
+  "author": "Jaques L. Reimann",
+  "affiliation": "University of California, San Francisco",
+  "email": "jaques.reimann@ucsf.edu"
+}

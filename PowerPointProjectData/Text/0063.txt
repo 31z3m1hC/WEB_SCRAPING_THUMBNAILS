@@ -1,0 +1,6 @@
+{
+  "title": "Sugar Consumption and Weight Gain",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "Harvard University",
+  "email": "sj@hsph.harvard.edu"
+}

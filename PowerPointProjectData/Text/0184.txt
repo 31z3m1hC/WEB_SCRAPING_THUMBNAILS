@@ -1,0 +1,6 @@
+{
+  "title": "Microbial Diversity in Antarctic Soils",
+  "author": "Dhanushri A. More",
+  "affiliation": "National Institute of Oceanography",
+  "email": "dhanushri.more@nio.org"
+}

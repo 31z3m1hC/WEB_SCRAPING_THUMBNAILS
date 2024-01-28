@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy: A Sustainable Future",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.johnson@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Shaping Kids' Future with Tech",
+  "author": "Sarah Jones",
+  "affiliation": "MIT Media Lab",
+  "email": "sarah.jones@medialab.mit.edu"
+}

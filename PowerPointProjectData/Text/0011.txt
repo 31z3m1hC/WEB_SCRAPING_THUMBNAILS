@@ -1,0 +1,6 @@
+{
+  "title": "Mindfulness Training for Chronic Pain",
+  "author": "Jon Kabat-Zinn",
+  "affiliation": "University of Massachusetts Medical School",
+  "email": "drkabat@umassmed.edu"
+}

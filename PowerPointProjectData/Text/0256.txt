@@ -1,0 +1,6 @@
+{
+  "title": "Heart Health in a Cup of Coffee",
+  "author": "Emily Finch",
+  "affiliation": "Ohio State University",
+  "email": "emily.finch@osu.edu"
+}

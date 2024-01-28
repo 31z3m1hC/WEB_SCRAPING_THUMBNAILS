@@ -1,0 +1,6 @@
+{
+  "title": "Cancer Genomes: Mutations and Implications",
+  "author": "Hannah Valantine",
+  "affiliation": "University of Glasgow",
+  "email": "hannah.valantine@glasgow.ac.uk"
+}

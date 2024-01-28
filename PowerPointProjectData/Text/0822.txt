@@ -1,0 +1,6 @@
+{
+  "title": "Boosting Crop Yield with LED Lighting",
+  "author": "Dr. Abigail Adams",
+  "affiliation": "Agriculture Research Institute",
+  "email": "abigail.adams@agresearch.org"
+}

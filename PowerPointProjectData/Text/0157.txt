@@ -1,0 +1,6 @@
+{
+  "title": "Unlocking the Potential of AI in Healthcare",
+  "author": "Dr. Emily Carter",
+  "affiliation": "Stanford University",
+  "email": "emily.carter@stanford.edu"
+}

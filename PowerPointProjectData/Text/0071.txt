@@ -1,0 +1,6 @@
+{
+  "title": "Pollen Allergy: A Seasonal Foe",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "The Allergy and Asthma Center",
+  "email": "sarah.jones@allergyandac.com"
+}

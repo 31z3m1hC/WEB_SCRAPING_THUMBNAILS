@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change Impact: Arctic Sea Ice",
+  "author": "Dr. Jennifer Francis",
+  "affiliation": "Woods Hole Research Center",
+  "email": "jfrancis@whoi.edu"
+}

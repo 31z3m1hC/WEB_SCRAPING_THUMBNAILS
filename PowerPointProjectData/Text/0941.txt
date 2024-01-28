@@ -1,0 +1,6 @@
+{
+  "title": "Obesity Trends in Urban and Rural Areas",
+  "author": "Sarah Miller",
+  "affiliation": "University of California, Los Angeles",
+  "email": "smiller@ucla.edu"
+}

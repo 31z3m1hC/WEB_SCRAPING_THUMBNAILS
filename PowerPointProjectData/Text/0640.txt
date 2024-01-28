@@ -1,0 +1,6 @@
+{
+  "title": "Mindfulness in the Workplace: A Path to Increased Productivity",
+  "author": "Jessica Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "jessicasmith@berkeley.edu"
+}

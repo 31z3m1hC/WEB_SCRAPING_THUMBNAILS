@@ -1,0 +1,6 @@
+{
+  "title": "Temperature-Stress Interplay in Maize Crops",
+  "author": "Sarah J. Richards",
+  "affiliation": "University of Nebraska-Lincoln",
+  "email": "srichards2@unl.edu"
+}

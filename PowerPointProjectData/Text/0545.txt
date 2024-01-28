@@ -1,0 +1,6 @@
+{
+  "title": "Coastal Vulnerability Assessment",
+  "author": "Kelvin Koji Kajitani",
+  "affiliation": "Research Institute for Applied Mechanics",
+  "email": "kk.kajitani@riam.kyushu-u.ac.jp"
+}

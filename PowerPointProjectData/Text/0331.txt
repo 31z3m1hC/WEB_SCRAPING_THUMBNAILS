@@ -1,0 +1,6 @@
+{
+  "title": "Decomposed Granite and Asphalt Sealers",
+  "author": "Stephanie L. Arnoult",
+  "affiliation": "NC State University",
+  "email": "Stephanie_Arnoult@ncsu.edu"
+}

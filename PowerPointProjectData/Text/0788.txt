@@ -1,0 +1,6 @@
+{
+  "title": "Facial Emotion Recognition: Unlocking Human Connectivity",
+  "author": "Ekaterina Fedorovskaya",
+  "affiliation": "University of Cambridge",
+  "email": "e.fedorovskaya@cam.ac.uk"
+}

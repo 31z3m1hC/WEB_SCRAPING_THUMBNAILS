@@ -1,0 +1,6 @@
+{
+  "title": "Solar Panel Efficiency Variation",
+  "author": "Dr. Lisa Jones",
+  "affiliation": "Stanford University",
+  "email": "ljones@stanford.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Uncovering Food Fraud: A Chemical Perspective",
+  "author": "Sarah J. Kehoe",
+  "affiliation": "University of California, Davis",
+  "email": "sjkehoe@ucdavis.edu"
+}

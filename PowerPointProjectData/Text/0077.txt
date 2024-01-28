@@ -1,0 +1,6 @@
+{
+  "title": "Decoding Alzheimer's Enigma",
+  "author": "Dr. Lisa Genova",
+  "affiliation": "Harvard Medical School",
+  "email": "lgenova@hms.harvard.edu"
+}

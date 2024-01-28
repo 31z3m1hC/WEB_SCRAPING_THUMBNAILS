@@ -1,0 +1,6 @@
+{
+  "title": "World's Healthiest Diets",
+  "author": "Dr. Andrew Weil",
+  "affiliation": "Arizona Center for Integrative Medicine",
+  "email": "drweil@arizona.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Marine Sediments",
+  "author": "Melissa Bowen",
+  "affiliation": "University of California, San Diego",
+  "email": "mbowen@ucsd.edu"
+}

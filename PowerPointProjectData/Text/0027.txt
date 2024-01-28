@@ -1,0 +1,6 @@
+{
+  "title": "Gene Editing: Precise Manipulation of Life's Blueprint",
+  "author": "Jennifer Doudna",
+  "affiliation": "University of California, Berkeley",
+  "email": "doudna@berkeley.edu"
+}

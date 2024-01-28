@@ -1,0 +1,6 @@
+{
+  "title": "Fuel Cells for Green Mobility",
+  "author": "Andreas Z\u00fcttel",
+  "affiliation": "Empa, Swiss Federal Laboratories for Materials Science and Technology",
+  "email": "andreas.zuettel@empa.ch"
+}

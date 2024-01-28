@@ -1,0 +1,6 @@
+{
+  "title": "Education Amidst Adversity: Student Experiences During the Pandemic ",
+  "author": "Sarah Rodriguez",
+  "affiliation": "University of California, Berkeley",
+  "email": "srodriguez@berkeley.edu"
+}

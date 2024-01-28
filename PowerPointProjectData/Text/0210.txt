@@ -1,0 +1,6 @@
+{
+  "title": "Language Evolution: A Cognitive Perspective",
+  "author": "Steven Pinker",
+  "affiliation": "Harvard University",
+  "email": "steven_pinker@harvard.edu"
+}

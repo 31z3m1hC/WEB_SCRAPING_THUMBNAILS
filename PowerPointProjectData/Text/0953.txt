@@ -1,0 +1,6 @@
+{
+  "title": "Sugar Intake and Obesity",
+  "author": "Susan Roberts",
+  "affiliation": "Tufts University",
+  "email": "susan.roberts@tufts.edu"
+}

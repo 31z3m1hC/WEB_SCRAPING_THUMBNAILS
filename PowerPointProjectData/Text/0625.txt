@@ -1,0 +1,6 @@
+{
+  "title": "Tracing Grains to Combat Food Fraud",
+  "author": "John Smith",
+  "affiliation": "XYZ University",
+  "email": "johnsmith@xyzuniversity.edu"
+}

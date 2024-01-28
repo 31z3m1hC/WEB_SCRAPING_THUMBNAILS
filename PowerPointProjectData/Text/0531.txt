@@ -1,0 +1,6 @@
+{
+  "title": "Deciphering Enzyme Activity in Different Environments",
+  "author": "Dr. Andrew McWilliams",
+  "affiliation": "University of Copenhagen",
+  "email": "andrew.mcwilliams@ucu.dk"
+}

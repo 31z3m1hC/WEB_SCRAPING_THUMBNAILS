@@ -1,0 +1,6 @@
+{
+  "title": "Preserving History Through Augmented Reality",
+  "author": "Sophia Warren",
+  "affiliation": "University of Central Florida",
+  "email": "sophia.warren@ucf.edu"
+}

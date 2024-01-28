@@ -1,0 +1,6 @@
+{
+  "title": "Harnessing AI for Medical Diagnosis",
+  "author": "Dr. Emily Bennett",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "ebennett@mit.edu"
+}

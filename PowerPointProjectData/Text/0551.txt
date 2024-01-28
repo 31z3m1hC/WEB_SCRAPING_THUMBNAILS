@@ -1,0 +1,6 @@
+{
+  "title": "The Science of Sleep Cycles",
+  "author": "Dr. Susan Whitfield",
+  "affiliation": "Harvard Medical School",
+  "email": "swhitfield@hms.harvard.edu"
+}

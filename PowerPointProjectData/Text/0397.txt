@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Glowing Organisms for Sustainable Lighting",
+  "author": "Antonia Y. Black",
+  "affiliation": "Max Planck Institute",
+  "email": "antonia.y.black@mpi.mpg.de"
+}

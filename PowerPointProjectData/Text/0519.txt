@@ -1,0 +1,6 @@
+{
+  "title": "Harnessing Sun's Energy for Sustainable Power",
+  "author": "Anya Volkova",
+  "affiliation": "SolAire Photovoltaics Corp.",
+  "email": "anya.volkova@solairephotovoltaics.com"
+}

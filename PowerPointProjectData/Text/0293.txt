@@ -1,0 +1,6 @@
+{
+  "title": "Ground Water and Solar: A Powerful Duo",
+  "author": "Amelia B. Anderson",
+  "affiliation": "University of California, Davis",
+  "email": "amelia.anderson@example.edu"
+}

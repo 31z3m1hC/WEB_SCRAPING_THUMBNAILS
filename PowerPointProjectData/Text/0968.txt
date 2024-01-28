@@ -1,0 +1,6 @@
+{
+  "title": "Mental Health Impact of Social Media",
+  "author": "Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

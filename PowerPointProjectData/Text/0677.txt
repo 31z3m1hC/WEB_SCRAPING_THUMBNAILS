@@ -1,0 +1,6 @@
+{
+  "title": "COVID-19 Vaccine Uptake Drivers",
+  "author": "Kesha Budhraja",
+  "affiliation": "West Sussex Clinical Commissioning Group",
+  "email": "kesha.budhraja@westsussexccg.nhs.uk"
+}

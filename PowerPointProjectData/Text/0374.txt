@@ -1,0 +1,6 @@
+{
+  "title": "Exploring the Effects of Mindfulness on Stress Reduction",
+  "author": "Sarah Johnson",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.johnson@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Green Solutions for Clean Air",
+  "author": "Dr. Jennifer Turner",
+  "affiliation": "Environmental Scientist",
+  "email": "drjen@environmental-research.org"
+}

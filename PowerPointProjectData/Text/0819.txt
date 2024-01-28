@@ -1,0 +1,6 @@
+{
+  "title": "Hormonal Control of Plant Growth",
+  "author": "F. T. Addicott",
+  "affiliation": "University of California, Davis",
+  "email": "ftaddicott@ucdavis.edu"
+}

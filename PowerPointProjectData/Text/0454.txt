@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Our Oceans: A Growing Threat",
+  "author": "Sarah Wilson",
+  "affiliation": "Marine Biology Lab",
+  "email": "swilson@mbl.edu"
+}

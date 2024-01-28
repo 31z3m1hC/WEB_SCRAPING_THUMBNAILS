@@ -1,0 +1,6 @@
+{
+  "title": "Positive Parenting: Nurturing Children's Well-being",
+  "author": "Sarah A. Myers",
+  "affiliation": "University of California, Los Angeles",
+  "email": "samyers@ucla.edu"
+}

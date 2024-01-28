@@ -1,0 +1,6 @@
+{
+  "title": "Climate Shifts and Crop Production",
+  "author": "Jessica Myers",
+  "affiliation": "USDA-ARS",
+  "email": "jessica.myers@usda.gov"
+}

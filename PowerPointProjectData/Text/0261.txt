@@ -1,0 +1,6 @@
+{
+  "title": "Smartphones in Education: Enhancing Learning",
+  "author": "Sarah Jones",
+  "affiliation": "University of California, Los Angeles",
+  "email": "sarah.jones@ucla.edu"
+}

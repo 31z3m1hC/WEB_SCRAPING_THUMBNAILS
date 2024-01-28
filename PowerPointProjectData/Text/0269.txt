@@ -1,0 +1,6 @@
+{
+  "title": "Influence of Culture Music on Listening Habits",
+  "author": "Elena Ortiz",
+  "affiliation": "University of Murcia",
+  "email": "elena.ortiz@gmail.com"
+}

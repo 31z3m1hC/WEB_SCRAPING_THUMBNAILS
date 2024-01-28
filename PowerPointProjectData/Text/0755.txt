@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Power of Plants: Natural Healing Remedies",
+  "author": "Dr. Jane Williams",
+  "affiliation": "Institute of Botany and Herbal Medicine",
+  "email": "janewilliams@botanyinstitute.org"
+}

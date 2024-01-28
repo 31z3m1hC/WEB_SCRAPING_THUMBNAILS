@@ -1,0 +1,6 @@
+{
+  "title": "Investigating the Correlation: Social Media and Depression",
+  "author": "Nina Crossley",
+  "affiliation": " University of Sydney",
+  "email": "n.crossley@sydney.edu.au"
+}

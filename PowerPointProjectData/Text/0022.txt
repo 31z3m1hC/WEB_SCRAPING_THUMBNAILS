@@ -1,0 +1,6 @@
+{
+  "title": "Preventing Online Banking Fraud",
+  "author": "Sara Ahmed",
+  "affiliation": "University of Waterloo",
+  "email": "sara.ahmed@uwaterloo.ca"
+}

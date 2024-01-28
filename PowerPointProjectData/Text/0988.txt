@@ -1,0 +1,6 @@
+{
+  "title": "Budgeting Challenges in Small African Countries",
+  "author": "James Mdoe",
+  "affiliation": "University of Dodoma",
+  "email": "mdoemj@udom.ac.tz"
+}

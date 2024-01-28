@@ -1,0 +1,6 @@
+{
+  "title": "Coral Bleaching: Causes and Consequences",
+  "author": "Stacy Jupiter",
+  "affiliation": "University of Miami",
+  "email": "stacy.jupiter@miami.edu"
+}

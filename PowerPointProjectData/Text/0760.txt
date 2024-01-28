@@ -1,0 +1,6 @@
+{
+  "title": "Unraveling the Enigma of Hox Gene Duplications",
+  "author": "Devlin, Vincent H",
+  "affiliation": "University of California, San Francisco",
+  "email": "devlin@ucsf.edu"
+}

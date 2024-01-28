@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Yield with Precision Fertilization",
+  "author": "Dr. Jane Smith",
+  "affiliation": "Agriculture Research Institute",
+  "email": "jane.smith@agriresearch.org"
+}

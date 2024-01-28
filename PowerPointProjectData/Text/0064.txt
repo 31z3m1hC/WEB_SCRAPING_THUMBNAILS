@@ -1,0 +1,6 @@
+{
+  "title": "Tracking Ocean Plastics",
+  "author": "Chelsea Rochman",
+  "affiliation": "University of California, Davis",
+  "email": "crochman@ucdavis.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Music's Impact on Mood",
+  "author": "Oliver Sacks",
+  "affiliation": "Columbia University",
+  "email": "oliver.sacks@columbia.edu"
+}

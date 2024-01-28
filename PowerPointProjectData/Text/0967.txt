@@ -1,0 +1,6 @@
+{
+  "title": "Study of Climate Change on Coral Reefs",
+  "author": "Dr. Howard Hoegh-Guldberg",
+  "affiliation": "ARC Centre of Excellence for Coral Reef Studies",
+  "email": "Howard.Hoegh-Guldberg@jcu.edu.au"
+}

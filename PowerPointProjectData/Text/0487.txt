@@ -1,0 +1,6 @@
+{
+  "title": "Gene Editing Revolution",
+  "author": "George Church",
+  "affiliation": "Harvard Medical School",
+  "email": "gschurch@genetics.med.harvard.edu"
+}

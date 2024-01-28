@@ -1,0 +1,6 @@
+{
+  "title": "Predicting Climate Change",
+  "author": "Stefan Rahmstorf",
+  "affiliation": "Potsdam Institute for Climate Impact Research",
+  "email": "stefan.rahmstorf@pik-potsdam.de"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Halos Around Distant Galaxies",
+  "author": "Robert Nemiroff",
+  "affiliation": "Michigan Technological University",
+  "email": "nemiroff@mtu.edu"
+}

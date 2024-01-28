@@ -1,0 +1,6 @@
+{
+  "title": "Impacts of Climate Change on Biodiversity",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.doe@berkeley.edu"
+}

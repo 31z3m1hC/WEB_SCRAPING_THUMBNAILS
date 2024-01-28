@@ -1,0 +1,6 @@
+{
+  "title": "Personalized Dietary Recommendation",
+  "author": "Michael Schmidt",
+  "affiliation": "Old Dominion University",
+  "email": "michael.schmidt@odu.edu"
+}

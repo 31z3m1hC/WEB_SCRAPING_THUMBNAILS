@@ -1,0 +1,6 @@
+{
+  "title": "Simplifying Quantum Computing",
+  "author": "Juan Miguel Arrazola Castillo ",
+  "affiliation": "University of Gothenburg",
+  "email": "juan.arrazola@physics.gu.se"
+}

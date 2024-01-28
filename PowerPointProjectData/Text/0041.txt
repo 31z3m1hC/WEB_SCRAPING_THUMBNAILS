@@ -1,0 +1,6 @@
+{
+  "title": "Decoding Sleep's Role in Memory",
+  "author": "Sophie StringTokenizerLapalme",
+  "affiliation": "University of California, Davis",
+  "email": "sophie@ucdavis.edu"
+}

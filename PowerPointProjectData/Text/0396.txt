@@ -1,0 +1,6 @@
+{
+  "title": "Renewable Energy Adoption",
+  "author": "Amy Westervelt",
+  "affiliation": "American Council for an Energy-Efficient Economy",
+  "email": "amy.westervelt@aceee.org"
+}

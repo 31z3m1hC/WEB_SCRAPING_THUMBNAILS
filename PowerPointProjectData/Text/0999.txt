@@ -1,0 +1,6 @@
+{
+  "title": "Alternative Fuels for Vehicles",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "MIT Energy Initiative",
+  "email": "sarah.johnson@mit.edu"
+}

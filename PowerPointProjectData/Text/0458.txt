@@ -1,0 +1,6 @@
+{
+  "title": "Plants and Climate Change",
+  "author": "Jessica Robinson",
+  "affiliation": "University of California, Berkeley",
+  "email": "jrobinson@berkeley.edu"
+}

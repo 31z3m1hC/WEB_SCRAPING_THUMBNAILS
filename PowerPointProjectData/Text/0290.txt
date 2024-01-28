@@ -1,0 +1,6 @@
+{
+  "title": "AI Enhanced Cancer Detection",
+  "author": "Micheal Stone",
+  "affiliation": "Stanford University",
+  "email": "michealstone@su.edu"
+}

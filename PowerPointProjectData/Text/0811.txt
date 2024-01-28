@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Drinking Water: A Growing Concern",
+  "author": "Sarah M. Parker",
+  "affiliation": "University of California, Berkeley",
+  "email": "sparker@berkeley.edu"
+}

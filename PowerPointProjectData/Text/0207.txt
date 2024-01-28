@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Machine Learning in Medicine",
+  "author": "Dr. Emily Jones",
+  "affiliation": "MIT University",
+  "email": "emily.jones@mit.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Impact of AI on Climate Change",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "Climate Research Institute",
+  "email": "[email protected]"
+}

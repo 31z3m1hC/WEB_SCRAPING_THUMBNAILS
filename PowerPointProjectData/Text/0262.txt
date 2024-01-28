@@ -1,0 +1,6 @@
+{
+  "title": "Predicting IoT Attacks through Machine Learning",
+  "author": "John Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "jsmith@berkeley.edu"
+}

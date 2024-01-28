@@ -1,0 +1,6 @@
+{
+  "title": "AI-Powered Prosthetic Limbs: A Revolution in Assistive Technology",
+  "author": "Dr. Emma Watson",
+  "affiliation": "University of California, Berkeley",
+  "email": "emma.watson@berkeley.edu"
+}

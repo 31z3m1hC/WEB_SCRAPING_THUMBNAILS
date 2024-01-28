@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Genetic Variations in Maize",
+  "author": "Dr. Robert Jones",
+  "affiliation": "Cornell University",
+  "email": "rjones@cornell.edu"
+}

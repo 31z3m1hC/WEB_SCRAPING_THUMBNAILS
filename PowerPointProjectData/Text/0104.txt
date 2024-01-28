@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Marine Ecosystems",
+  "author": "Dr. Susannah L. Hallett",
+  "affiliation": "University of Plymouth",
+  "email": "s.hallett@plymouth.ac.uk"
+}

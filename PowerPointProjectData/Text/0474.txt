@@ -1,0 +1,6 @@
+{
+  "title": "AI Unlocks Ancient Secrets",
+  "author": "Dr. Amanda Jenson",
+  "affiliation": "University of Oxford",
+  "email": "amanda.jensen@ox.ac.uk"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Green Spaces and Mental Health",
+  "author": "Peter James",
+  "affiliation": "University of New York",
+  "email": "peter.james@nyu.edu"
+}

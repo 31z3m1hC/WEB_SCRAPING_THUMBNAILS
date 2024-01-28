@@ -1,0 +1,6 @@
+{
+  "title": "Dairy Diet Consumption and Cardiovascular Health",
+  "author": "Dr. Amy Browning",
+  "affiliation": "University of California, Berkeley",
+  "email": "amy.browning@berkeley.edu"
+}

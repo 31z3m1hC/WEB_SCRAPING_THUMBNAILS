@@ -1,0 +1,6 @@
+{
+  "title": "Behavioral Traits Predict Ethical Leadership",
+  "author": "Bruce Avolio",
+  "affiliation": "University of Washington",
+  "email": "bavolio@uw.edu"
+}

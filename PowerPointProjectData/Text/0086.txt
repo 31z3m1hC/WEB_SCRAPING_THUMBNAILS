@@ -1,0 +1,6 @@
+{
+  "title": "Microbial Impact on Soil Health",
+  "author": "Dr. Janet Smith",
+  "affiliation": "University of Texas at Austin",
+  "email": "janet.smith@utexas.edu"
+}

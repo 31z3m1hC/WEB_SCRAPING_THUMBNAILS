@@ -1,0 +1,6 @@
+{
+  "title": "The Joy of Discovery",
+  "author": "Ms. Jane Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "researcher.jane.smith@berkeley.edu"
+}

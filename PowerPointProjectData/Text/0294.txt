@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change: Unveiling the Impacts",
+  "author": "Dr. Stephen Harris",
+  "affiliation": "Oxford University",
+  "email": "sharris@oxford.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Effects of Meditation on Mental Health",
+  "author": "Dr. Emily Rosa",
+  "affiliation": "University of California, Los Angeles",
+  "email": "emily.rosa@ucla.edu"
+}

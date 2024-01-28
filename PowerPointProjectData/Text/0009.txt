@@ -1,0 +1,6 @@
+{
+  "title": "Technology Influence: Learning Experience",
+  "author": "Jessica Surowiecki",
+  "affiliation": "Texas University",
+  "email": "jsurowiecki@utexas.edu"
+}

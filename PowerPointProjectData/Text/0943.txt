@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Neural Networks",
+  "author": "Jane Doe",
+  "affiliation": "Stanford University",
+  "email": "jane.doe@stanford.edu"
+}

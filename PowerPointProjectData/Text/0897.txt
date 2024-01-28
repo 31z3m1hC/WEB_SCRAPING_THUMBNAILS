@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Virtual Reality on Education",
+  "author": "Sarah Smith",
+  "affiliation": "Stanford University",
+  "email": "sarah.smith@stanford.edu"
+}

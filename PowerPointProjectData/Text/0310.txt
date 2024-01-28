@@ -1,0 +1,6 @@
+{
+  "title": "Innovative Hacks for Daily Life",
+  "author": "Abigail Scott",
+  "affiliation": "Home & Life Management",
+  "email": "abigail.scott@homeandlife.org"
+}

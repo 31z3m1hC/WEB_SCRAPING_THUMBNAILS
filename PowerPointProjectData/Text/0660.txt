@@ -1,0 +1,6 @@
+{
+  "title": "Green Tea Consumption and Cancer Prevention",
+  "author": "Dr. Michelle Messina",
+  "affiliation": "Harvard School of Public Health",
+  "email": "mlancaster@hsph.harvard.edu"
+}

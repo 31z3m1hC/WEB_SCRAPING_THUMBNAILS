@@ -1,0 +1,6 @@
+{
+  "title": "Short-Term Memory and the Aging Brain",
+  "author": "Brenda Miller",
+  "affiliation": "University of California, Los Angeles",
+  "email": "brenda.miller@ucla.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Cancer Detection using Artificial Intelligence",
+  "author": "Dr. Robert Green",
+  "affiliation": "Harvard University",
+  "email": "rgreen@harvard.edu"
+}

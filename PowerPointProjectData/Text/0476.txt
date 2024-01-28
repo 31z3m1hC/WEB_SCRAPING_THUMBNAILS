@@ -1,0 +1,6 @@
+{
+  "title": "Sleep Deprivation and Cardiovascular Health",
+  "author": "Dr. Matthew Walker",
+  "affiliation": "University of California, Berkeley",
+  "email": "mattwalker@berkeley.edu"
+}

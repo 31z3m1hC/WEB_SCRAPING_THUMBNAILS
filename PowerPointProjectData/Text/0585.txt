@@ -1,0 +1,6 @@
+{
+  "title": "Causes and Consequences of Global Warming",
+  "author": "Dr. James Hansen",
+  "affiliation": "Columbia University",
+  "email": "jhansen@columbia.edu"
+}

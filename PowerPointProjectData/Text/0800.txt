@@ -1,0 +1,6 @@
+{
+  "title": "Deep Learning for Language Translation",
+  "author": "John Smith",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "johnsmith@mit.edu"
+}

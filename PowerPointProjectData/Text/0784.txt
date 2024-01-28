@@ -1,0 +1,6 @@
+{
+  "title": "AI Bias: Unveiling Hidden Prejudices",
+  "author": "Dr. Emily Jones",
+  "affiliation": "MIT Computer Science",
+  "email": "emily.jones@mit.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "AI's Impact on Climate Change: Friend or Foe?",
+  "author": "Emma Thomas",
+  "affiliation": "University of California, Berkeley",
+  "email": "emma.thomas@berkeley.edu"
+}

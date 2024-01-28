@@ -1,0 +1,6 @@
+{
+  "title": "The Dynamics of Consumption",
+  "author": "Emma Markova",
+  "affiliation": "Institute for Economic Research",
+  "email": "markovae@ier.edu"
+}

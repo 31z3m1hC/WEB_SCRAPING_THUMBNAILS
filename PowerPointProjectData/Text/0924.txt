@@ -1,0 +1,6 @@
+{
+  "title": "Stressors of Immigrant Women",
+  "author": "Sarah Zhou",
+  "affiliation": "University of California, Berkeley",
+  "email": "szhou@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Music and Memory Encoding",
+  "author": "Elizabeth Hellmuth Margulis",
+  "affiliation": "University of Arkansas",
+  "email": "emarguli@uark.edu"
+}

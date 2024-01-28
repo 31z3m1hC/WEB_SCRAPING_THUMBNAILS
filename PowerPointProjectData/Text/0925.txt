@@ -1,0 +1,6 @@
+{
+  "title": "Global Warming Trend: Analyzing Planetary Data",
+  "author": "Mark Bowen-Sharpe",
+  "affiliation": "Climate Science Department, University of Oxford",
+  "email": "mark.sharpe@ou.ac.uk"
+}

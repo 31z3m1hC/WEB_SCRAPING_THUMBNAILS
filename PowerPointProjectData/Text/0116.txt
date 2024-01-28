@@ -1,0 +1,7 @@
+{
+  "title": "Telemedicine in Rural Areas",
+  "author": "Sarah Jones",
+  "affiliation": "Stanford University",
+  "email": "sarah.jones@stanford.edu",
+  "abstract": "This study evaluates the effectiveness of telemedicine in providing healthcare services to rural communities and explores the challenges and opportunities associated with its implementation."
+}

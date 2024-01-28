@@ -1,0 +1,6 @@
+{
+  "title": "Investigating Seawater Desalination Membranes",
+  "author": "Dr. Katharine Kramer",
+  "affiliation": "MIT Research Laboratory",
+  "email": "kkramer@mit.edu"
+}

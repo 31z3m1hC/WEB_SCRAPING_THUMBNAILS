@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Yield: A Biotechnological Insight",
+  "author": "Dr. Emily Williams",
+  "affiliation": "University of Agricultural Sciences",
+  "email": "emily.williams@uas.edu"
+}

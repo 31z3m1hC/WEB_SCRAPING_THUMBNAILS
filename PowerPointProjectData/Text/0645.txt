@@ -1,0 +1,6 @@
+{
+  "title": "Customer Satisfaction Analysis",
+  "author": "Steven D. Schroeder",
+  "affiliation": "Wharton School of Business",
+  "email": "steven.schroeder@wharton.upenn.edu"
+}

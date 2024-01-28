@@ -1,0 +1,6 @@
+{
+  "title": "Brain Responses to Music: Exploring Emotional Processing",
+  "author": "Elena Rodriguez",
+  "affiliation": "University of California, Berkeley",
+  "email": "elena.rodriguez@berkeley.edu"
+}

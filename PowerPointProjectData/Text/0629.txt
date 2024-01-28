@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change and Coral Bleaching",
+  "author": "Katharine Hayhoe",
+  "affiliation": "Texas Tech University",
+  "email": "hayhoe@ttu.edu"
+}

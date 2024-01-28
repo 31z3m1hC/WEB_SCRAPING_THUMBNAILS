@@ -1,0 +1,6 @@
+{
+  "title": "Adapting to Adversity: Resilience in Refugees",
+  "author": "Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sjones@berkeley.edu"
+}

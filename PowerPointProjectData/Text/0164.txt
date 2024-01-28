@@ -1,0 +1,6 @@
+{
+  "title": "Detecting Fake News with NLP",
+  "author": "Jure Leskovec",
+  "affiliation": "Stanford University",
+  "email": "jleskovec@stanford.edu"
+}

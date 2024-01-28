@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics: A Peril in the Ecosystem",
+  "author": "Julia Grilli",
+  "affiliation": "Marine Research Center for Ecology",
+  "email": "julia.grilli@mrc.edu"
+}

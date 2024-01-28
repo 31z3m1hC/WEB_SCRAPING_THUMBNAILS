@@ -1,0 +1,6 @@
+{
+  "title": "Bridging Vision and Language: A Review",
+  "author": "Kevin Shih",
+  "affiliation": "University of Pennsylvania",
+  "email": "kevin.shih@seas.upenn.edu"
+}

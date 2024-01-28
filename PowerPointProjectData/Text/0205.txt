@@ -1,0 +1,6 @@
+{
+  "title": "Relationships Among School Principals and Staff",
+  "author": "James P Spillane",
+  "affiliation": "Ohio State University",
+  "email": "jspillane@gmail.com"
+}

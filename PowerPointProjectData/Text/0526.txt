@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Marine Organisms",
+  "author": "Sarah J. Townend",
+  "affiliation": "Queen Mary University of London",
+  "email": "s.townend@qmul.ac.uk"
+}

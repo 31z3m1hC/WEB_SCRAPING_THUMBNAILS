@@ -1,0 +1,6 @@
+{
+  "title": "A New Era of Brain Imaging",
+  "author": "Charlie Wood",
+  "affiliation": "Yale University",
+  "email": "charlie.wood@yale.edu"
+}

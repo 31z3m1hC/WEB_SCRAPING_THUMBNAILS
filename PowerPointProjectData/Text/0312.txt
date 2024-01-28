@@ -1,0 +1,6 @@
+{
+  "title": "AI Meets Microbiology",
+  "author": "David Relman",
+  "affiliation": "Stanford University",
+  "email": "relman@stanford.edu"
+}

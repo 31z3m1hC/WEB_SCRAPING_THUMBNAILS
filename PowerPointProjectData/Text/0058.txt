@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change Impacts on Coastal Cities",
+  "author": "Dr. Jane Doe",
+  "affiliation": "National Oceanic and Atmospheric Administration",
+  "email": "jane.doe@noaa.gov"
+}

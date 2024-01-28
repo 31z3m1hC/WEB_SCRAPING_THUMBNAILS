@@ -1,0 +1,6 @@
+{
+  "title": "Cryptocurrency: Understanding Digital Money",
+  "author": "Jane Doe",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "jane.doe@mit.edu"
+}

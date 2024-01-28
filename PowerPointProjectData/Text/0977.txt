@@ -1,0 +1,6 @@
+{
+  "title": "Facebook's Impact on Teenagers' Mental Health",
+  "author": "Matthew Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "matthews@berkeley.edu"
+}

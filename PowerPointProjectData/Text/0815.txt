@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change: A Global Challenge",
+  "author": "John Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "johnsmith@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Minimizing Energy Consumption in Data Centers",
+  "author": "Albert Greenberg",
+  "affiliation": "Microsoft Research",
+  "email": "albertg@microsoft.com"
+}

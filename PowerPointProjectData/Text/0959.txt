@@ -1,0 +1,6 @@
+{
+  "title": "Metabolic Reprogramming in Cancer Cells",
+  "author": "Otto Warburg",
+  "affiliation": "Max Planck Institute",
+  "email": "warburg@mpi.berlin.de"
+}

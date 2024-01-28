@@ -1,0 +1,6 @@
+{
+  "title": "Brain Training's Effect on Memory",
+  "author": "Dr. Emily Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "ejones@berkeley.edu"
+}

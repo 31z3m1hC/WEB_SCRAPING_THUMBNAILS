@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Secrets of Sleep Apnea",
+  "author": "Dr. Jonathan C. Friedman",
+  "affiliation": "Beth Israel Deaconess Medical Center",
+  "email": "jfriedman@bidmc.harvard.edu"
+}

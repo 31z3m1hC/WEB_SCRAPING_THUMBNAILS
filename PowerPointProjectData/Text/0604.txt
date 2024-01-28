@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Sustainable Mobility",
+  "author": "Dr. Emily Johnson",
+  "affiliation": "University of GreenTech",
+  "email": "emily.johnson@greentech.edu"
+}

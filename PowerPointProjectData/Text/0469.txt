@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Ancient DNA Techniques: Evolution's Secrets Revealed",
+  "author": "Amelia Smith",
+  "affiliation": "University of California, San Francisco",
+  "email": "amelia.smith@ucsf.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Investigating the Connection Between Laughter and Stress",
+  "author": "Maria Jones",
+  "affiliation": "Oakwood University",
+  "email": "maria.jones@oakwood.edu"
+}

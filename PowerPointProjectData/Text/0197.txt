@@ -1,0 +1,6 @@
+{
+  "title": "Sleep and Brain Health",
+  "author": "Maiken Nedergaard",
+  "affiliation": "University of Rochester",
+  "email": "maiken.nedergaard@rochester.edu"
+}

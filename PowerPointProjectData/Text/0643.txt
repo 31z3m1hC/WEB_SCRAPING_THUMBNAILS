@@ -1,0 +1,6 @@
+{
+  "title": "Thermal Efficiency of Solar Panel",
+  "author": "Dr. Rajesh Mohan",
+  "affiliation": "IIT Madras",
+  "email": "rajeshm@iitm.ac.in"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Birds' Migratory Patterns Influenced by Climate Change",
+  "author": "Roger Joos",
+  "affiliation": "University of Zurich",
+  "email": "roger.joos@uzh.ch"
+}

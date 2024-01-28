@@ -1,0 +1,6 @@
+{
+  "title": "AI's Impact on Job Market",
+  "author": "Emily Jones",
+  "affiliation": "Harvard University",
+  "email": "emily.jones@harvard.edu"
+}

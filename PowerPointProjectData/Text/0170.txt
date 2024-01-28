@@ -1,0 +1,6 @@
+{
+  "title": "Wearable Device Tracking in Eldercare",
+  "author": "Daniel R. Patterson",
+  "affiliation": "University of Washington",
+  "email": "patterson@uw.edu"
+}

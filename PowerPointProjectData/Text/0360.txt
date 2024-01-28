@@ -1,0 +1,6 @@
+{
+  "title": "AI-Generated Music: Opportunities and Challenges",
+  "author": "Simon Colton",
+  "affiliation": "Queen Mary University of London",
+  "email": "s.colton@qmul.ac.uk"
+}

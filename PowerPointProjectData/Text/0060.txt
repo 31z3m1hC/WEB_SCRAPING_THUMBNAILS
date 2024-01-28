@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change Impacts on Agriculture",
+  "author": "Dr. Jane Smith",
+  "affiliation": "Harvard University",
+  "email": "jane.smith@harvard.edu"
+}

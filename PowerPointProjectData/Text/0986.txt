@@ -1,0 +1,6 @@
+{
+  "title": "Internet Usage in Rural Areas",
+  "author": "Aida Al-Awadhi",
+  "affiliation": "Kuwait Institute for Scientific Research",
+  "email": "aalawadi@kisr.edu.kw"
+}

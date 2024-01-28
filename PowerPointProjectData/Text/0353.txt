@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Brain's Response to Music",
+  "author": "Peter R. Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "jones@berkeley.edu"
+}

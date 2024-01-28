@@ -1,0 +1,6 @@
+{
+  "title": "Predicting Stock Prices: Machine Learning Approach",
+  "author": "Dr. John Smith",
+  "affiliation": "Financial Research Institute",
+  "email": "johnsmith@financialresearchinstitute.org"
+}

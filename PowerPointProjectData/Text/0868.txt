@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Solar Energy's Potential",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "Green Energy Research Institute",
+  "email": "sarah.johnson@greenenergy.org"
+}

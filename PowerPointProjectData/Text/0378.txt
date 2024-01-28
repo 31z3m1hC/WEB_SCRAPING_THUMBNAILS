@@ -1,0 +1,6 @@
+{
+  "title": "Species Diversity and Conservation Status",
+  "author": "Maria Luisa Martinez",
+  "affiliation": "Columbia University",
+  "email": "mlmartinez@columbia.edu"
+}

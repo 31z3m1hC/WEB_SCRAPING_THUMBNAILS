@@ -1,0 +1,6 @@
+{
+  "title": "Smoking Habits Among Teenagers",
+  "author": "Sarah Johnson",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarahjohnson@berkeley.edu"
+}

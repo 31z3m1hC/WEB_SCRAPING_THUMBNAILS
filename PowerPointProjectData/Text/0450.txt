@@ -1,0 +1,6 @@
+{
+  "title": "Computers Understanding Human Emotions",
+  "author": "Niloufar Salehi",
+  "affiliation": "University of California, Berkeley",
+  "email": "nsalehi@eecs.berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Muscle Growth: Unraveling the Molecular Mechanisms",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "Harvard Medical School",
+  "email": "sarah.johnson@hms.harvard.edu"
+}

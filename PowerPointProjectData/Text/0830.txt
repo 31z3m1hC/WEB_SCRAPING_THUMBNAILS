@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Remote Work Patterns",
+  "author": "Jane Doe",
+  "affiliation": "New York University",
+  "email": "jane.doe@nyu.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "AI-powered Algorithms for Accurate Language Translation",
+  "author": "Patricia Blum",
+  "affiliation": "Stanford University",
+  "email": "pblum@stanford.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Hybrid AI: A Novel Approach",
+  "author": "Dr. Maria Adams",
+  "affiliation": "MIT Research Lab",
+  "email": "maria.adams@mit.edu"
+}

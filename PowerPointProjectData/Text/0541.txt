@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Chatbot Efficiency",
+  "author": "Sophia Jones",
+  "affiliation": "New York University",
+  "email": "sophiajones@nyu.edu"
+}

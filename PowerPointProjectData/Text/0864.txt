@@ -1,0 +1,6 @@
+{
+  "title": "AI Assistants: Revolutionizing Customer Service",
+  "author": "Dr. James Morgan",
+  "affiliation": "Tech University",
+  "email": "james.morgan@techuni.edu"
+}

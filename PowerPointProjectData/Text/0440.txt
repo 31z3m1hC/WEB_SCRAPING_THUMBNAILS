@@ -1,0 +1,6 @@
+{
+  "title": "Gamified Learning: Improving Student Engagement",
+  "author": "Melanie Davenport",
+  "affiliation": "University of California, Berkeley",
+  "email": "mdavenport@berkeley.edu"
+}

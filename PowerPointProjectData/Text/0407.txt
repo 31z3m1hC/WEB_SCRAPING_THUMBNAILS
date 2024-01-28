@@ -1,0 +1,6 @@
+{
+  "title": "Influence of Mindfulness on Academic Performance",
+  "author": "Emily A. Smith",
+  "affiliation": "Oxford University",
+  "email": "emily.smith@ox.ac.uk"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Improving Sleep Quality for Seniors",
+  "author": "Dr. Emily Reynolds",
+  "affiliation": "University of California, Berkeley",
+  "email": "emily.reynolds@berkeley.edu"
+}

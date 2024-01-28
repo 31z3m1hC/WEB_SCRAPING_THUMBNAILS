@@ -1,0 +1,6 @@
+{
+  "title": "Improving Crop Yields: Role of Symbiotic Nitrogen Fixation",
+  "author": "Dr. Jane Smith",
+  "affiliation": "Agricultural Research Institute",
+  "email": "jane.smith@agrinst.org"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Virtual Reality for Pain Relief",
+  "author": "Dr. Jane Doe",
+  "affiliation": "Harvard Medical School",
+  "email": "jane.doe@hms.harvard.edu"
+}

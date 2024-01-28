@@ -1,0 +1,6 @@
+{
+  "title": "Language Models' Impact on Human Creativity",
+  "author": "Emma Watson",
+  "affiliation": "Brown University",
+  "email": "emma_watson@brown.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Migration and Mental Health",
+  "author": "Sarah Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "smith@berkeley.edu"
+}

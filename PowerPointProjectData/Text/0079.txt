@@ -1,0 +1,6 @@
+{
+  "title": "Germ-resistant Textiles: Innovation for Healthcare",
+  "author": "Mary Johnson",
+  "affiliation": "Textile Research Institute",
+  "email": "mary.johnson@textilerisearch.org"
+}

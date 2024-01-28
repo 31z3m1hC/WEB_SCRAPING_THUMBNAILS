@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Enigma of Consciousness",
+  "author": "Dr. Susan Greenfield",
+  "affiliation": "University of Sussex",
+  "email": "s.greenfield@sussex.ac.uk"
+}

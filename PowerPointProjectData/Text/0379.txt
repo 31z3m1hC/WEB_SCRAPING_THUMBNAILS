@@ -1,0 +1,6 @@
+{
+  "title": "Genetic Variations in Autism",
+  "author": "Simon E. Fisher",
+  "affiliation": "MRC SGDP Centre, UK",
+  "email": "s.fisher@mrc-sgdp.ac.uk"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy in India: Status and Future",
+  "author": "M. R. Ramesh",
+  "affiliation": "Indian Institute of Science",
+  "email": "mramesh@iisc.ac.in"
+}

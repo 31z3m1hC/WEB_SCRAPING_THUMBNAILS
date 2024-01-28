@@ -1,0 +1,6 @@
+{
+  "title": "Tree Rings: Climate Clues",
+  "author": "M. L. Cleaveland",
+  "affiliation": "Univ. of Tennessee, Knoxville",
+  "email": "mcleaveland1@utk.edu"
+}

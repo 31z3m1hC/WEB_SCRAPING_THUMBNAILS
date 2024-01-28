@@ -1,0 +1,6 @@
+{
+  "title": "Social Interaction of Insects",
+  "author": "Gloria A. Wyngaard",
+  "affiliation": "Cornell University",
+  "email": "gsw@cornell.edu"
+}

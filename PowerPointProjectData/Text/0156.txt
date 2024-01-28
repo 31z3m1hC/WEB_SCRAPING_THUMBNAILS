@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Urban Heat Islands and Their Impact",
+  "author": "Elizabeth Atkinson",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "eatkinson@mit.edu"
+}

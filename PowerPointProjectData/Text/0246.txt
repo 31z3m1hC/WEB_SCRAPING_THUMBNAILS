@@ -1,0 +1,6 @@
+{
+  "title": "Coffee Consumption and Health",
+  "author": "Yangmin Chen",
+  "affiliation": "University of Otago",
+  "email": "yangmin.chen@phd.otago.ac.nz"
+}

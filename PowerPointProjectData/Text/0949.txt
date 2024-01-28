@@ -1,0 +1,6 @@
+{
+  "title": "Artistic Mind and Memories",
+  "author": "Rebecca Chamberlain",
+  "affiliation": "University of London",
+  "email": "rebecca.chamberlain@london.ac.uk"
+}

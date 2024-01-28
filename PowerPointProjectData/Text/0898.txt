@@ -1,0 +1,6 @@
+{
+  "title": "COVID-19 and the Global Economy",
+  "author": "Carmen M. Reinhart",
+  "affiliation": "Harvard University",
+  "email": "carmen_reinhart@harvard.edu"
+}

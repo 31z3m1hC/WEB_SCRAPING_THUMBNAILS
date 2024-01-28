@@ -1,0 +1,6 @@
+{
+  "title": "Treatment of COVID-19 Patients",
+  "author": "Dr. Anthony Fauci",
+  "affiliation": "National Institutes of Health",
+  "email": "anthony.fauci@nih.gov"
+}

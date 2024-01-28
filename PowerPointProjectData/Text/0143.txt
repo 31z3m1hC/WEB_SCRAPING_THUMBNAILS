@@ -1,0 +1,6 @@
+{
+  "title": "Quantum Entanglement: Past, Present, and Future",
+  "author": "Dr. Marina A. Cveti\u010d",
+  "affiliation": "Perimeter Institute for Theoretical Physics",
+  "email": "marina.cvetic@utoronto.ca"
+}

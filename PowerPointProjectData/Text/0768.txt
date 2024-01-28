@@ -1,0 +1,6 @@
+{
+  "title": "The Benefits of Exercise",
+  "author": "Dr. Jane Doe",
+  "affiliation": "Harvard University",
+  "email": "jane.doe@harvard.edu"
+}

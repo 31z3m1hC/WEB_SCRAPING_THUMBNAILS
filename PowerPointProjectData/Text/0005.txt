@@ -1,0 +1,6 @@
+{
+  "title": "The Value of Online Collaboration Tools in Research Collaboration",
+  "author": "Julia A. Victor",
+  "affiliation": "Australian Research Institute",
+  "email": "julia.victor@ari.edu.au"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Sea Level Rise and Coastal Cities",
+  "author": "Robert J. Nicholls",
+  "affiliation": "University of East Anglia",
+  "email": "r.j.nicholls@uea.ac.uk"
+}

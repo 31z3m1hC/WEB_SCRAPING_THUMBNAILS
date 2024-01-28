@@ -1,0 +1,6 @@
+{
+  "title": "Carbon Nanotubes for Energy Storage",
+  "author": "Richard M. Crooks",
+  "affiliation": "Department of Chemistry, Texas A&M University",
+  "email": "r-crooks@tamu.edu"
+}

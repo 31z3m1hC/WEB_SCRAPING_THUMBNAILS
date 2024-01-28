@@ -1,0 +1,6 @@
+{
+  "title": "Connected Autonomous Vehicles: Future of Mobility",
+  "author": "Omar Zahran",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "ozahran@mit.edu"
+}

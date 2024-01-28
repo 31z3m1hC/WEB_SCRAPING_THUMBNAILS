@@ -1,0 +1,6 @@
+{
+  "title": "AI-enabled Cancer Detection",
+  "author": "Dr. Susan Graham",
+  "affiliation": "University of California, Berkeley",
+  "email": "susan.graham@berkeley.edu"
+}

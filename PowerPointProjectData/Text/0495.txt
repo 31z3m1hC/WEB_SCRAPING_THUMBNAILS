@@ -1,0 +1,6 @@
+{
+  "title": "Remote Learning: Impact on Student Achievement",
+  "author": "Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

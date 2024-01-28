@@ -1,0 +1,6 @@
+{
+  "title": "Harnessing Light for Clean Energy",
+  "author": "Rajendra Prasad",
+  "affiliation": "Indian Institute of Technology, Madras",
+  "email": "rajendra_prasad@iitm.ac.in"
+}

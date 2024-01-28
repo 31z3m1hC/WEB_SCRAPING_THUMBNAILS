@@ -1,0 +1,6 @@
+{
+  "title": "Eco-Friendly Energy Generation",
+  "author": "Steven Chu",
+  "affiliation": "Stanford University",
+  "email": "steven.chu@stanford.edu"
+}

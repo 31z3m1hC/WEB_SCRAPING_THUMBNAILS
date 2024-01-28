@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Yield with AI and Drones",
+  "author": "Dr. Sarah Williams",
+  "affiliation": "University of California, Davis",
+  "email": "swilliams@ucdavis.edu"
+}

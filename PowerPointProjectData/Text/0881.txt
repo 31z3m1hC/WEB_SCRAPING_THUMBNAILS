@@ -1,0 +1,6 @@
+{
+  "title": "Mitigating Climate Change with Hydrogen Fuel",
+  "author": "Dr. Sarah Wilson",
+  "affiliation": "University of California, Berkeley",
+  "email": "swilson@berkeley.edu"
+}

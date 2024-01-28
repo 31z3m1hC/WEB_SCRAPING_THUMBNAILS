@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Social Media on Mental Health",
+  "author": "Susan Greenfield",
+  "affiliation": "Oxford University",
+  "email": "susan.greenfield@ox.ac.uk"
+}

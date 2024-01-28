@@ -1,0 +1,6 @@
+{
+  "title": "Nanoscale Control of Crystal Growth",
+  "author": "Chang-Yong Nam",
+  "affiliation": "University of California, Berkeley",
+  "email": "nam@berkeley.edu"
+}

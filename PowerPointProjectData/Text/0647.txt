@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Secrets of Plant Adaptations",
+  "author": "Jennifer Lopez",
+  "affiliation": "National Park Service",
+  "email": "jennifer.lopez@nps.gov"
+}

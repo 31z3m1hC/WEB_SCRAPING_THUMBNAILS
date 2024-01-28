@@ -1,0 +1,6 @@
+{
+  "title": "The Internet: A Global Connection",
+  "author": "John Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "jsmith@berkeley.edu"
+}

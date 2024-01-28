@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Solar Activity on Earth's Climate",
+  "author": "Isabella Bucchieri",
+  "affiliation": "National Institute of Geophysics and Volcanology",
+  "email": "isabella.bucchieri@ingv.it"
+}

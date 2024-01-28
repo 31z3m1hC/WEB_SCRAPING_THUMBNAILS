@@ -1,0 +1,6 @@
+{
+  "title": "Personalized Medicine: Tailoring Treatment to Individuals",
+  "author": "Sarah Gilbert",
+  "affiliation": "University of Oxford",
+  "email": "sarah.gilbert@ox.ac.uk"
+}

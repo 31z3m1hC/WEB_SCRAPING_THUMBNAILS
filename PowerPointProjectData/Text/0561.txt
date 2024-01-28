@@ -1,0 +1,6 @@
+{
+  "title": "Language Learning Strategies in Second Language Acquisition",
+  "author": "Mohamed Abdel-Maksoud",
+  "affiliation": "Faculty of Languages and Translation, Al Azhar University",
+  "email": "maksoud.titi@azhar.edu.eg"
+}

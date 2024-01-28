@@ -1,0 +1,6 @@
+{
+  "title": "Self-Learning in Artificial Intelligence",
+  "author": "Andrew Ng",
+  "affiliation": "Google Brain",
+  "email": "andrew@google.com"
+}

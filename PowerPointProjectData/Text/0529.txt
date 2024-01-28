@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Yield via AI",
+  "author": "Dr. Emily Carter",
+  "affiliation": "Harvard University",
+  "email": "emily.carter@g.harvard.edu"
+}

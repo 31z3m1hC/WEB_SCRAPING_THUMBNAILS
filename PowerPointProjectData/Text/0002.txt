@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Climate Change's Impact on Arctic Sea Ice",
+  "author": "Dr. Victoria Martinson",
+  "affiliation": "University of Washington",
+  "email": "vicky@uw.edu"
+}

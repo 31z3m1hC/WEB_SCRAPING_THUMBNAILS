@@ -1,0 +1,6 @@
+{
+  "title": "Shifting Perspectives: Exploring New Paradigms",
+  "author": "William Gibson",
+  "affiliation": "University of British Columbia",
+  "email": "william.gibson@ubc.ca"
+}

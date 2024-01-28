@@ -1,0 +1,6 @@
+{
+  "title": "Emerging Trends in 5G Networks",
+  "author": "Theodore S. Rappaport",
+  "affiliation": "NYU Tandon School of Engineering",
+  "email": "tsr@nyu.edu"
+}

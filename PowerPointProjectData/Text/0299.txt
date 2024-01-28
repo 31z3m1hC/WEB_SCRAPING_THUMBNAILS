@@ -1,0 +1,6 @@
+{
+  "title": "Language Models: Paving the Path to Conversational AI",
+  "author": "Emily M. Bender",
+  "affiliation": "University of Washington",
+  "email": "ebender@uw.edu"
+}

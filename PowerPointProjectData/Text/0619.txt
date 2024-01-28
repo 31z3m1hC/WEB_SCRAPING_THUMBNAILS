@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Secrets of Human Intelligence",
+  "author": "Robert J. Sternberg",
+  "affiliation": "Yale University",
+  "email": "robert.sternberg@yale.edu"
+}

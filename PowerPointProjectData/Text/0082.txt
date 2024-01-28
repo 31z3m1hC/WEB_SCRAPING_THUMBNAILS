@@ -1,0 +1,6 @@
+{
+  "title": "Lighting Quality for Sleep Enhancement",
+  "author": "Mariana Figueiro",
+  "affiliation": "Lighting Research Center",
+  "email": "mf@lrc.rpi.edu"
+}

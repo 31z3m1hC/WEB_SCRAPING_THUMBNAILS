@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Brain Networks",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "Neuroscience Research Center",
+  "email": "sarah.jones@neuroscience.org"
+}

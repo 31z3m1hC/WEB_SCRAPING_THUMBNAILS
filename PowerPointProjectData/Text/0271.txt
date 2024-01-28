@@ -1,0 +1,6 @@
+{
+  "title": "Artificial Intelligence in Self-Driving Cars",
+  "author": "Christopher Brooks",
+  "affiliation": "University of California, Berkeley",
+  "email": "brooks.c@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "AI bias in Hiring Process",
+  "author": "Dr. Amit Sharma",
+  "affiliation": "IIIT Bangalore",
+  "email": "amit.sharma@iiitb.ac.in"
+}

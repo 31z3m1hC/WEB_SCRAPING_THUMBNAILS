@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Gender Differences in Student Engagement",
+  "author": "Elizabeth Johnson",
+  "affiliation": "University of California, Berkeley",
+  "email": "ejohnson@berkeley.edu"
+}

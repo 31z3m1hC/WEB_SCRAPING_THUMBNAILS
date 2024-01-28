@@ -1,0 +1,6 @@
+{
+  "title": "Seaweed: A Sustainable Food Source",
+  "author": "Dr. Jane Doe",
+  "affiliation": "Marine Biology Research Center",
+  "email": "jdoe@mbrcenter.org"
+}

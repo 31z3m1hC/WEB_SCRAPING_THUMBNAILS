@@ -1,0 +1,6 @@
+{
+  "title": "Unraveling the Impact of Social Media on Political Polarization",
+  "author": "Aditi Shree",
+  "affiliation": "University of California, Berkeley",
+  "email": "aditishree@berkeley.edu"
+}

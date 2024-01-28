@@ -1,0 +1,6 @@
+{
+  "title": "Tree Diversity's Links to Bird Abundance",
+  "author": "Jeremy A. Martin",
+  "affiliation": "University of New Mexico",
+  "email": "Jeremy.Martin@unm.edu"
+}

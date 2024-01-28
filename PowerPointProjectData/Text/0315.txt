@@ -1,0 +1,6 @@
+{
+  "title": "Coffee Consumption and Sleep Quality",
+  "author": "Jack. K. Dorsey",
+  "affiliation": "Faculty of Medicine, Stanford University",
+  "email": "jackkd@stanford.edu"
+}

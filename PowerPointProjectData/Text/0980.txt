@@ -1,0 +1,6 @@
+{
+  "title": "COVID Immunity and Vaccine",
+  "author": "Dr. Anthony Fauci",
+  "affiliation": "National Institute of Allergy and Infectious Diseases",
+  "email": "Fauci@niaid.nih.gov"
+}

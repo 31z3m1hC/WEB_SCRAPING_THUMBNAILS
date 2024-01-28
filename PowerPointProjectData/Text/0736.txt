@@ -1,0 +1,6 @@
+{
+  "title": "Food Preferences of Honey Bees",
+  "author": "Karl von Frisch",
+  "affiliation": "University of Munich",
+  "email": "karl.frisch@zoology.mpg.de"
+}

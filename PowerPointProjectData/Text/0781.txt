@@ -1,0 +1,6 @@
+{
+  "title": "Decoding Ancient Genomes Unveils Human History",
+  "author": "David Reich",
+  "affiliation": "Harvard Medical School",
+  "email": "david.reich@genetics.med.harvard.edu"
+}

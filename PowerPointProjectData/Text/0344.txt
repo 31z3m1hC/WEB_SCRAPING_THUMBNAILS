@@ -1,0 +1,6 @@
+{
+  "title": "Probiotics: Allies in Gut Health",
+  "author": "Emma Watson",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "emma.watson@mit.edu"
+}

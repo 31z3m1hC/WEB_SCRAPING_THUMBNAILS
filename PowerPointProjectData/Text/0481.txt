@@ -1,0 +1,6 @@
+{
+  "title": "AI for Climate Change",
+  "author": "David Rolnick",
+  "affiliation": "UC Berkeley",
+  "email": "rolnick@berkeley.edu"
+}

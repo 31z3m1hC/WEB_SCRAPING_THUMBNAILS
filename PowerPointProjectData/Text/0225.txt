@@ -1,0 +1,6 @@
+{
+  "title": "The Mighty Mice",
+  "author": "Charles Francis",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "charles.francis@mit.edu"
+}

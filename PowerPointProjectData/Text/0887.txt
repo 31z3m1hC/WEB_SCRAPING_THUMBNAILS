@@ -1,0 +1,6 @@
+{
+  "title": "Low-Carb Diets and Weight Loss",
+  "author": "Emma Campbell",
+  "affiliation": "University of California, Berkeley",
+  "email": "ecampbell@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Sugar Consumption and Its Impact",
+  "author": "Dr. Emma Watson",
+  "affiliation": "Harvard University",
+  "email": "emma.watson@harvard.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "E-Commerce Boom: Implication on Sustainability",
+  "author": "Isabella Villasenor",
+  "affiliation": "University of Texas at Austin",
+  "email": "isabella.villasenor@utexas.edu"
+}

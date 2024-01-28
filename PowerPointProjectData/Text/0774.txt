@@ -1,0 +1,6 @@
+{
+  "title": "Cancer Journey: Uncovering Treatment Options",
+  "author": "Dr. Sarah Williamson",
+  "affiliation": "Oncology Research Institute",
+  "email": "swilliamson@ori.org"
+}

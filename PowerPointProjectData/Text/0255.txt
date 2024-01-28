@@ -1,0 +1,6 @@
+{
+  "title": "AI Revolution in Healthcare",
+  "author": "Dr. Emily Jones",
+  "affiliation": "Stanford University",
+  "email": "emily.jones@stanford.edu"
+}

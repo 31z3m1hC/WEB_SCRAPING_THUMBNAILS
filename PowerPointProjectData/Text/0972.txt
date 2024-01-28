@@ -1,0 +1,6 @@
+{
+  "title": "Sustainable Power for Remote Villages",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "Cambridge University",
+  "email": "sarah.johnson@cambridge.edu"
+}

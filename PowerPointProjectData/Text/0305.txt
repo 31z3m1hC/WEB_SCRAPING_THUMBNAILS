@@ -1,0 +1,6 @@
+{
+  "title": "Healthy Diet: Impact on Heart Health",
+  "author": "Dr. Lily Chen",
+  "affiliation": "Harvard Medical School",
+  "email": "lchen@hms.harvard.edu"
+}

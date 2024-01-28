@@ -1,0 +1,6 @@
+{
+  "title": "Decoding the Language of Bees",
+  "author": "Dr. Karl von Frisch",
+  "affiliation": "University of Vienna",
+  "email": "friedrich.frisch@univie.ac.at"
+}

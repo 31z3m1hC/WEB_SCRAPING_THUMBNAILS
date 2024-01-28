@@ -1,0 +1,6 @@
+{
+  "title": "Unlocking Memory Secrets: Visual Stimulation",
+  "author": "Dr. Catherine Yoon",
+  "affiliation": "University of California, Irvine",
+  "email": "cyoon@uci.edu"
+}

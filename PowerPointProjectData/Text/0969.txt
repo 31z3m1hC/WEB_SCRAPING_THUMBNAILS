@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Secrets of Coral Reef Resilience",
+  "author": "Marina G. Heyward",
+  "affiliation": "Australian Institute of Marine Science",
+  "email": "m.heyward@aims.gov.au"
+}

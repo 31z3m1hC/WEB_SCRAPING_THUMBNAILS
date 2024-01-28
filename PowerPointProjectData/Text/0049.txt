@@ -1,0 +1,6 @@
+{
+  "title": "Sea Turtles' Journey",
+  "author": "Samantha Davis",
+  "affiliation": "University of California, San Diego",
+  "email": "Samantha.davis@ucsd.edu"
+}

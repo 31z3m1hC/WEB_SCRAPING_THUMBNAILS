@@ -1,0 +1,6 @@
+{
+  "title": "Digital divide and inequality",
+  "author": "Richard Van Noorden",
+  "affiliation": "Nature Magazine",
+  "email": "r.vanoorden@nature.com"
+}

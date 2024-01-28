@@ -1,0 +1,6 @@
+{
+  "title": "Birds' Nests Salubrious Abodes",
+  "author": "Cornelia Tarnita",
+  "affiliation": "Cornell University",
+  "email": "cet3@cornell.edu"
+}

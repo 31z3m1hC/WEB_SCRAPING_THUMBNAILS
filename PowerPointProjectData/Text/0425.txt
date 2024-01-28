@@ -1,0 +1,6 @@
+{
+  "title": "Economic Impact of Climate Change",
+  "author": "Dr. Patricia Espinosa",
+  "affiliation": "United Nations Framework Convention on Climate Change",
+  "email": "Patricia.Espinosa@unfccc.int"
+}

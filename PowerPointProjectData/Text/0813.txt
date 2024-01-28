@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crops with Genetic Engineering",
+  "author": "Pamela Ronald",
+  "affiliation": "University of California, Davis",
+  "email": "pamelaronald@ucdavis.edu"
+}

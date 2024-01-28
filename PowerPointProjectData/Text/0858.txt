@@ -1,0 +1,6 @@
+{
+  "title": "Mindfulness and Workplace Well-being",
+  "author": "Sarah Miller",
+  "affiliation": "University of California, Berkeley",
+  "email": "smiller@berkeley.edu"
+}

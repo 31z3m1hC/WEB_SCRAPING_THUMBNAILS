@@ -1,0 +1,6 @@
+{
+  "title": "Can Laughter Really Heal?",
+  "author": "Jacob M. Appel",
+  "affiliation": "Palo Alto University",
+  "email": "appelj@paloaltou.edu"
+}

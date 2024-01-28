@@ -1,0 +1,6 @@
+{
+  "title": "Impacts of Plastic Bags on Marine Life",
+  "author": "Dr. Jane Doe",
+  "affiliation": "University of California, Santa Barbara",
+  "email": "jane.doe@ucsb.edu"
+}

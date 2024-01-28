@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Smartphone Addiction on Adolescents",
+  "author": "Sarah Johnson",
+  "affiliation": "Stanford University",
+  "email": "sarah.johnson@stanford.edu"
+}

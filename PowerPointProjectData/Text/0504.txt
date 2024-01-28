@@ -1,0 +1,6 @@
+{
+  "title": "AI in Medical Diagnosis: Unveiling Possibilities",
+  "author": "Dr. Emily Carter",
+  "affiliation": "Stanford University",
+  "email": "ecarter@stanford.edu"
+}

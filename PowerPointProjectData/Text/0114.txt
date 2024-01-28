@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Marine Organisms",
+  "author": "Sakurako Okubo",
+  "affiliation": "University of Tokyo",
+  "email": "okubo@botany.u-tokyo.ac.jp"
+}

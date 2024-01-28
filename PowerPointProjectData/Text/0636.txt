@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Sleep on Memory Consolidation",
+  "author": "Dr. Richard Jones",
+  "affiliation": "Zurich University",
+  "email": "richard.jones@zurich.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "AI for Climate Change",
+  "author": "Dr. Jennifer Turner",
+  "affiliation": "University of Oxford",
+  "email": "jennifer.turner@oxford.ac.uk"
+}

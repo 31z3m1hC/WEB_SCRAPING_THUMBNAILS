@@ -1,0 +1,6 @@
+{
+  "title": "Evolution of Ancient Life",
+  "author": "David Attenborough",
+  "affiliation": "University of Cambridge",
+  "email": "d.attenborough@cam.ac.uk"
+}

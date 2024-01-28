@@ -1,0 +1,6 @@
+{
+  "title": "Ancient Art: A Lens into the Past",
+  "author": "Dr. Emily Carter",
+  "affiliation": "Cambridge University",
+  "email": "emily.carter@cambridge.edu"
+}

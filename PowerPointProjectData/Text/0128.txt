@@ -1,0 +1,6 @@
+{
+  "title": "Ocean Acidity Threatens Marine Life",
+  "author": "Jane Smith",
+  "affiliation": "Marine Biology Institute",
+  "email": "jane.smith@marinebiologyinstitute.org"
+}

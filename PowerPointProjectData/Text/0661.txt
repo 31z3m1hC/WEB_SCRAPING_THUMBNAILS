@@ -1,0 +1,6 @@
+{
+  "title": "Crowdsourced Data Quality Assessment",
+  "author": "Gokul P.G.",
+  "affiliation": "University of Oxford",
+  "email": "gokul.krishnan@cs.ox.ac.uk"
+}

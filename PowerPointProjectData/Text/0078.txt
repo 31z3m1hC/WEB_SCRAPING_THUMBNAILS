@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Cellular Secrets: Gene Expression Analysis",
+  "author": "Sarah J. Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.smith@berkeley.edu"
+}

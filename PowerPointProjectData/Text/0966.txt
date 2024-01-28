@@ -1,0 +1,6 @@
+{
+  "title": "Online Learning: Impact on Student Performance",
+  "author": "Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "COVID-19 Vaccines: Public Perception and Willingness to Vaccinate",
+  "author": "Sarah A. Clark",
+  "affiliation": "University of Pennsylvania",
+  "email": "sclark@sas.upenn.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Racial Disparities in Maternal Mortality Rates",
+  "author": "Melissa A. Simon",
+  "affiliation": "Harvard T.H. Chan School of Public Health",
+  "email": "melissa_simon@hsph.harvard.edu"
+}

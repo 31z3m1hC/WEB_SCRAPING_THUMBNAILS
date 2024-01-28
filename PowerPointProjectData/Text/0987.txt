@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Secrets of Sleep: A Comprehensive Analysis",
+  "author": "Dr. Christina Santos",
+  "affiliation": "National Institute of Sleep Research",
+  "email": "christina.santos@nisr.org"
+}

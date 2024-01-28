@@ -1,0 +1,6 @@
+{
+  "title": "Cyberbullying: A Virtual Threat to Kids",
+  "author": "Jessica Henderson",
+  "affiliation": "Oxford University",
+  "email": "jhendersson@example.org"
+}

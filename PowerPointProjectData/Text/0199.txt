@@ -1,0 +1,6 @@
+{
+  "title": "Decoding the Secrets of Photosynthesis: A Journey into Plant Life",
+  "author": "Dr. Jane Morris",
+  "affiliation": "University of California, Berkeley",
+  "email": "jmorris@berkeley.edu"
+}

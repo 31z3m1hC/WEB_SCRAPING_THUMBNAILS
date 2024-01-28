@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Social Media on Mental Health",
+  "author": "Robert E. Kraut",
+  "affiliation": "Carnegie Mellon University",
+  "email": "kraut@cs.cmu.edu"
+}

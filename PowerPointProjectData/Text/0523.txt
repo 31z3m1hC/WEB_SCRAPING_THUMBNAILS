@@ -1,0 +1,6 @@
+{
+  "title": "The Role of Sleep in Memory Consolidation",
+  "author": "Matthew Walker",
+  "affiliation": "University of California, Berkeley",
+  "email": "walker@berkeley.edu"
+}

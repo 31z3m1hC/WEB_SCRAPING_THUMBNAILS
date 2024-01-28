@@ -1,0 +1,6 @@
+{
+  "title": "Brain Scans Predict Alzheimer's Disease",
+  "author": "Michelle Mielke",
+  "affiliation": "Washington University School of Medicine",
+  "email": "mielkem@neuro.wustl.edu"
+}

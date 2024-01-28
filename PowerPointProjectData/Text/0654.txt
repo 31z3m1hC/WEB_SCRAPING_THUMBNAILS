@@ -1,0 +1,6 @@
+{
+  "title": "Assessing Regional Variations in Cancer Rates",
+  "author": "Dr. Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.doe@berkeley.edu"
+}

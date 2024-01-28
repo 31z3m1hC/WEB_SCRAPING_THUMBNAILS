@@ -1,0 +1,6 @@
+{
+  "title": "Impacts of Climate Change on Forests",
+  "author": "Dr. Jane Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.smith@berkeley.edu"
+}

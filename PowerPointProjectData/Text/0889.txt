@@ -1,0 +1,6 @@
+{
+  "title": "Internet Addiction Among College Students",
+  "author": "Ashley A. Smith",
+  "affiliation": "University of California, San Diego",
+  "email": "ashley_smith@ucsd.edu"
+}

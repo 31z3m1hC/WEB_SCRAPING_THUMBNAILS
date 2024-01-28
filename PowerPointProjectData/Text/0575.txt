@@ -1,0 +1,6 @@
+{
+  "title": "Predicting Diabetes Risk through Lifestyle",
+  "author": "Shahraban Zehra",
+  "affiliation": "University of Texas, Austin",
+  "email": "shahrazban.zehra@austex.edu"
+}

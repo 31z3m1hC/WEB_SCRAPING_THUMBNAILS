@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Autism Spectrum Disorder",
+  "author": "Hannah Davies",
+  "affiliation": "University of California, Los Angeles",
+  "email": "hannah.davies@ucla.edu"
+}

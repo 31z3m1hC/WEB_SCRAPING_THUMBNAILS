@@ -1,0 +1,6 @@
+{
+  "title": "Robotics: Shaping the Future of Work",
+  "author": "Sarah Smith",
+  "affiliation": "Carnegie Mellon University",
+  "email": "sarah.smith@example.edu"
+}

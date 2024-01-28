@@ -1,0 +1,6 @@
+{
+  "title": "Mental Health Impact of Social Isolation",
+  "author": "Emilia Barder",
+  "affiliation": "New York University",
+  "email": "emilia.barder@nyu.edu"
+}

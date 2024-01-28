@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Enigma of Black Holes",
+  "author": "Stephen Hawking",
+  "affiliation": "University of Cambridge",
+  "email": "s.w.hawking@damtp.cam.ac.uk"
+}

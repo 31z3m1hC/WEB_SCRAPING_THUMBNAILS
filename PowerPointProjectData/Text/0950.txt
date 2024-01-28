@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Climate Change on Global Fisheries",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Santa Barbara",
+  "email": "jane.doe@ucsb.edu"
+}

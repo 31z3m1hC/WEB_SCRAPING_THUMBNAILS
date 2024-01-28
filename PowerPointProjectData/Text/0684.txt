@@ -1,0 +1,6 @@
+{
+  "title": "AI-Generated Poetry: Beauty in Bits and Bytes",
+  "author": "Dr. Emily Lewis",
+  "affiliation": "University of California, Berkeley",
+  "email": "elewis@berkeley.edu"
+}

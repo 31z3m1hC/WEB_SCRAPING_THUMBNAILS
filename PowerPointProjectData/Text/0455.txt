@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Secrets of the Great Barrier Reef",
+  "author": "Jane Davis",
+  "affiliation": "Oceanographic Research Institute",
+  "email": "jane.davis@oceanresearch.org"
+}

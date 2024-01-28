@@ -1,0 +1,6 @@
+{
+  "title": "Edible Insects: Sustainable Food for Future",
+  "author": "Dr. Sarah Hoffman",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.hoffman@berkeley.edu"
+}

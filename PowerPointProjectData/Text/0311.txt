@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy Efficiency",
+  "author": "Dr. Stephen Curry",
+  "affiliation": "Stanford University",
+  "email": "stephen.curry@stanford.edu"
+}

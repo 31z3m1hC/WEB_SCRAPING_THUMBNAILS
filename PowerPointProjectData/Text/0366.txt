@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Alzheimer's Hidden Patterns",
+  "author": "Dr. Ella Watson",
+  "affiliation": "Neuroscience Research Institute",
+  "email": "ewatson@nri.org"
+}

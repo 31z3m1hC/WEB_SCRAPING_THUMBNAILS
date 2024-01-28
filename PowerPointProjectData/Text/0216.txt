@@ -1,0 +1,6 @@
+{
+  "title": "Multitasking at Work: Productivity or Peril?",
+  "author": "Sarah Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.smith@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Music and Memory Formation",
+  "author": "Oliver Sacks",
+  "affiliation": "Columbia University",
+  "email": "osacks@columbia.edu"
+}

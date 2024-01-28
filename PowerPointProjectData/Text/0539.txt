@@ -1,0 +1,6 @@
+{
+  "title": "Light Pollution's Impact on Night Sky Visibility",
+  "author": "Jennifer Meyer",
+  "affiliation": "National Optical Astronomy Observatory",
+  "email": "jmeyer@noao.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Exploring the Mysteries of Coral Reefs",
+  "author": "Jane Williams",
+  "affiliation": "Marine Biology Institute",
+  "email": "janewilliams@marinebiology.org"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Clean Air for Healthy Lungs",
+  "author": "John Smith",
+  "affiliation": "Fresh Air Research Institute",
+  "email": "jsmith@freshairinstitute.org"
+}

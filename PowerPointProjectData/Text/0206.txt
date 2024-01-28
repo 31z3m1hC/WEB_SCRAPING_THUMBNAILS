@@ -1,0 +1,6 @@
+{
+  "title": "Investigating Autism Spectrum Disorder",
+  "author": "Dr. Jane Smith",
+  "affiliation": "J. Hughlings Jackson Centre",
+  "email": "jsmith@jhhj.org"
+}

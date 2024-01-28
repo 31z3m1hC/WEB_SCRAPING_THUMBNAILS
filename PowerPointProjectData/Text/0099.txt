@@ -1,0 +1,6 @@
+{
+  "title": "Decoding Mood Dynamics",
+  "author": "Oliver Scott Curry",
+  "affiliation": "National Institute of Mental Health",
+  "email": "oliver.curry@nih.gov"
+}

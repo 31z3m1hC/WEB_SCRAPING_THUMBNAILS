@@ -1,0 +1,6 @@
+{
+  "title": "Reinforcement Learning in Complex Robotics",
+  "author": "Willem Hesselink",
+  "affiliation": "University of Minnesota",
+  "email": "hesselink@umn.edu"
+}

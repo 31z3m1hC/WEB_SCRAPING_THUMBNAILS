@@ -1,0 +1,6 @@
+{
+  "title": "Improving Security of IoT Devices",
+  "author": "Sergio De Leon",
+  "affiliation": "University of California, Berkeley",
+  "email": "sdeleon@eecs.berkeley.edu"
+}

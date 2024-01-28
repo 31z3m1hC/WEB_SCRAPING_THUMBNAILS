@@ -1,0 +1,6 @@
+{
+  "title": "Lunar Influence on Coral Spawning",
+  "author": "John Abel",
+  "affiliation": "University of California, San Diego",
+  "email": "jabel@ucsd.edu"
+}

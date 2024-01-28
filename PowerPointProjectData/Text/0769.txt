@@ -1,0 +1,6 @@
+{
+  "title": "Discovering Depression Diagnoses",
+  "author": "Andrew Richardson",
+  "affiliation": "University of California, Berkeley",
+  "email": "andrew.richardson@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Binge-Watching and Sleep Quality",
+  "author": "Dr. Emily Reynolds",
+  "affiliation": "University of California, Los Angeles",
+  "email": "emily.reynolds@ucla.edu"
+}

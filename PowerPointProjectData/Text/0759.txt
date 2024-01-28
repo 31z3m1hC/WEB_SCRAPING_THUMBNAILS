@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Chemistry at Nanoscale",
+  "author": "Rachel Miller",
+  "affiliation": "Oregon State University",
+  "email": "rachel.miller@oregonstate.edu"
+}

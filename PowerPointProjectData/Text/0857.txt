@@ -1,0 +1,6 @@
+{
+  "title": "AI-Powered Eye Exams",
+  "author": "Helen Keller",
+  "affiliation": "Harward University",
+  "email": "helen.keller@example.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Strawberry Consumption and Heart Health",
+  "author": "Kahlile Wooten",
+  "affiliation": "University of East Anglia",
+  "email": "kahlile.wooten@uea.ac.uk"
+}

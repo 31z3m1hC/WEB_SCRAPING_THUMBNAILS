@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Resilience Factors in At-Risk Youth",
+  "author": "Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

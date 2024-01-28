@@ -1,0 +1,6 @@
+{
+  "title": "Accelerating Drug Discovery",
+  "author": "Dr. Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.doe@berkeley.edu"
+}

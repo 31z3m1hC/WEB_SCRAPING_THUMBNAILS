@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Brain's Response to Music",
+  "author": "Robert Zatorre",
+  "affiliation": "McGill University",
+  "email": "robert.zatorre@mcgill.ca"
+}

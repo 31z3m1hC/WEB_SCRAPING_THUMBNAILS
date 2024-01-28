@@ -1,0 +1,6 @@
+{
+  "title": "Plant-Based Diets and Health Outcomes",
+  "author": "Jessica K. James",
+  "affiliation": "Harvard T.H. Chan School of Public Health",
+  "email": "jkjames@hsph.harvard.edu"
+}

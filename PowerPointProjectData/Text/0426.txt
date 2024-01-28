@@ -1,0 +1,6 @@
+{
+  "title": "Responsible AI: A Path Forward",
+  "author": "Dr. Alice Zhao",
+  "affiliation": "Stanford University",
+  "email": "alice.zhao@stanford.edu"
+}

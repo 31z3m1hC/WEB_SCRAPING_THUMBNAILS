@@ -1,0 +1,6 @@
+{
+  "title": "Improving Crop Yield with AI",
+  "author": "Dr. Jane Smith",
+  "affiliation": "University of California, Davis",
+  "email": "jane.smith@ucdavis.edu"
+}

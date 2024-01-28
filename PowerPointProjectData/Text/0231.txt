@@ -1,0 +1,6 @@
+{
+  "title": "The Power of Music on Emotions",
+  "author": "Simon LaRochelle",
+  "affiliation": "University of Massachusetts",
+  "email": "simon@example.com"
+}

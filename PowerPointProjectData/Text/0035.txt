@@ -1,0 +1,6 @@
+{
+  "title": "Plant Growth Enhancement: Unlocking Nature's Potential",
+  "author": "Dr. Alice Smith",
+  "affiliation": "University of California, Davis",
+  "email": "alice.smith@ucdavis.edu"
+}

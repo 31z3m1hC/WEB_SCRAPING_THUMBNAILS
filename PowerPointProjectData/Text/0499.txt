@@ -1,0 +1,6 @@
+{
+  "title": "Online Learning: Trends and Impact",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.doe@berkeley.edu"
+}

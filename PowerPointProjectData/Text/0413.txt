@@ -1,0 +1,6 @@
+{
+  "title": "Stress and Employee Turnover: A Causal Link",
+  "author": "John Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "johnsmith@berkeley.edu"
+}

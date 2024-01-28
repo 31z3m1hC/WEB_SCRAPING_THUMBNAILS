@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change and Food Security",
+  "author": "Paul Crutzen",
+  "affiliation": "Max Planck Institute for Chemistry",
+  "email": "paul.crutzen@mpic.de"
+}

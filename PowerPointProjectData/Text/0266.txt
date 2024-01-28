@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Plant Communication",
+  "author": "Monica Gagliano",
+  "affiliation": "University of Western Australia",
+  "email": "monica.gagliano@uwa.edu.au"
+}

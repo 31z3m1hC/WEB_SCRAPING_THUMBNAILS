@@ -1,0 +1,6 @@
+{
+  "title": "Predicting Stock Price Movements",
+  "author": "John Smith",
+  "affiliation": "Rochester Institute of Technology",
+  "email": "john.smith@rit.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Assessing Health Impacts of Air Pollution",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "Clean Air Research Institute",
+  "email": "sarah.jones@cleanairacl.org"
+}

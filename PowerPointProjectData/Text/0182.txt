@@ -1,0 +1,6 @@
+{
+  "title": "Online Marketing for Small Business",
+  "author": "Dimitrios Buhalis",
+  "affiliation": "Bournemouth University",
+  "email": "dbuhalis@bournemouth.ac.uk"
+}

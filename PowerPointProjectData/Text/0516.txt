@@ -1,0 +1,6 @@
+{
+  "title": "Protecting Oceans: Marine Reserves",
+  "author": "Sylvia Earle",
+  "affiliation": "National Geographic Society",
+  "email": "sylviaearle@nationalgeographic.com"
+}

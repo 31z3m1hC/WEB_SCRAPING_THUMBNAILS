@@ -1,0 +1,6 @@
+{
+  "title": "Microplastic Pollution: A Growing Threat",
+  "author": "Sarah Michelle D'Souza",
+  "affiliation": "National Institute of Oceanography",
+  "email": "sarah.d@nio.org"
+}

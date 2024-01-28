@@ -1,0 +1,6 @@
+{
+  "title": "Harnessing AI in Disease Diagnosis",
+  "author": "Isabella Rossi",
+  "affiliation": "University of California, Berkeley",
+  "email": "isabella.rossi@berkeley.edu"
+}

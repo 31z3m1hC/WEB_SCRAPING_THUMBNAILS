@@ -1,0 +1,6 @@
+{
+  "title": "Public Health and Urbanization",
+  "author": "Mary A. Fox",
+  "affiliation": "Harvard University",
+  "email": "mfox@hsph.harvard.edu"
+}

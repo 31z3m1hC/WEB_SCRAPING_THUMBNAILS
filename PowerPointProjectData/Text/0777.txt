@@ -1,0 +1,6 @@
+{
+  "title": "Behind the Scenes of Empathy Circuits",
+  "author": "V.S. Ramachandran",
+  "affiliation": "University of California, San Diego",
+  "email": "rsfn.neurobio@gmail.com"
+}

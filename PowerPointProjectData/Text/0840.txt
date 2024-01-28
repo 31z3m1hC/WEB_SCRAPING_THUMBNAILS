@@ -1,0 +1,6 @@
+{
+  "title": "Measuring COVID-19 Severity",
+  "author": "Dr. Susan D. Clark",
+  "affiliation": "University of Cambridge",
+  "email": "susan.clark@cam.ac.uk"
+}

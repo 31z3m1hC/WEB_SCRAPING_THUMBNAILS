@@ -1,0 +1,6 @@
+{
+  "title": "Solar Panels: A Sustainable Energy Source",
+  "author": "Dr. Alex Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "alex.smith@berkeley.edu"
+}

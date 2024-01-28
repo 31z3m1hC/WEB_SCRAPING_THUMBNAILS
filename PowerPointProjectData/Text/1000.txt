@@ -1,0 +1,6 @@
+{
+  "title": "Minimizing Risk of Household Fires",
+  "author": "Martha Salinas",
+  "affiliation": "Arizona State University",
+  "email": "marthas@asu.edu"
+}

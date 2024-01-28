@@ -1,0 +1,6 @@
+{
+  "title": "Sunlight and Vitamin D: A Natural Connection",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, San Diego",
+  "email": "sarah.jones@ucsd.edu"
+}

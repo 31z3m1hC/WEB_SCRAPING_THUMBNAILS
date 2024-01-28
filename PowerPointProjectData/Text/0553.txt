@@ -1,0 +1,6 @@
+{
+  "title": "Harnessing Light for Photovoltaics",
+  "author": "Anita Ho-Baillie",
+  "affiliation": "University of New South Wales",
+  "email": "anita.ho-baillie@unsw.edu.au"
+}

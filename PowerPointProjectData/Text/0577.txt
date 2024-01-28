@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change and Biodiversity",
+  "author": "Jose Sarukh\u00e1n Kermez",
+  "affiliation": "National Autonomous University of Mexico",
+  "email": "jsarukhan@ib.unam.mx"
+}

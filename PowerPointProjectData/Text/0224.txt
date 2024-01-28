@@ -1,0 +1,6 @@
+{
+  "title": "Biotech Revolution in Agriculture",
+  "author": "Norman Borlaug",
+  "affiliation": "Texas A&M University",
+  "email": "nborlaug@tamu.edu"
+}

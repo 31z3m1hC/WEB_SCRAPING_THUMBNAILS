@@ -1,0 +1,6 @@
+{
+  "title": "Brain-Computer Interfacing Technology",
+  "author": "Niels Birbaumer",
+  "affiliation": "University of T\u00fcbingen",
+  "email": "niels.birbaumer@uni-tuebingen.de"
+}

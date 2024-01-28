@@ -1,0 +1,6 @@
+{
+  "title": "AI Assistance in Cancer Detection",
+  "author": "Dr. Emma Watson",
+  "affiliation": "Imperial College London",
+  "email": "emma.watson@imperial.ac.uk"
+}

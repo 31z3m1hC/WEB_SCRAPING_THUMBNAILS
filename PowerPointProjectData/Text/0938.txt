@@ -1,0 +1,6 @@
+{
+  "title": "Algae: Potential Biofuel Source",
+  "author": "John Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "jsmith@berkeley.edu"
+}

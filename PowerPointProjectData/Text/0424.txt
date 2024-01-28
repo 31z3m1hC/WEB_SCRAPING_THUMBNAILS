@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Technology on Learning",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "jdoe@berkeley.edu"
+}

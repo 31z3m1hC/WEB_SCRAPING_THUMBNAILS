@@ -1,0 +1,6 @@
+{
+  "title": "Ethanol from Biomass: A Greener Fuel",
+  "author": "John Smith",
+  "affiliation": "Green Energy Research Institute",
+  "email": "john.smith@greenenergy.org"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Artistic Impacts of Shakespeare's Tragedies",
+  "author": "David Bevington",
+  "affiliation": "University of Chicago",
+  "email": "david.bevington@uchicago.edu"
+}

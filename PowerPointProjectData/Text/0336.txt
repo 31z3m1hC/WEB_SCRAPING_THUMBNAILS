@@ -1,0 +1,6 @@
+{
+  "title": "Storytelling: A Therapeutic Journey",
+  "author": "Elizabeth R. Wallace",
+  "affiliation": "Arizona State University",
+  "email": "elizabeth.wallace@asu.edu"
+}

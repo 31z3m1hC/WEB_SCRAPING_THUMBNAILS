@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Learning with AI",
+  "author": "Ronald T. Azuma",
+  "affiliation": "University of California",
+  "email": "raz@cs.ucdavis.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Employee Well-Being During COVID-19",
+  "author": "Dr. Jane Doe",
+  "affiliation": "XYZ University",
+  "email": "janedoe@xyzuniversity.edu"
+}

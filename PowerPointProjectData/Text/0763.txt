@@ -1,0 +1,6 @@
+{
+  "title": "Social Network Addiction: Effects & Coping",
+  "author": "Emily A. Smith",
+  "affiliation": "University of California, Los Angeles",
+  "email": "emily.smith@ucla.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "AI-Powered Online Education",
+  "author": "Sarah Johnson",
+  "affiliation": "Stanford University",
+  "email": "sarah.johnson@stanford.edu"
+}

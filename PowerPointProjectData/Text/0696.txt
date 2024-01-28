@@ -1,0 +1,6 @@
+{
+  "title": "COVID-19 Vaccine: Public Awareness and Uptake",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "John Hopkins University",
+  "email": "sarah.jones@jhu.edu"
+}

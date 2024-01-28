@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Social Media on Adolescent Mental Health",
+  "author": "Rose W. Hook",
+  "affiliation": "University of Wisconsin-Madison",
+  "email": "rose.hook@wisc.edu"
+}

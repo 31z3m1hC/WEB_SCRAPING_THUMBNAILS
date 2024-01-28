@@ -1,0 +1,6 @@
+{
+  "title": "Influence of Sleep Patterns on Learning",
+  "author": "Dr. Sarah Williams",
+  "affiliation": "University of California, Berkeley",
+  "email": "swilliams@berkeley.edu"
+}

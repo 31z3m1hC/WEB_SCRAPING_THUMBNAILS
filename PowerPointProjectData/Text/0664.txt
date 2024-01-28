@@ -1,0 +1,6 @@
+{
+  "title": "Plastics and Marine Life: A Deadly Combination",
+  "author": "Miriam Goldstein",
+  "affiliation": "Scripps Institution of Oceanography",
+  "email": "mgoldstein@ucsd.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Affordable Brain Scans",
+  "author": "Dr. Helen Quinn",
+  "affiliation": "MIT University",
+  "email": "helen.quinn@mit.edu"
+}

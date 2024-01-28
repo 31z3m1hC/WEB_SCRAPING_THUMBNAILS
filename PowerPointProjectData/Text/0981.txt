@@ -1,0 +1,6 @@
+{
+  "title": "Can Music Influence Mood?",
+  "author": "Maria Alvarez",
+  "affiliation": "Stanford University",
+  "email": "maria.alvarez@stanford.edu"
+}

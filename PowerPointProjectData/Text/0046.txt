@@ -1,0 +1,6 @@
+{
+  "title": "Social Media Impact on Mental Health",
+  "author": "Dr. Adam Cox",
+  "affiliation": "University of New York",
+  "email": "a.cox@uny.edu"
+}

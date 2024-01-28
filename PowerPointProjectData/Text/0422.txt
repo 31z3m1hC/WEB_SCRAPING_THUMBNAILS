@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Secrets of Honeybees",
+  "author": "Dr. Sarah Anderson",
+  "affiliation": "Berkeley University",
+  "email": "sarah.anderson@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Emotional Intelligence in Healthcare",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

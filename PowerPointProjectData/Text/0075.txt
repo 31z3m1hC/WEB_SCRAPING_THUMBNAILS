@@ -1,0 +1,6 @@
+{
+  "title": "Facial Recognition: Past, Present and Future",
+  "author": "Nassim Taleb",
+  "affiliation": "University of Cambridge",
+  "email": "nntaleb@cam.ac.uk"
+}

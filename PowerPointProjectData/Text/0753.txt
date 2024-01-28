@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Drinking Water: A Global Perspective",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.doe@berkeley.edu"
+}

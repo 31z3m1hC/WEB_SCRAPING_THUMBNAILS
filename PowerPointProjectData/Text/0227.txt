@@ -1,0 +1,6 @@
+{
+  "title": "Gamers' Insight of Immersive Experience",
+  "author": "Simon N. Smith",
+  "affiliation": "MIT Media Lab",
+  "email": "simon.smith@example.com"
+}

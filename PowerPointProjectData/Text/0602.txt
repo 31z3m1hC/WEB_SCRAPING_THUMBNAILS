@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Emotions Through Music",
+  "author": "John Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "john.smith@berkeley.edu"
+}

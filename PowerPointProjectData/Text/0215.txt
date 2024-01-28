@@ -1,0 +1,6 @@
+{
+  "title": "Unraveling Alzheimer's Enigma: A Comprehensive Analysis",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "Stanford University",
+  "email": "sarah.johnson@stanford.edu"
+}

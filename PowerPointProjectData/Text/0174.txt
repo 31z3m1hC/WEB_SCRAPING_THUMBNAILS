@@ -1,0 +1,6 @@
+{
+  "title": "The Psychology of Color in Marketing",
+  "author": "Dr. Anne-Sophie Fernandez-Duque",
+  "affiliation": "University of California, San Francisco",
+  "email": "anne-sophie.fernandez-duque@ucsf.edu"
+}

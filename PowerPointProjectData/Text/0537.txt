@@ -1,0 +1,6 @@
+{
+  "title": "Does Sleep Affect Memory?",
+  "author": "Jessica Payne",
+  "affiliation": "UC Berkeley",
+  "email": "jess.payne@berkeley.edu"
+}

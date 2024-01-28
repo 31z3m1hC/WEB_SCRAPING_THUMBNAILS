@@ -1,0 +1,6 @@
+{
+  "title": "Smart Home Design: A Guided Route",
+  "author": "Allen Yi",
+  "affiliation": "Oregon State University",
+  "email": "allen.yi@oregonstate.edu"
+}

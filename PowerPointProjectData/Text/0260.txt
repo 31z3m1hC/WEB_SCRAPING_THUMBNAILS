@@ -1,0 +1,6 @@
+{
+  "title": "Affordable Housing Solutions",
+  "author": "Jane Doe",
+  "affiliation": "Habitat for Humanity",
+  "email": "jane.doe@habitat.org"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "AI-Powered Cancer Detection",
+  "author": "Dr. Emily Jones",
+  "affiliation": "Stanford University",
+  "email": "emily.jones@stanford.edu"
+}

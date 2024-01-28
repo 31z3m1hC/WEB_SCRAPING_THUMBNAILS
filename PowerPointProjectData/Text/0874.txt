@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Nature's Healing Gifts",
+  "author": "Jane Doe",
+  "affiliation": "Biomedical Research Institute",
+  "email": "jane.doe@bri.org"
+}

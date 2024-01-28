@@ -1,0 +1,6 @@
+{
+  "title": "AI Systems: Weaknesses and Downfalls",
+  "author": "Mark Riedl",
+  "affiliation": "Georgia Tech University",
+  "email": "mriedl@gatech.edu"
+}

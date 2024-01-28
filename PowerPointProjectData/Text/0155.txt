@@ -1,0 +1,6 @@
+{
+  "title": "Learning Disabilities: Early Signs",
+  "author": "Sarah Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.smith@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Caffeine Consumption and Sleep Quality",
+  "author": "Michael Grandner",
+  "affiliation": "University of Arizona",
+  "email": "michael.grandner@bannerhealth.com"
+}

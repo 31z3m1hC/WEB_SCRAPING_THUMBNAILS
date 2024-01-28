@@ -1,0 +1,6 @@
+{
+  "title": "AI-driven Prediction of Disease Outbreaks",
+  "author": "Sophia Lee",
+  "affiliation": "University of California, San Francisco",
+  "email": "sophia.lee@ucsf.edu"
+}

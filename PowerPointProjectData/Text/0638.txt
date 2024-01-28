@@ -1,0 +1,6 @@
+{
+  "title": "Investigating Emotions Through AI",
+  "author": "Dr. Emily Jones",
+  "affiliation": "Artificial Intelligence Lab",
+  "email": "emily.jones@aiexplorer.com"
+}

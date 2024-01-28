@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Elusive Dark Matter",
+  "author": "Sandra Faber",
+  "affiliation": "University of California, Santa Cruz",
+  "email": "sandra.faber@ucsc.edu"
+}

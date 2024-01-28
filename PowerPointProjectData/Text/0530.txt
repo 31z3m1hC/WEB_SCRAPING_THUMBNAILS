@@ -1,0 +1,6 @@
+{
+  "title": "AI Revolution: Economic Implications",
+  "author": "Nina Porter",
+  "affiliation": "Harvard University",
+  "email": "nina.porter@harvard.edu"
+}

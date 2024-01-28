@@ -1,0 +1,6 @@
+{
+  "title": "Microwaves: From Heating Food to Fueling Stars",
+  "author": "Dr. Jane Smith",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "jsmith@mit.edu"
+}

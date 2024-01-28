@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change Impacts on Marine Life",
+  "author": "Valerie Masson-Delmotte",
+  "affiliation": "IPCC Working Group I Co-Chair",
+  "email": "valerie.masson-delmotte@cea.fr"
+}

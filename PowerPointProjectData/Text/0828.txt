@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Hidden Patterns in Music",
+  "author": "Olivia Smith",
+  "affiliation": "Music University",
+  "email": "olivia.smith@musicu.edu"
+}

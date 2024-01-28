@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Quantum Computing's Enigma",
+  "author": "Dr. Radoslav Stanislavovic",
+  "affiliation": "University of Cambridge",
+  "email": "rs427@cam.ac.uk"
+}

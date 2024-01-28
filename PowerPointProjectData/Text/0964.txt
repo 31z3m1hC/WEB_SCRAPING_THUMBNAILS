@@ -1,0 +1,6 @@
+{
+  "title": "Quantum Computing: Unveiling the Future",
+  "author": "Dr. Zachary Hutchinson",
+  "affiliation": "Quantum Frontiers Inc.",
+  "email": "Zachary.Hutchinson@QuantumFrontiersInc.org"
+}

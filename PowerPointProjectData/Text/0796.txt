@@ -1,0 +1,6 @@
+{
+  "title": "Understanding the Complexities of Quantum Phenomena",
+  "author": "Isaac Newton",
+  "affiliation": "University of Cambridge",
+  "email": "inewton@newtonproject.com"
+}

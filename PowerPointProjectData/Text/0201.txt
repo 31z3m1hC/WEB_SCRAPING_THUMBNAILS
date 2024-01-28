@@ -1,0 +1,6 @@
+{
+  "title": "Obesity and Cancer Risk",
+  "author": "Jennifer Jordan",
+  "affiliation": "Harvard T.H. Chan School of Public Health",
+  "email": "jjordan@hsph.harvard.edu"
+}

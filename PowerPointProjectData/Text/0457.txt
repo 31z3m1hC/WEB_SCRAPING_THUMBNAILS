@@ -1,0 +1,6 @@
+{
+  "title": "Social Media Impact on Well-being",
+  "author": "Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

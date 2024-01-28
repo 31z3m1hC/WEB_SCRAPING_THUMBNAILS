@@ -1,0 +1,6 @@
+{
+  "title": "Social Media Impact on Teen Behavior",
+  "author": "Sarah Williams",
+  "affiliation": "Stanford University",
+  "email": "swilliams@stanford.edu"
+}

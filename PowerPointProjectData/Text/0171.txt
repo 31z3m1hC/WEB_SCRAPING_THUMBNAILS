@@ -1,0 +1,6 @@
+{
+  "title": "Internet Usage Patterns of College Students",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Los Angeles",
+  "email": "sjones@ucla.edu"
+}

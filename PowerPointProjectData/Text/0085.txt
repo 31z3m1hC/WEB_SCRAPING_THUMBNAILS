@@ -1,0 +1,6 @@
+{
+  "title": "Neuroplasticity in Musicians",
+  "author": "Laura R. Steele",
+  "affiliation": "Haskins Laboratories",
+  "email": "LSteele@haskins.yale.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Virtual Reality for Stroke Rehabilitation",
+  "author": "Dr. Emily Jones",
+  "affiliation": "Stanford University",
+  "email": "emily.jones@stanford.edu"
+}

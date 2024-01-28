@@ -1,0 +1,6 @@
+{
+  "title": "Examining Factors Influencing Sustainable Agriculture Practices",
+  "author": "John Smith",
+  "affiliation": "University of California, Davis",
+  "email": "jsmith@ucdavis.edu"
+}

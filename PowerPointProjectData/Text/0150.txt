@@ -1,0 +1,6 @@
+{
+  "title": "Protein Structures and Functions",
+  "author": "Lila Meri Baldwin",
+  "affiliation": "University of California, Berkeley",
+  "email": "lila@compbio.berkeley.edu"
+}

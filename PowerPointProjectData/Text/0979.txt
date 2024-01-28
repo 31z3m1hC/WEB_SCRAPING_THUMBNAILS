@@ -1,0 +1,6 @@
+{
+  "title": "Silkworms: Nature's Tiny Miracle Workers",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Green Commute, Healthy Heart",
+  "author": "Emaad Khan",
+  "affiliation": "Chicago Health Institute",
+  "email": "khan@chi.com"
+}

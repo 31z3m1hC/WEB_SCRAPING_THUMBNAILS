@@ -1,0 +1,6 @@
+{
+  "title": "Language Evolution of AI",
+  "author": "Noam Chomsky",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "chomsky@mit.edu"
+}

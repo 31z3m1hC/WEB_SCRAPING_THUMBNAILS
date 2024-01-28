@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change: Rising Temperatures, Changing Landscapes",
+  "author": "Dr. Jane Doe",
+  "affiliation": "Center for Climate and Environmental Research",
+  "email": "jane.doe@climate-research.org"
+}

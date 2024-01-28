@@ -1,0 +1,6 @@
+{
+  "title": "The Power of Habit",
+  "author": "Charles Duhigg",
+  "affiliation": "New York Times Reporter",
+  "email": "charles.duhigg@nytimes.com"
+}

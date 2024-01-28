@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Stars: Celestial Lighthouses",
+  "author": "Neil deGrasse Tyson",
+  "affiliation": "American Museum of Natural History",
+  "email": "neildegrassetyson@amnh.org"
+}

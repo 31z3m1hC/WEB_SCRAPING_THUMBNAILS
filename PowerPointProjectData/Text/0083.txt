@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Yields Algorithmically",
+  "author": "Dr. Olivia Hanson",
+  "affiliation": "University of California, Davis",
+  "email": "olivia.hanson@ucdavis.edu"
+}

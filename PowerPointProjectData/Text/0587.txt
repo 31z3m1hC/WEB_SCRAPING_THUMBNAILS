@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Online Education's Impact on Access and Affordability",
+  "author": "John Williamson",
+  "affiliation": "University of Texas at Austin",
+  "email": "john.williamson@utexas.edu"
+}

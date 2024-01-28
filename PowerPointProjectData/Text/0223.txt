@@ -1,0 +1,6 @@
+{
+  "title": "Predicting Stellar Age through Machine Learning",
+  "author": "Dr. Ayan Mandal",
+  "affiliation": "Indian Institute of Astrophysics",
+  "email": "ayan.mandal@iiap.res.in"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Climate Change on Global Health",
+  "author": "Dr. Samuel Myers",
+  "affiliation": "Harvard University",
+  "email": "sammy@hsph.harvard.edu"
+}

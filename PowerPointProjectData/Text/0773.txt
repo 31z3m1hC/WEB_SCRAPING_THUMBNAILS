@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Learning Through Virtual Reality",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "Stanford University",
+  "email": "sarah.johnson@stanford.edu"
+}

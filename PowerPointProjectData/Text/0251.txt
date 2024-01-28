@@ -1,0 +1,6 @@
+{
+  "title": "Breast Cancer Screening: Early Detection Saves Lives!",
+  "author": "Sophia Roberts",
+  "affiliation": "Tampa University Hospital",
+  "email": "sroberts@tuh.org"
+}

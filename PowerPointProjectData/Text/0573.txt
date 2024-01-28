@@ -1,0 +1,6 @@
+{
+  "title": "Role of AI in Food Production",
+  "author": "Michael Reynolds",
+  "affiliation": "Iowa State University",
+  "email": "michaelreynolds@iastate.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Sleep and Academic Performance",
+  "author": "Mary A. Carskadon",
+  "affiliation": "Brown University",
+  "email": "mary_carskadon@brown.edu"
+}

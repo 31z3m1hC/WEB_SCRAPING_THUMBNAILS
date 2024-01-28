@@ -1,0 +1,6 @@
+{
+  "title": "Parenting Styles and Child Development",
+  "author": "Diana Baumrind",
+  "affiliation": "University of California, Berkeley",
+  "email": "baumrind@berkeley.edu"
+}

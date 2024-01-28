@@ -1,0 +1,6 @@
+{
+  "title": "Driver Distraction Impacts Road Safety",
+  "author": "A. Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "a.smith@berkeley.edu"
+}

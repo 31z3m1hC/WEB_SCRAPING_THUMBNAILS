@@ -1,0 +1,6 @@
+{
+  "title": "Plant-Based Diets and Immunity",
+  "author": "Shen Yang",
+  "affiliation": "Harvard T.H. Chan School of Public Health",
+  "email": "shen_yang@harvard.edu"
+}

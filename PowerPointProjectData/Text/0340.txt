@@ -1,0 +1,6 @@
+{
+  "title": "The Effects of Music on Plant Growth",
+  "author": "Dr. Sarah Smith",
+  "affiliation": "University of California, Davis",
+  "email": "ssmith@ucdavis.edu"
+}

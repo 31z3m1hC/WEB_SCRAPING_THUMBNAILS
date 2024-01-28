@@ -1,0 +1,6 @@
+{
+  "title": "Eco-friendly Nanotechnology for Clean Water",
+  "author": "Sarah M. Lee",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.m.lee@berkeley.edu"
+}

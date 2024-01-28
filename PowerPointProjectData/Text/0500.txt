@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Hidden Treasures: Exploring Ancient Egyptian Tombs",
+  "author": "Amr El-Hawary",
+  "affiliation": "Cairo University",
+  "email": "amr.elhawary@cu.edu.eg"
+}

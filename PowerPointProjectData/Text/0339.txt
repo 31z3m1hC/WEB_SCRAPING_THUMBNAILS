@@ -1,0 +1,6 @@
+{
+  "title": "Unintended Consequences of Social Media",
+  "author": "Anabela Carvalho",
+  "affiliation": "University of California, Berkeley",
+  "email": "abelacarvalho@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Nature's Cure: Unveiling Herbs for Cancer Treatment",
+  "author": "Dr. Jennifer A. Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "jennifer.smith@berkeley.edu"
+}

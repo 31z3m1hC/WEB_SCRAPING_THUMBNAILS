@@ -1,0 +1,6 @@
+{
+  "title": "Improving Crop Yield using Gen-Z",
+  "author": "Kingsley Tutu",
+  "affiliation": "LEST University of Ghana",
+  "email": "kingsley.tutu@legongu.edu.gh"
+}

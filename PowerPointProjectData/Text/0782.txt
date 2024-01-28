@@ -1,0 +1,6 @@
+{
+  "title": "Medical Imaging: Revolutionizing Diagnostics",
+  "author": "Dr. Olivia Owens",
+  "affiliation": "Albany Medical University",
+  "email": "olivia.owens@albanymed.org"
+}

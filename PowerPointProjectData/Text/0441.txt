@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Climate Change Dynamics",
+  "author": "John Smith",
+  "affiliation": "Global Climate Institute",
+  "email": "jsmith@gci.org"
+}

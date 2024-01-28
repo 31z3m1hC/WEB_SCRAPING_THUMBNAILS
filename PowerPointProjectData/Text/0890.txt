@@ -1,0 +1,6 @@
+{
+  "title": "Chocolate Consumption and Cognitive Function",
+  "author": "Lee Berk",
+  "affiliation": "Loma Linda University",
+  "email": "lberk@llu.edu"
+}

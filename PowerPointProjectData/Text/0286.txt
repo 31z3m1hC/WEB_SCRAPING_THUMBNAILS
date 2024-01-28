@@ -1,0 +1,6 @@
+{
+  "title": "Running Promotes Brain Health",
+  "author": "Paula J. Bickford",
+  "affiliation": "University of New Hampshire",
+  "email": "paula.bickford@unh.edu"
+}

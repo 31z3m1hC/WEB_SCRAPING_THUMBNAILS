@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Productivity with Sustainable Practices",
+  "author": "Sarah J. Adams",
+  "affiliation": "Green Field Research Institute",
+  "email": "sarah.adams@greenfieldresearch.org"
+}

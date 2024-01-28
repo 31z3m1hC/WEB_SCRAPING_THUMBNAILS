@@ -1,0 +1,6 @@
+{
+  "title": "Intelligent Technology: A Tool for Surgeons",
+  "author": "Dr. Sara Ahmed",
+  "affiliation": "Brigham and Women's Hospital",
+  "email": "sara.ahmed@bwh.harvard.edu"
+}

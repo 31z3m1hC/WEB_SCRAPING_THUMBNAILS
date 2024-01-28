@@ -1,0 +1,6 @@
+{
+  "title": "Meat Consumption and Health",
+  "author": "Dr. Sarah Hallstr\u00f6m",
+  "affiliation": "Lund University",
+  "email": "sarah.hallstrom@med.lu.se"
+}

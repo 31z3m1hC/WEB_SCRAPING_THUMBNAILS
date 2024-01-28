@@ -1,0 +1,6 @@
+{
+  "title": "Unraveling Urban Heat Island Effect",
+  "author": "Dr. Sarah Williams",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "swilliams@mit.edu"
+}

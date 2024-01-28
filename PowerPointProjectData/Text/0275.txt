@@ -1,0 +1,6 @@
+{
+  "title": "Protein Interactions in Alzheimer's",
+  "author": "Dr. Jane Doe",
+  "affiliation": "Neurology Research Institute",
+  "email": "janedoe@neurologyresearch.org"
+}

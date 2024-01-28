@@ -1,0 +1,6 @@
+{
+  "title": "Stress and Sleep Quality in College Students",
+  "author": "Sarah Jackson",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarahjackson@berkeley.edu"
+}

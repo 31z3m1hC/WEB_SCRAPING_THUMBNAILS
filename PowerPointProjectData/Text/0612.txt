@@ -1,0 +1,6 @@
+{
+  "title": "Healthy Eating Habits for a Better Life",
+  "author": "Dr. Jane Doe",
+  "affiliation": "Harvard University",
+  "email": "jane.doe@harvard.edu"
+}

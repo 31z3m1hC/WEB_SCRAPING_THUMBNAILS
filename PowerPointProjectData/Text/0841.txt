@@ -1,0 +1,6 @@
+{
+  "title": "Facial Recognition: boon or bane?",
+  "author": "Dr. Martin A. Smith",
+  "affiliation": "University of New South Wales",
+  "email": "martin.smith@unsw.edu.au"
+}

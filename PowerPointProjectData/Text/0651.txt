@@ -1,0 +1,6 @@
+{
+  "title": "Artificial Intelligence in Healthcare",
+  "author": "Dr. Emily Jones",
+  "affiliation": "MIT Computer Science and Artificial Intelligence Laboratory",
+  "email": "emily.jones@mit.edu"
+}

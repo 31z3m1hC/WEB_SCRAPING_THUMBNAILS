@@ -1,0 +1,6 @@
+{
+  "title": "Smartphones: Impact on Sleep Patterns",
+  "author": "Dr. Susan Smith",
+  "affiliation": "Harvard University",
+  "email": "drsusansmith@harvard.edu"
+}

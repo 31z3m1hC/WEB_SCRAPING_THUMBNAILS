@@ -1,0 +1,6 @@
+{
+  "title": "Mushroom Extract's Healing Potential",
+  "author": "Rebecca West",
+  "affiliation": "Mycology Research Institute",
+  "email": "rebecca.west@mycologyinstitute.org"
+}

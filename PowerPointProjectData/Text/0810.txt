@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Mental Health in the Digital Age",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

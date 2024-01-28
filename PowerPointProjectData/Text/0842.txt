@@ -1,0 +1,6 @@
+{
+  "title": "Nutrient Absorption in the Human Body",
+  "author": "Jane Doe",
+  "affiliation": "Harvard Medical School",
+  "email": "jane.doe@hms.harvard.edu"
+}

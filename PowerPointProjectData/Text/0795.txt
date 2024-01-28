@@ -1,0 +1,6 @@
+{
+  "title": "Food Insecurity and Cognitive Performance",
+  "author": "Kimberly Noble",
+  "affiliation": "Columbia University",
+  "email": "Kimberly.noble@columbia.edu"
+}

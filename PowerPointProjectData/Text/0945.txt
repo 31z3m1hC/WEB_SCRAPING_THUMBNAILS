@@ -1,0 +1,6 @@
+{
+  "title": "Imagining Tomorrow's Cities",
+  "author": "Elon Musk",
+  "affiliation": "SpaceX Headquarters",
+  "email": "elonmusk@spacex.com"
+}

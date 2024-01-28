@@ -1,0 +1,6 @@
+{
+  "title": "Decoding Language Acquisition Patterns",
+  "author": "Steven Pinker",
+  "affiliation": "Harvard University",
+  "email": "steven_pinker@harvard.edu"
+}

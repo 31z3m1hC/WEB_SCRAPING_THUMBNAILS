@@ -1,0 +1,6 @@
+{
+  "title": "Sleep Quality and Academic Performance",
+  "author": "Robert Stickgold",
+  "affiliation": "Harvard Medical School",
+  "email": "rstickgold@hms.harvard.edu"
+}

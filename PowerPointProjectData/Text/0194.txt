@@ -1,0 +1,6 @@
+{
+  "title": "The Moral Compass: Decision-Making in Kids",
+  "author": "Dr. Alice Smith",
+  "affiliation": "University of San Francisco",
+  "email": "alice.smith@usf.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Online Learning's Impact on Higher Education",
+  "author": "Dr. Alice Roberts",
+  "affiliation": "University of Oxford",
+  "email": "alice.roberts@university.ox.org"
+}

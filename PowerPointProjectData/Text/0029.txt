@@ -1,0 +1,6 @@
+{
+  "title": "Unraveling Secrets of the Deep Sea",
+  "author": "Sylvia Earle",
+  "affiliation": "National Geographic Society",
+  "email": "sylviaearle@nationalgeographic.org"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Urbanization's Impact on Air Quality",
+  "author": "Dr. Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.doe@berkeley.edu"
+}

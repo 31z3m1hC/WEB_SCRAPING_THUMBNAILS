@@ -1,0 +1,6 @@
+{
+  "title": "Fuel Cells: Clean Energy Source",
+  "author": "John Smith",
+  "affiliation": "Texas Tech University",
+  "email": "john.smith@ttu.edu"
+}

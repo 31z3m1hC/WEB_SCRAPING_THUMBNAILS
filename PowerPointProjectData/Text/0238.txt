@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Sleep on Academic Success",
+  "author": "Dr. Namrata Patel",
+  "affiliation": "University of California, Berkeley",
+  "email": "nampatel@berkeley.edu"
+}

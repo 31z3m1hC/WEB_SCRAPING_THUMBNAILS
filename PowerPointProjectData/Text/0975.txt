@@ -1,0 +1,6 @@
+{
+  "title": "Decoding Dreams: Unraveling the Mysteries of Sleep",
+  "author": "Dr. Rosalind Cartwright",
+  "affiliation": "University of California, Berkeley",
+  "email": "r.cartwright@berkeley.edu"
+}

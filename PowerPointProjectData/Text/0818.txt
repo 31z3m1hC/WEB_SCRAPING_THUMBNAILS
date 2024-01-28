@@ -1,0 +1,6 @@
+{
+  "title": "E-Learning Platforms: A Changing Educational Landscape",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.johnson@berkeley.edu"
+}

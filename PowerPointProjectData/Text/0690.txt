@@ -1,0 +1,6 @@
+{
+  "title": "Fast and Accurate Language Translation",
+  "author": "Altaf Hamid",
+  "affiliation": "University of Washington",
+  "email": "altaf.hamid@u.washington.edu"
+}

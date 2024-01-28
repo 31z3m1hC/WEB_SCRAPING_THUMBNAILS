@@ -1,0 +1,6 @@
+{
+  "title": "Polymers' Potential in Energy Storage",
+  "author": "Dr. Mark Jones",
+  "affiliation": "Cambridge University",
+  "email": "jones.mark@cambridge.ac.uk"
+}

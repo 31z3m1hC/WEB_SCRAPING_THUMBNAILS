@@ -1,0 +1,6 @@
+{
+  "title": "Remote Work's Impact on Productivity",
+  "author": "Emma Watson",
+  "affiliation": "Stanford University",
+  "email": "emmawatson@stanford.edu"
+}

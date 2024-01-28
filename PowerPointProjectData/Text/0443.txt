@@ -1,0 +1,6 @@
+{
+  "title": "Intelligent Process Automation for Efficiency",
+  "author": "John Doe",
+  "affiliation": "XYZ Research Lab",
+  "email": "johndoe@xyzresearchlab.com"
+}

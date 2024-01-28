@@ -1,0 +1,6 @@
+{
+  "title": "Bacterial Diversity in Soil",
+  "author": "Sarah J. Mason",
+  "affiliation": "University of California, Berkeley",
+  "email": "sjmason@berkeley.edu"
+}

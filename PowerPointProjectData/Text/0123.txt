@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Yield with Precision Farming",
+  "author": "Dr. Alice Walker",
+  "affiliation": "Agricultural Research Institute",
+  "email": "alice_walker@researchinstitute.org"
+}

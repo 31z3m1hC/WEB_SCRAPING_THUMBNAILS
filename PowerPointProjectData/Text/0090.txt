@@ -1,0 +1,6 @@
+{
+  "title": "Urbanization and Mental Health",
+  "author": "Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarahjones@berkeley.edu"
+}

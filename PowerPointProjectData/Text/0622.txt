@@ -1,0 +1,6 @@
+{
+  "title": "Sleep and Brain Health",
+  "author": "Dr. Matthew Walker",
+  "affiliation": "University of California, Berkeley",
+  "email": "m.walker@berkeley.edu"
+}

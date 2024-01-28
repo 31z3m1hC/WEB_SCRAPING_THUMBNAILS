@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Stress on Students' Academic Performance",
+  "author": "Dr. Sara Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "sara.smith@berkeley.edu"
+}

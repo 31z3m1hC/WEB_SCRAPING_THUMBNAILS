@@ -1,0 +1,6 @@
+{
+  "title": "Effects of Exercise on Cognitive Function in Older Adults",
+  "author": "James A. Blumenthal",
+  "affiliation": "Duke University Medical Center",
+  "email": "blumenthal@duke.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Sunken Cities: Archaeological Discoveries",
+  "author": "Robert Ballard",
+  "affiliation": "University of Rhode Island",
+  "email": "rballard@uri.edu"
+}

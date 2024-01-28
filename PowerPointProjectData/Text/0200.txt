@@ -1,0 +1,6 @@
+{
+  "title": "The Significance of Laughter in Human Life",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "janedoe@berkeley.edu"
+}

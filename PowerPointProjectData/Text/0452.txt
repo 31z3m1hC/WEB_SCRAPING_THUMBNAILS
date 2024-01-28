@@ -1,0 +1,6 @@
+{
+  "title": "COVID's Impact on Healthcare Workers",
+  "author": "Emily Jones",
+  "affiliation": "Harvard University",
+  "email": "emily.jones@harvard.edu"
+}

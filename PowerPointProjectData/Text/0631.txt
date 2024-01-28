@@ -1,0 +1,6 @@
+{
+  "title": "Detecting Alzheimer's Early",
+  "author": "Neil Vasdev",
+  "affiliation": "University of California, San Francisco",
+  "email": "n.vasdev@ucsf.edu"
+}

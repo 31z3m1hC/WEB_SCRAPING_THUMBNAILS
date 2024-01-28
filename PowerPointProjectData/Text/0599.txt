@@ -1,0 +1,6 @@
+{
+  "title": "Blockchain for Healthcare Security",
+  "author": "James Reason",
+  "affiliation": "Cambridge University",
+  "email": "james.reason@example.com"
+}

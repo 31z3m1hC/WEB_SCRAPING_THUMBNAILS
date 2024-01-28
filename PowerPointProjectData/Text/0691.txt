@@ -1,0 +1,6 @@
+{
+  "title": "Student Motivation in Online Education",
+  "author": "Sarah Johnson",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarahjohnson@berkeley.edu"
+}

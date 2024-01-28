@@ -1,0 +1,6 @@
+{
+  "title": "Sleep Deprivation and Decision Making",
+  "author": "Dr. Shelby Harris",
+  "affiliation": "University of California, Berkeley",
+  "email": "shelby.harris@berkeley.edu"
+}

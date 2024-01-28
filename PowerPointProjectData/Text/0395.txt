@@ -1,0 +1,6 @@
+{
+  "title": "Coffee Consumption and Sleep Quality",
+  "author": "Michael Grandner",
+  "affiliation": "University of Arizona",
+  "email": "mgrandner@email.arizona.edu"
+}

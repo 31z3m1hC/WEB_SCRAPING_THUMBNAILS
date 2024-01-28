@@ -1,0 +1,6 @@
+{
+  "title": "Exploring COVID-19's Impact on Healthcare Inequality",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.doe@berkeley.edu"
+}

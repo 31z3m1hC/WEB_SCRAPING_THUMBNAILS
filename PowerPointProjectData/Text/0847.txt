@@ -1,0 +1,6 @@
+{
+  "title": "Visualizing Fluorescence in Biological Tissues",
+  "author": "Michael Wallace",
+  "affiliation": "University of California, Berkeley",
+  "email": "mwallace@berkeley.edu"
+}

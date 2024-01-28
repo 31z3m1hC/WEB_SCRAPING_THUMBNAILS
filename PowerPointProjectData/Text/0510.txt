@@ -1,0 +1,6 @@
+{
+  "title": "Minimizing Hospital Readmissions: A Collaborative Approach",
+  "author": "Sarah Jones",
+  "affiliation": "Stanford University",
+  "email": "sarah.jones@stanford.edu"
+}

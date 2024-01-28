@@ -1,0 +1,6 @@
+{
+  "title": "AI-Powered Drones: Revolutionizing Delivery",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "MIT Aeronautics Dept.",
+  "email": "sarah.johnson@mit.edu"
+}

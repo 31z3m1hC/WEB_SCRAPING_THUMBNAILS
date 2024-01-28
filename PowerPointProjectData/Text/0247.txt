@@ -1,0 +1,6 @@
+{
+  "title": "Predicting Student Success",
+  "author": "Maria Brown",
+  "affiliation": "University of California, Berkeley",
+  "email": "maria.brown@berkeley.edu"
+}

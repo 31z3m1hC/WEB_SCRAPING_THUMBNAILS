@@ -1,0 +1,6 @@
+{
+  "title": "Remote Work: Advantages and Challenges",
+  "author": "Stephanie Mumford",
+  "affiliation": "Stanford University",
+  "email": "Stephanie.Mumford@stanford.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Seafood: A Growing Concern",
+  "author": "Sarah L. Miller",
+  "affiliation": "University of California, Berkeley",
+  "email": "miller@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Job Search Behavior in Automation Age",
+  "author": "Natalia Karelaia",
+  "affiliation": "University of Mannheim",
+  "email": "karelaia@uni-mannheim.de"
+}

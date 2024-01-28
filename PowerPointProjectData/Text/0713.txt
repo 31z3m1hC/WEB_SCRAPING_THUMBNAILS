@@ -1,0 +1,6 @@
+{
+  "title": "AI-Powered Healthcare: Enhancing Diagnosis and Treatment",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

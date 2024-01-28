@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Sleep Patterns During Exams",
+  "author": "Dr. Alex Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "ajones@berkeley.edu"
+}

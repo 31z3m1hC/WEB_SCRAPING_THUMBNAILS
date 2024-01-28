@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Brainwaves for Better Mental Health",
+  "author": "Dr. Tamara Williams",
+  "affiliation": "Neuropsychology Research Institute",
+  "email": "tamara.williams@neuropsychresearch.org"
+}

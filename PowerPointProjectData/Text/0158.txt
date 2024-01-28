@@ -1,0 +1,6 @@
+{
+  "title": "Making Music Accessible",
+  "author": "Emily Bradshaw",
+  "affiliation": " Berklee College of Music",
+  "email": "emily.bradshaw@berklee.edu"
+}

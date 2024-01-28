@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Earth's Dynamic Past Through Rocks",
+  "author": "Dr. Anne Thompson",
+  "affiliation": "Stanford University",
+  "email": "a.thompson@stanford.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Truth: Exploring Alternative Theories of History",
+  "author": "Paul Schroeder",
+  "affiliation": "University of Virginia",
+  "email": "pschroeder@virginia.edu"
+}

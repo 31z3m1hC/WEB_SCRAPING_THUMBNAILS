@@ -1,0 +1,6 @@
+{
+  "title": "Cancer Detection with AI",
+  "author": "Dr. Sarah Miller",
+  "affiliation": "University of California, Los Angeles",
+  "email": "sarah.miller@ucla.edu"
+}

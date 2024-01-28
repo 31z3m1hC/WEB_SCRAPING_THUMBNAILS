@@ -1,0 +1,6 @@
+{
+  "title": "AI-Powered Mental Health Support",
+  "author": "Dr. Olivia Smith",
+  "affiliation": "Boston University",
+  "email": "olivia.smith@bu.edu"
+}

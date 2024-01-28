@@ -1,0 +1,6 @@
+{
+  "title": "Health Benefits of Green Tea",
+  "author": "Elizabeth K. Miller",
+  "affiliation": "University of California, Berkeley",
+  "email": "ekmiller@berkeley.edu"
+}

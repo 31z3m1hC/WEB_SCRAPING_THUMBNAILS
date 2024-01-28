@@ -1,0 +1,6 @@
+{
+  "title": "Bats: Nature's Nocturnal Wonders",
+  "author": "Isabella Young",
+  "affiliation": "University of California, Berkeley",
+  "email": "isabellayoung@berkeley.edu"
+}

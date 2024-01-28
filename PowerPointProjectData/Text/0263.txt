@@ -1,0 +1,6 @@
+{
+  "title": "Antecedents of Enterprise Risk Management: Evidence from Oman",
+  "author": "Tariq Mousakhan",
+  "affiliation": "Sultan Qaboos University",
+  "email": "tmousakhan@squ.edu.om"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Boosting Tomatoes with Alternative Pollination",
+  "author": "Amelia Williams",
+  "affiliation": "University of California, Davis",
+  "email": "awilliams@ucdavis.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "AI in Healthcare: Challenges and Opportunities",
+  "author": "Veronica Smith",
+  "affiliation": "MIT Media Lab",
+  "email": "veronica.smith@media.mit.edu"
+}

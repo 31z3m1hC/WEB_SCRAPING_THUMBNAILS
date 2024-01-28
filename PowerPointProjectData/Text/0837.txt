@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy: A Sustainable Solution",
+  "author": "Dr. Thomas Meyer",
+  "affiliation": "University of California, Berkeley",
+  "email": "tmeyer@berkeley.edu"
+}

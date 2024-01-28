@@ -1,0 +1,6 @@
+{
+  "title": "Clean Water for Every Kid",
+  "author": "Sarah Jones",
+  "affiliation": "Water Research Institute",
+  "email": "sarah.jones@wri.org"
+}

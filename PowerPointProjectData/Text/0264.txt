@@ -1,0 +1,6 @@
+{
+  "title": "Artificial Intelligence in Healthcare",
+  "author": "Dr. Jennifer Smith",
+  "affiliation": "Stanford University",
+  "email": "jennifer.smith@stanford.edu"
+}

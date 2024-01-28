@@ -1,0 +1,6 @@
+{
+  "title": "Improving Crop Yield with Precision Farming",
+  "author": "Dr. Maria A. Oliver",
+  "affiliation": "Agricultural Research Institute",
+  "email": "maria.oliver@ari.org"
+}

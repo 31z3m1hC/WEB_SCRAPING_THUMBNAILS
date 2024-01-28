@@ -1,0 +1,6 @@
+{
+  "title": "Energy-Efficient Buildings: A Sustainable Future",
+  "author": "Emma Baker",
+  "affiliation": "University of California, Berkeley",
+  "email": "emma.baker@berkeley.edu"
+}

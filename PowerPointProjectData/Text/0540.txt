@@ -1,0 +1,6 @@
+{
+  "title": "Safeguarding Memories: AI in Dementia Detection",
+  "author": "Dr. Anna Young",
+  "affiliation": "Alzheimer's Research Institute",
+  "email": "anna.young76@columbiauniversity.edu"
+}

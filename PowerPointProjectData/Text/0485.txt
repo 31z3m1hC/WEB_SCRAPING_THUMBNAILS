@@ -1,0 +1,6 @@
+{
+  "title": "The Power of Nonverbal Communication",
+  "author": "Albert Mehrabian",
+  "affiliation": "University of California, Los Angeles",
+  "email": "mehrabiana@ucla.edu"
+}

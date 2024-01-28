@@ -1,0 +1,6 @@
+{
+  "title": "Online Learning: Benefits and Challenges",
+  "author": "Helen Lee",
+  "affiliation": "University of California, Berkeley",
+  "email": "helenlee@berkeley.edu"
+}

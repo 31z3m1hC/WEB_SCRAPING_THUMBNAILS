@@ -1,0 +1,6 @@
+{
+  "title": "Effects of Caffeine on Sleep Patterns",
+  "author": "Emma White",
+  "affiliation": "University of Sussex",
+  "email": "emma.white@sussex.ac.uk"
+}

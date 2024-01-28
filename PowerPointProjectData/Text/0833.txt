@@ -1,0 +1,6 @@
+{
+  "title": "Malaria Diagnosis using Machine Learning",
+  "author": "Dr. Sarah Anyango",
+  "affiliation": "Kenya Medical Research Institute",
+  "email": "sarah.anyango@kemri.co.ke"
+}

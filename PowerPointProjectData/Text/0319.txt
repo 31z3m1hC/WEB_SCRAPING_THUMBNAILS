@@ -1,0 +1,6 @@
+{
+  "title": "Antibacterial Potential of Clove Oil",
+  "author": "A.M. Saleh",
+  "affiliation": "Department of Pharmacognosy",
+  "email": "am.saleh@university.ac.uk"
+}

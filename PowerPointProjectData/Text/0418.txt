@@ -1,0 +1,6 @@
+{
+  "title": "COVID-19 Impact on Global Tourism",
+  "author": "Dr. Jane Doe",
+  "affiliation": "World Tourism Organization",
+  "email": "jane.doe@unwto.org"
+}

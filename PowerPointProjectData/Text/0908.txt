@@ -1,0 +1,6 @@
+{
+  "title": "Rebuilding Lost Memories with AI",
+  "author": "Dr. Emily Anderson",
+  "affiliation": "University of California, Los Angeles",
+  "email": "emily.anderson@ucla.edu"
+}

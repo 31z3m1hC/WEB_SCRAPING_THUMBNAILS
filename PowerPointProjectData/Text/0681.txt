@@ -1,0 +1,6 @@
+{
+  "title": "Exploring the Impact of AI on Healthcare",
+  "author": "John Smith",
+  "affiliation": "University of California, Los Angeles",
+  "email": "john.smith@ucla.edu"
+}

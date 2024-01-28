@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Sleep on Academic Performance",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "Stanford University",
+  "email": "sarah.jones@stanford.edu"
+}

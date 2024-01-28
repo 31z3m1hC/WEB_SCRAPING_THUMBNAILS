@@ -1,0 +1,6 @@
+{
+  "title": "COVID-19 Impact on Global Economy",
+  "author": "Stanley Fischer",
+  "affiliation": "BlackRock, Inc.",
+  "email": "stanleyfischer@blackrock.com"
+}

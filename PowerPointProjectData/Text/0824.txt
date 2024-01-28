@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Conservation Practices for Sustainable Agriculture",
+  "author": "Dr. Alice Smith",
+  "affiliation": "University of California, Davis",
+  "email": "alice.smith@ucdavis.edu"
+}

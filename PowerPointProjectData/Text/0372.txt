@@ -1,0 +1,6 @@
+{
+  "title": "Analyzing Factors Affecting Diabetes Management",
+  "author": "Dr. Robert Butler",
+  "affiliation": "University of California, San Francisco",
+  "email": "rbutler@UCSF.edu"
+}

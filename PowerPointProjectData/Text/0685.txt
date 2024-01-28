@@ -1,0 +1,6 @@
+{
+  "title": "Climate Variability and Crop Yield",
+  "author": "Xin Liu",
+  "affiliation": "International Crops Research Institute for the Semi-Arid Tropics",
+  "email": "x.liu@cgiar.org"
+}

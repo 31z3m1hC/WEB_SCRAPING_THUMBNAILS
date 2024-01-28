@@ -1,0 +1,6 @@
+{
+  "title": "Impact of AI on Climate Change",
+  "author": "Jane Doe",
+  "affiliation": "MIT Climate Center",
+  "email": "jane.doe@mit.edu"
+}

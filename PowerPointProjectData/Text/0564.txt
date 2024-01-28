@@ -1,0 +1,6 @@
+{
+  "title": "Unraveling Gender Disparities in STEM: Path Ahead",
+  "author": "Josie Alyn Parker",
+  "affiliation": "Emory University",
+  "email": "parkerja@emory.edu"
+}

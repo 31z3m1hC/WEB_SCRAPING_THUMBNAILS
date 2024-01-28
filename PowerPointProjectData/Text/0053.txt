@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Poverty on Educational Attainment",
+  "author": "Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

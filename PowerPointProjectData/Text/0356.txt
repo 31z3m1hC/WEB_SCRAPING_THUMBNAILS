@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Resilience: A Biological Perspective",
+  "author": "Sarah Benson",
+  "affiliation": "Plant Biology Research Institute",
+  "email": "sarah.benson@pbri.edu"
+}

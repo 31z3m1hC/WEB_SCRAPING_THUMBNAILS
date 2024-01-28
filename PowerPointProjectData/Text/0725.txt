@@ -1,0 +1,6 @@
+{
+  "title": "Decoding Alzheimer's Mysteries",
+  "author": "Sara Anders",
+  "affiliation": "Brain Health Institute",
+  "email": "sara.anders@brainhealth.org"
+}

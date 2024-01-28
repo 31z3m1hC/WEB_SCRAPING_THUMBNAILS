@@ -1,0 +1,6 @@
+{
+  "title": "How do dreams affect sleeping?",
+  "author": "Sigmund Freud",
+  "affiliation": "University of Vienna",
+  "email": "sigmund.freud@univie.ac.at"
+}

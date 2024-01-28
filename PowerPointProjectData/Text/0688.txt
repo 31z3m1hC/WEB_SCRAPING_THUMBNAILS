@@ -1,0 +1,6 @@
+{
+  "title": "Fishing for Food: Exploring Sustainable Fishing Practices",
+  "author": "Jane Doe",
+  "affiliation": "Ocean Environment Foundation",
+  "email": "jane.doe@oceanenvironmentfoundation.org"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Coral Reef Dynamics in Warming Seas",
+  "author": "Alice Jones",
+  "affiliation": "National Marine Biology Lab",
+  "email": "alice.jones@marinebiology.org"
+}

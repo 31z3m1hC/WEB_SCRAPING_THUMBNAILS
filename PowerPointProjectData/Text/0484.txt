@@ -1,0 +1,6 @@
+{
+  "title": "Microbial Fuel Cells: Clean Energy from Wastewater",
+  "author": "Dr. Shannon Farrah",
+  "affiliation": "University of California, Berkeley",
+  "email": "sfarrah@berkeley.edu"
+}

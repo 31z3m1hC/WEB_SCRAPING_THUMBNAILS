@@ -1,0 +1,6 @@
+{
+  "title": "Waves: Patterns of Energy",
+  "author": "Richard Feynman",
+  "affiliation": "California Institute of Technology",
+  "email": "rfeynman@caltech.edu"
+}

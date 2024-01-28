@@ -1,0 +1,6 @@
+{
+  "title": "Climate Shifts: Past, Present and Future",
+  "author": "Dr. Fiona Bergin",
+  "affiliation": "University of Quebec at Montreal",
+  "email": "fiona.bergin@uqam.ca"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "New Method for Cocoa Bean Drying",
+  "author": "Richard O. Adurodija",
+  "affiliation": "Cocoa Research Institute of Nigeria",
+  "email": "richard.adurodija@crini.gov.ng"
+}

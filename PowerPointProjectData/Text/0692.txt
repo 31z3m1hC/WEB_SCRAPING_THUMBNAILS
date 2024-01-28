@@ -1,0 +1,6 @@
+{
+  "title": "Influenza Vaccination Hesitancy in the Elderly",
+  "author": "Peter Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "petersmith@berkeley.edu"
+}

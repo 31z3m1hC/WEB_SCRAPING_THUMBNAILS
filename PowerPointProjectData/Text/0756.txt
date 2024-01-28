@@ -1,0 +1,6 @@
+{
+  "title": "Immune System Responses to Pollution",
+  "author": "Dr. Rachel Carson",
+  "affiliation": "Environmental Protection Agency",
+  "email": "rac...@epa.gov"
+}

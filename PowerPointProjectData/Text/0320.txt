@@ -1,0 +1,6 @@
+{
+  "title": "Assessing Air Quality Trends",
+  "author": "S. N. Koplitz",
+  "affiliation": "US Environmental Protection Agency",
+  "email": "koplitz.steven@epa.gov"
+}

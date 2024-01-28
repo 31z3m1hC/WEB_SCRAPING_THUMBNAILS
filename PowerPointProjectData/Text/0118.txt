@@ -1,0 +1,6 @@
+{
+  "title": "Identifying Fake News Sources",
+  "author": "Akhil Behl",
+  "affiliation": "MIT Media Lab",
+  "email": "ab@mit.edu"
+}

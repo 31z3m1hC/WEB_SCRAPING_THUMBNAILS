@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Drinking Water",
+  "author": "Sherri A. Mason",
+  "affiliation": "State University of New York, Fredonia",
+  "email": "smason2@fredonia.edu"
+}

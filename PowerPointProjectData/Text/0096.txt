@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Green Hydrogen",
+  "author": "Giovanni Collina",
+  "affiliation": "University of Bologna",
+  "email": "g.collina@unibo.it"
+}

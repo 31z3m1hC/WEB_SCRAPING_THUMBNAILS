@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Autism's Genetic Roots",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "Harvard Medical School",
+  "email": "sjones@hms.harvard.edu"
+}

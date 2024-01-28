@@ -1,0 +1,6 @@
+{
+  "title": "Achieving Sustainability in Fashion",
+  "author": "Anya Kalugina",
+  "affiliation": "The New School, Parsons School of Design",
+  "email": "akalugina@newschool.edu"
+}

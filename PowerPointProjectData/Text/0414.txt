@@ -1,0 +1,6 @@
+{
+  "title": "Mapping the Genome of the Honey Bee",
+  "author": "May Berenbaum",
+  "affiliation": "University of Illinois at Urbana-Champaign",
+  "email": "berenbaum@illinois.edu"
+}

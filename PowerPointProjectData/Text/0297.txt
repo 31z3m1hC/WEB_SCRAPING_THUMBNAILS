@@ -1,0 +1,6 @@
+{
+  "title": "Artificial Intelligence in Healthcare: A Promise for Better Care",
+  "author": "Dr. Emily Jones",
+  "affiliation": "Massachusetts General Hospital",
+  "email": "ejones@mgh.harvard.edu"
+}

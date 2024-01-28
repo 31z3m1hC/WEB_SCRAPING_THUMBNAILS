@@ -1,0 +1,6 @@
+{
+  "title": "Music Therapy for Alzheimer's",
+  "author": "Dr. Anthony Holland",
+  "affiliation": "University of California, Los Angeles",
+  "email": "anthony.holland@ucla.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Online Learning: Trends and Challenges",
+  "author": "Dr. Jane Smith",
+  "affiliation": "Stanford University",
+  "email": "jane.smith@stanford.edu"
+}

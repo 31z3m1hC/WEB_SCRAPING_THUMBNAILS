@@ -1,0 +1,6 @@
+{
+  "title": "Solar Panels for Homes",
+  "author": "John Smith",
+  "affiliation": "GreenTech Solutions",
+  "email": "johnsmith@greentech.com"
+}

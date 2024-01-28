@@ -1,0 +1,6 @@
+{
+  "title": "Developing Green Supercapacitors",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "Stanford University",
+  "email": "sandrajones@stanford.edu"
+}

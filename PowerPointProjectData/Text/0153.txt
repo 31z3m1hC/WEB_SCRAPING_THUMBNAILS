@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Microplastic Pollution in Aquatic Ecosystems",
+  "author": "Rani Rani",
+  "affiliation": "National Institute of Oceanography",
+  "email": "rani.rani@nio.org"
+}

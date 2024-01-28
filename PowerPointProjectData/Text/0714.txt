@@ -1,0 +1,6 @@
+{
+  "title": "Unraveling Alzheimer's Mysteries",
+  "author": "Dr. Lisa Genova",
+  "affiliation": "Harvard University",
+  "email": "lgenova@harvard.edu"
+}

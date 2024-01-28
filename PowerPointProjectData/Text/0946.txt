@@ -1,0 +1,6 @@
+{
+  "title": "AI-powered Detection of Leukemia",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "Harvard Medical School",
+  "email": "sarah.jones@hms.harvard.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Truth: Exploring the Enigma of Fake News",
+  "author": "Dr. Emily Carter",
+  "affiliation": "University of Washington",
+  "email": "ecarter@uw.edu"
+}

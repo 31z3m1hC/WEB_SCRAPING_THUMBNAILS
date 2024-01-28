@@ -1,0 +1,6 @@
+{
+  "title": "Analyzing Online Reviews for Sentiment Trends",
+  "author": "Emma Watson",
+  "affiliation": "Harvard University",
+  "email": "emma.watson@harvard.edu"
+}

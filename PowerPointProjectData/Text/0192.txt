@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Yield Through Genetic Engineering",
+  "author": "Jennifer Doudna",
+  "affiliation": "University of California, Berkeley",
+  "email": "doudna@berkeley.edu"
+}

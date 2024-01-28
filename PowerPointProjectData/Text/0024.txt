@@ -1,0 +1,6 @@
+{
+  "title": "Microplastic Pollution in Oceans",
+  "author": "Sarah Wilson",
+  "affiliation": "University of California, San Diego",
+  "email": "swilson@ucsd.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Analyzing the Impact of Emotional Marketing",
+  "author": "Jennifer Smith",
+  "affiliation": "XYZ Marketing Research Lab",
+  "email": "jennifer.smith@xyzresearchlab.com"
+}

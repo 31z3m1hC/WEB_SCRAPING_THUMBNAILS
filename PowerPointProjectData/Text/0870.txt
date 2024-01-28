@@ -1,0 +1,6 @@
+{
+  "title": "Sleep Habits and Students' Grades",
+  "author": "Alice Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "alice.smith@berkeley.edu"
+}

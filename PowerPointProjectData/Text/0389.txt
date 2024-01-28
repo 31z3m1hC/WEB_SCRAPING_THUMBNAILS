@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Music on Emotional Regulation",
+  "author": "Jennifer A. Grocke",
+  "affiliation": "University of California, Los Angeles",
+  "email": "jgrocke@ucla.edu"
+}

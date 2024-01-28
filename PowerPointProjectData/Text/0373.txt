@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy's Role in Mitigating Climate Change",
+  "author": "Sophia Jones",
+  "affiliation": "Cambridge University",
+  "email": "sjones@cam.ac.uk"
+}

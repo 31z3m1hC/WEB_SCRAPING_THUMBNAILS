@@ -1,0 +1,6 @@
+{
+  "title": "Spectacular Sunsets: Illuminating Physics and Perception",
+  "author": "Alicia M. Soderberg",
+  "affiliation": "Harvard University",
+  "email": "asoderberg@g.harvard.edu"
+}

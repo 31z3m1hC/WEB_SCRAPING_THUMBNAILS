@@ -1,0 +1,6 @@
+{
+  "title": "Decoding Dreams: Unveiling the Mystery",
+  "author": "Dr. Emma Watson",
+  "affiliation": "Institute of Neuropsychology",
+  "email": "emma.watson@neuropsy.org"
+}

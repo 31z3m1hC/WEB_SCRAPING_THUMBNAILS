@@ -1,0 +1,6 @@
+{
+  "title": "Rural Development and Livelihood",
+  "author": "Varsha Das",
+  "affiliation": "Tata Institute of Social Sciences",
+  "email": "vardha@tiss.edu"
+}

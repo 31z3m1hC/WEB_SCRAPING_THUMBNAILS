@@ -1,0 +1,6 @@
+{
+  "title": "Detection of Dementia Using AI",
+  "author": "Dr. Mark O'Neill",
+  "affiliation": "Stanford University",
+  "email": "mark.oneill@stanford.edu"
+}

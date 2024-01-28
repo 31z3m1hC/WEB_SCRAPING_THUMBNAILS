@@ -1,0 +1,6 @@
+{
+  "title": "Link Between Sleep and Immunity",
+  "author": "Dr. Michael Breus",
+  "affiliation": "The Sleep Doctor",
+  "email": "thesleepdoctor@gmail.com"
+}

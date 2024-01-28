@@ -1,0 +1,6 @@
+{
+  "title": "AI-Powered Cancer Detection",
+  "author": "Dr. Jennifer Smith",
+  "affiliation": "MIT Computer Science",
+  "email": "jsmith@mit.edu"
+}

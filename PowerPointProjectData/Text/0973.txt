@@ -1,0 +1,6 @@
+{
+  "title": "Exploring New Materials for Energy Storage",
+  "author": "Dr. Robert Green",
+  "affiliation": "GreenTech Research Lab",
+  "email": "robert.green@greentechlab.com"
+}

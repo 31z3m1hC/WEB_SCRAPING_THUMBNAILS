@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Secrets of Dark Matter",
+  "author": "Dr. Lisa Randall",
+  "affiliation": "Harvard University",
+  "email": "lrandall@physics.harvard.edu"
+}

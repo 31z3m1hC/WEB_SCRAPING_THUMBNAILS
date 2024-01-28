@@ -1,0 +1,6 @@
+{
+  "title": "Phone Usage and Academic Performance",
+  "author": "Robert J. Sternberg",
+  "affiliation": "Cornell University",
+  "email": "sternberg@cornell.edu"
+}

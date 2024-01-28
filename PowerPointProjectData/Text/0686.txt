@@ -1,0 +1,6 @@
+{
+  "title": "Indoor Plants for Better Health",
+  "author": "Sarah Thomas",
+  "affiliation": "University of Michigan",
+  "email": "sthomas@umich.edu"
+}

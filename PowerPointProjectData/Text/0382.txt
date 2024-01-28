@@ -1,0 +1,6 @@
+{
+  "title": "Student Performance Prediction",
+  "author": "Michael Bukowy",
+  "affiliation": "University of Nevada, Reno",
+  "email": "michael.bukowy@unr.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Sleep Patterns in Infants",
+  "author": "Amelia Edwards",
+  "affiliation": "University of California, Berkeley",
+  "email": "Amelia.Edwards@berkeley.edu"
+}

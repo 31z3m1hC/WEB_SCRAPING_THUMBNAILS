@@ -1,0 +1,6 @@
+{
+  "title": "Book Reading Enhances Cognitive Skills",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of Cambridge",
+  "email": "sarah.jones@cam.ac.uk"
+}

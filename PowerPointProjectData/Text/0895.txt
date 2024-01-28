@@ -1,0 +1,6 @@
+{
+  "title": "Gender and Academic Performance",
+  "author": "Sarah Jones",
+  "affiliation": "University of Oxford",
+  "email": "sarah.jones@ox.ac.uk"
+}

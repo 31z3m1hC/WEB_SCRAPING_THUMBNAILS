@@ -1,0 +1,6 @@
+{
+  "title": "Diet and Mental Health: Unravelling the Connection",
+  "author": "Julia A. Bauer",
+  "affiliation": "University of Illinois at Urbana-Champaign",
+  "email": "bauerja@illinois.edu"
+}

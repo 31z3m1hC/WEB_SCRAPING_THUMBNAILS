@@ -1,0 +1,6 @@
+{
+  "title": "Public Health Effects of Air Pollution",
+  "author": "Dr. Sarah Williams",
+  "affiliation": "Harvard University",
+  "email": "sarah.williams@harvard.edu"
+}

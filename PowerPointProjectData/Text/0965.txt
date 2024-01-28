@@ -1,0 +1,6 @@
+{
+  "title": "Fitness Benefits of Dance",
+  "author": "A. Brown",
+  "affiliation": "Texas State University",
+  "email": "abrown@exampledomain.com"
+}

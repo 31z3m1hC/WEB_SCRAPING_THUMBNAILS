@@ -1,0 +1,6 @@
+{
+  "title": "Assessing the Impact of Digital Literacy on Career Opportunities",
+  "author": "Sarah J. Robinson",
+  "affiliation": "University of California, Berkeley",
+  "email": "srobinson@berkeley.edu"
+}

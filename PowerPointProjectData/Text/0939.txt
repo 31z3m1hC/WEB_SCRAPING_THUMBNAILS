@@ -1,0 +1,6 @@
+{
+  "title": "Degradable Polymers: Eco-Friendly Solutions",
+  "author": "Sarah Johnson",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.johnson@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "How Sleep Impacts Memory Retention",
+  "author": "Dr. Sara Mednick",
+  "affiliation": "University of California, Riverside",
+  "email": "sara.mednick@ucr.edu"
+}

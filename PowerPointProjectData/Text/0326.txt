@@ -1,0 +1,6 @@
+{
+  "title": "Algal Blooms: Causes, Impacts, Solutions",
+  "author": "Dr. Steven Wilhelm",
+  "affiliation": "University of California, Santa Barbara",
+  "email": "swilhelm@ucsb.edu"
+}

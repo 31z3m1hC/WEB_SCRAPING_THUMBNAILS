@@ -1,0 +1,6 @@
+{
+  "title": "Memes and Cultural Identity",
+  "author": "Sarah Johnson",
+  "affiliation": "University of California, Berkeley",
+  "email": "sjohnson@berkeley.edu"
+}

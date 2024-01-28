@@ -1,0 +1,6 @@
+{
+  "title": "Solar Power for Sustainable Homes",
+  "author": "Benjamin FrederikPhillips",
+  "affiliation": "University of California, Berkeley",
+  "email": "benjamin.phillips@berkeley.edu"
+}

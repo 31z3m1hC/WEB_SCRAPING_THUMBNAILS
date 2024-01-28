@@ -1,0 +1,6 @@
+{
+  "title": "Effective Alzheimer's Therapy: New Hope",
+  "author": "Dr. David Smith",
+  "affiliation": "Stanford University",
+  "email": "davids@stanford.edu"
+}

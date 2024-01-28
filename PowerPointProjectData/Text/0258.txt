@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Education on Poverty Alleviation",
+  "author": "Dr. Jane Smith",
+  "affiliation": "Oxford University",
+  "email": "jane.smith@oxford.ac.uk"
+}

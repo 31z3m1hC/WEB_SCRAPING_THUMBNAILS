@@ -1,0 +1,6 @@
+{
+  "title": "AI-driven Mental Health Monitoring",
+  "author": "Dr. Emily Reynolds",
+  "affiliation": "UCLA School of Medicine",
+  "email": "emily.reynolds@ucla.edu"
+}

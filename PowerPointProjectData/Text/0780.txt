@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Gamification in Education",
+  "author": "Robert E. Schwier",
+  "affiliation": "University of Texas at Austin",
+  "email": "robert.schwier@utexas.edu"
+}

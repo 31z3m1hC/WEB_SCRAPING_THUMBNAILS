@@ -1,0 +1,6 @@
+{
+  "title": "Analysis of Climate Variability in Desert Regions",
+  "author": "Dr. Lisa Thomas",
+  "affiliation": "National Institute of Climate Studies",
+  "email": "lisathomas@climate.org"
+}

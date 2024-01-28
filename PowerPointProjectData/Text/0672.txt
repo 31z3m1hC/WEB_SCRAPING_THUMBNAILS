@@ -1,0 +1,6 @@
+{
+  "title": "Decoding Human Emotions through Facial Expressions",
+  "author": "Dr. Lisa Walker",
+  "affiliation": "University of California, Berkeley",
+  "email": "walkerl@berkeley.edu"
+}

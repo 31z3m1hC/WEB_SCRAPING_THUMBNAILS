@@ -1,0 +1,6 @@
+{
+  "title": "Internet Usage and Academic Performance",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.doe@berkeley.edu"
+}

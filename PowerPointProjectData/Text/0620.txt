@@ -1,0 +1,6 @@
+{
+  "title": "Cell Communication: The Vital Exchange",
+  "author": "Dr. Emily Johnson",
+  "affiliation": "Stanford University",
+  "email": "emilyjohnson@stanford.edu"
+}

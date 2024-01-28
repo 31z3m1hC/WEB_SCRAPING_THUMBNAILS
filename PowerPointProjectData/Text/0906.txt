@@ -1,0 +1,6 @@
+{
+  "title": "Trustworthy AI Systems",
+  "author": "Pedro Domingos",
+  "affiliation": "University of Washington",
+  "email": "pedrod@cs.washington.edu"
+}

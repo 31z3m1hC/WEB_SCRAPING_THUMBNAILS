@@ -1,0 +1,6 @@
+{
+  "title": "Assessing Stress Levels in Students",
+  "author": "Sarah Williams",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.williams@berkeley.edu"
+}

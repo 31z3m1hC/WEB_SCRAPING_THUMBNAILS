@@ -1,0 +1,6 @@
+{
+  "title": "Impact of COVID-19 on Mental Health",
+  "author": "Sarah Jones",
+  "affiliation": "University of Oxford",
+  "email": "sarah.jones@ox.ac.uk"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Marine Organisms",
+  "author": "Chelsea Rochman",
+  "affiliation": "University of California, San Diego",
+  "email": "crochman@ucsd.edu"
+}

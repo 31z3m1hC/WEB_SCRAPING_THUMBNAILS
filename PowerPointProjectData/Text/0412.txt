@@ -1,0 +1,6 @@
+{
+  "title": "Sensor-based Health Monitoring System",
+  "author": "Thomas Meyer",
+  "affiliation": "University of Zurich",
+  "email": "thomas.meyer@uzh.ch"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change and Sea Level Rise",
+  "author": "Dr. Peter Gleick",
+  "affiliation": "Pacific Institute",
+  "email": "peter.gleick@pacinst.org"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Food Quality and Consumer Health",
+  "author": "Dr. Sarah Williams",
+  "affiliation": "Harvard University",
+  "email": "swilliams@hsph.harvard.edu"
+}

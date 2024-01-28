@@ -1,0 +1,6 @@
+{
+  "title": "Virtual Reality in Cancer Therapy",
+  "author": "Dokuzun Sahin",
+  "affiliation": "Sultan Ul Uloom College Lahore",
+  "email": "sahibzada.dss@suul.edu.pk"
+}

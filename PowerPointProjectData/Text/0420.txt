@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Protein Mysteries: Unraveling their Structures",
+  "author": "Dr. Sarah Stewart",
+  "affiliation": "Stanford University",
+  "email": "stewart.sarah@stanford.edu"
+}

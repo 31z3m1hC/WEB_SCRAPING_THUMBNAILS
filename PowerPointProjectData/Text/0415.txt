@@ -1,0 +1,6 @@
+{
+  "title": "Measuring Inequality with Gini Coefficient",
+  "author": "Francisco Ferreira",
+  "affiliation": "World Bank",
+  "email": "ff@worldbank.org"
+}

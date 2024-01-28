@@ -1,0 +1,6 @@
+{
+  "title": "The Power of Social Media",
+  "author": "Erik Brynjolfsson",
+  "affiliation": "MIT Sloan School of Management",
+  "email": "erik.brynjolfsson@mit.edu"
+}

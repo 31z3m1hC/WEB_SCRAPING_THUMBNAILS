@@ -1,0 +1,6 @@
+{
+  "title": "Machine Learning for Spam Detection",
+  "author": "Dr. Emily Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "emily.jones@berkeley.edu"
+}

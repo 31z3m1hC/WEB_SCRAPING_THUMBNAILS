@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Social Media on Mental Health",
+  "author": "Emma Thompson",
+  "affiliation": "Stanford University",
+  "email": "emma.thompson@stanford.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "AI-Generated Art: A New Frontier",
+  "author": "John Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "jsmith@berkeley.edu"
+}

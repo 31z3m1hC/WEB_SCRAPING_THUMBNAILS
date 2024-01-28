@@ -1,0 +1,6 @@
+{
+  "title": "Benefits of AI in Healthcare Industry",
+  "author": "Dr. Emily Jones",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "emily.jones@mit.edu"
+}

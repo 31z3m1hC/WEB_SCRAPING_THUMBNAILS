@@ -1,0 +1,6 @@
+{
+  "title": "Green Buildings: Cost-Effective and Eco-Friendly",
+  "author": "Sarah Williams",
+  "affiliation": "University of California, Berkeley",
+  "email": "swilliams@berkeley.edu"
+}

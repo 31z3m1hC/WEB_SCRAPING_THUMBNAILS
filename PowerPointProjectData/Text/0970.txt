@@ -1,0 +1,6 @@
+{
+  "title": "Coconut Oil: A Healthier Cooking Option",
+  "author": "Dr. Maria A. Smith",
+  "affiliation": "Harvard University",
+  "email": "maria.smith@harvard.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Vegan Diets and Cardiovascular Health",
+  "author": "Joanna Kaluza",
+  "affiliation": "Harvard T.H. Chan School of Public Health",
+  "email": "jkaluza@hsph.harvard.edu"
+}

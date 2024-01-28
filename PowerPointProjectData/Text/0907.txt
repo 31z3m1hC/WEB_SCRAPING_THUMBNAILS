@@ -1,0 +1,6 @@
+{
+  "title": "Global Warming's Impact on Oceans",
+  "author": "Dr. Uma Maheshwari",
+  "affiliation": "Oceanographic Institute",
+  "email": "umamaheshwari@oceanographicinstitute.org"
+}

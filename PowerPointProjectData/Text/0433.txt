@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Carbon Cycle's Secrets",
+  "author": "Dr. Samantha Williams",
+  "affiliation": "Stanford University",
+  "email": "drsamanthawilliams@stanford.edu"
+}

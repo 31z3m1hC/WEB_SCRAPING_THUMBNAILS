@@ -1,0 +1,6 @@
+{
+  "title": "Virtual Shopping: Impact on Consumers",
+  "author": "Mark Macdonald",
+  "affiliation": "University of St Andrews",
+  "email": "mdm@st-andrews.ac.uk"
+}

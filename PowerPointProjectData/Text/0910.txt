@@ -1,0 +1,6 @@
+{
+  "title": "Gender Bias in Online Job Ads",
+  "author": "Rebecca Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "rebecca.smith@berkeley.edu"
+}

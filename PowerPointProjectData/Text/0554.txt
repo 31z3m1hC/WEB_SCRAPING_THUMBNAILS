@@ -1,0 +1,6 @@
+{
+  "title": "Painless Blood Draws in Infants",
+  "author": "Leonard Sender",
+  "affiliation": "Dartmouth Hitchcock Medical Center",
+  "email": "Leonard.Sender@hitchcock.org"
+}

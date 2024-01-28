@@ -1,0 +1,6 @@
+{
+  "title": "Decoding Emotions through Facial Expressions",
+  "author": "Mehrun Jahan Eva",
+  "affiliation": "Texas A&M University",
+  "email": "eva@tamu.edu"
+}

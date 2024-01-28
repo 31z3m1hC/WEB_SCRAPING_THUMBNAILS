@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Sleep Patterns of University Students",
+  "author": "Dr. Emma Smith",
+  "affiliation": "Sleep Research Center, Harvard University",
+  "email": "emma.smith@harvard.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Examining the Climate Impact of Air Travel",
+  "author": "Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

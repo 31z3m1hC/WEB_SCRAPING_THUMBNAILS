@@ -1,0 +1,6 @@
+{
+  "title": "Healthy Diet Habits in Preschoolers",
+  "author": "Rebecca Bechard",
+  "affiliation": "Dietitian & Nutritionist, University of Minnesota",
+  "email": "rbechard@umn.edu"
+}

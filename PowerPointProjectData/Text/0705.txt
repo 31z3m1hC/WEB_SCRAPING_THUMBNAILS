@@ -1,0 +1,6 @@
+{
+  "title": "Unraveling Life's Mysteries",
+  "author": "Jane Doe",
+  "affiliation": "Harvard University",
+  "email": "janedoe@harvard.edu"
+}

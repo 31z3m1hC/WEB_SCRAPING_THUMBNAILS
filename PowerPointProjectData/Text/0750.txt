@@ -1,0 +1,6 @@
+{
+  "title": "Investigating Impacts of Pervasive Computing",
+  "author": "Robin R. Murphy",
+  "affiliation": "Texas A&M University",
+  "email": "murphr@tamu.edu"
+}

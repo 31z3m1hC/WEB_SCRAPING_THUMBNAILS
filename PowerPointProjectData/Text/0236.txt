@@ -1,0 +1,6 @@
+{
+  "title": "Sleep Habits and Academic Performance",
+  "author": "Dr. Emma Williams",
+  "affiliation": "University of California, Berkeley",
+  "email": "ewilliams@berkeley.edu"
+}

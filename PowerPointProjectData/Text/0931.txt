@@ -1,0 +1,6 @@
+{
+  "title": "Minimizing Wind Turbine Noise",
+  "author": "Omer San",
+  "affiliation": "Stanford University",
+  "email": "osan@stanford.edu"
+}

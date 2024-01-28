@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Patterns in Climate Anomalies",
+  "author": "Dr. Alan F. Reifman",
+  "affiliation": "Meteorological Research Center",
+  "email": "alan.reifman@metcenter.com"
+}

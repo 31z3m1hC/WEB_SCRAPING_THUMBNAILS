@@ -1,0 +1,6 @@
+{
+  "title": "Electric Cars: A Path to Cleaner Future",
+  "author": "John Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "johnsmith@berkeley.edu"
+}

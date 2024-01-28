@@ -1,0 +1,6 @@
+{
+  "title": "Metal-Organic Frameworks for Gas Storage",
+  "author": "Omar M. Yaghi",
+  "affiliation": "University of California, Berkeley",
+  "email": "yaghi@berkeley.edu"
+}

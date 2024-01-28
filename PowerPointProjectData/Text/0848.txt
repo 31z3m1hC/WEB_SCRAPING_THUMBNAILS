@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Yield with Nitrogen Fixing Bacteria",
+  "author": "Dr. Lisa Brown",
+  "affiliation": "University of California, Davis",
+  "email": "lbrown@ucdavis.edu"
+}

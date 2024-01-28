@@ -1,0 +1,6 @@
+{
+  "title": "Boosting Tomato Yield with Eco-Friendly Fertilizers",
+  "author": "Dr. Emily Harrison",
+  "affiliation": "University of California, Davis",
+  "email": "emily.harrison@ucdavis.edu"
+}

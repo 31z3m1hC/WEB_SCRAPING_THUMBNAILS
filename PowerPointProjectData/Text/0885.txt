@@ -1,0 +1,6 @@
+{
+  "title": "Paper on Plant-Based Diets",
+  "author": "Elena Maria Barrett",
+  "affiliation": "Imperial College, London",
+  "email": "elena.barrett@imperial.ac.uk"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Fighting Cancer with AI",
+  "author": "Dr. Emma Smith",
+  "affiliation": "MIT Scientist",
+  "email": "emma.smith@smithlab.com"
+}

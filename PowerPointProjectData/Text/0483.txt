@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy for Climate Change",
+  "author": "Dr. John Smith",
+  "affiliation": "Stanford University",
+  "email": "john.smith@stanford.edu"
+}

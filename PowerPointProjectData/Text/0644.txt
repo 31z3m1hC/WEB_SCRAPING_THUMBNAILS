@@ -1,0 +1,6 @@
+{
+  "title": "Antimicrobial Activity of Plant Extracts",
+  "author": "Sabrina Dantas Dutra",
+  "affiliation": "Federal University of Ceara",
+  "email": "sabrina.dutra@ufce.br"
+}

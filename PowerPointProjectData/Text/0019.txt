@@ -1,0 +1,6 @@
+{
+  "title": "Rising Sea Levels: Causes and Consequences",
+  "author": "Dr. Jane Doe",
+  "affiliation": "National Oceanic and Atmospheric Administration",
+  "email": "jane.doe@noaa.gov"
+}

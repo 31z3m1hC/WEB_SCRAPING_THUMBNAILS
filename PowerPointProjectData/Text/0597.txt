@@ -1,0 +1,6 @@
+{
+  "title": "Using AI for language translation",
+  "author": "Emily Wang",
+  "affiliation": "Stanford University",
+  "email": "emily.wang@stanford.edu"
+}

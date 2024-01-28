@@ -1,0 +1,6 @@
+{
+  "title": "Nutrition Interventions in Early Childhood",
+  "author": "Helen Lee",
+  "affiliation": "Harvard T.H. Chan School of Public Health",
+  "email": "hlee7@hsph.harvard.edu"
+}

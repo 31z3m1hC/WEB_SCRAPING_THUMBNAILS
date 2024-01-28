@@ -1,0 +1,6 @@
+{
+  "title": "Protein Structure Prediction: A Molecular Jigsaw Puzzle",
+  "author": "Vikram Mulligan",
+  "affiliation": "King's College, London",
+  "email": "v.mulligan@kcl.ac.uk"
+}

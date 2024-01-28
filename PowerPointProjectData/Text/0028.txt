@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Innovation's Secrets",
+  "author": "David B. Ridley",
+  "affiliation": "MIT Innovation Lab",
+  "email": "ridleyd@mit.edu"
+}

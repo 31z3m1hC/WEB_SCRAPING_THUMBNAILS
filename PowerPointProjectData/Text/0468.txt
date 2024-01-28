@@ -1,0 +1,6 @@
+{
+  "title": "Language Acquisition in Children",
+  "author": "Dr. Sarah Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarahsmith@berkeley.edu"
+}

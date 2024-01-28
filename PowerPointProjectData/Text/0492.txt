@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Sunspots and Solar Flares",
+  "author": "Dr. Louise Harra",
+  "affiliation": "University College London",
+  "email": "l.harra@ucl.ac.uk"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Assessing Brain Health in Aging Adults",
+  "author": "Rebecca Woodard",
+  "affiliation": "University of California, Berkeley",
+  "email": "rwoodard@berkeley.edu"
+}

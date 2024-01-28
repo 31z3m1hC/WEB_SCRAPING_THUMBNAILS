@@ -1,0 +1,6 @@
+{
+  "title": "Mental Health and Smartphone Usage",
+  "author": "Jessica A. Hamilton",
+  "affiliation": "University of California, Berkeley",
+  "email": "jessicahamilton@berkeley.edu"
+}

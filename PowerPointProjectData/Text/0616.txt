@@ -1,0 +1,6 @@
+{
+  "title": "Microalgae as Biofuel Feedstock",
+  "author": "John Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "johnsmith@berkeley.edu"
+}

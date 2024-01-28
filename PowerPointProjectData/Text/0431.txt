@@ -1,0 +1,6 @@
+{
+  "title": "Visualizing COVID-19 Spread Patterns",
+  "author": "Dr. Amelia Martinez",
+  "affiliation": "Epidemiologist, WHO",
+  "email": "ameliafm@who.int"
+}

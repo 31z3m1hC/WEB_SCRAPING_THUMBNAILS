@@ -1,0 +1,6 @@
+{
+  "title": "Emotions in Decision Making",
+  "author": "Antonio Damasio",
+  "affiliation": "University of Southern California",
+  "email": "antonio.damasio@usc.edu"
+}

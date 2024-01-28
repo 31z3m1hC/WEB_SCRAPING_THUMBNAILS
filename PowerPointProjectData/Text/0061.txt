@@ -1,0 +1,6 @@
+{
+  "title": "Kids and Social Media",
+  "author": "Emily A. M. Todd",
+  "affiliation": "University of California, Berkeley",
+  "email": "eatodd@berkeley.edu"
+}

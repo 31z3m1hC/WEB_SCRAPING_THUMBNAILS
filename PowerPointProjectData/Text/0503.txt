@@ -1,0 +1,6 @@
+{
+  "title": "Does Encouragement Boost Productivity?",
+  "author": "Jessica Williams",
+  "affiliation": "University of California, Los Angeles",
+  "email": "jessica.williams@ucla.edu"
+}

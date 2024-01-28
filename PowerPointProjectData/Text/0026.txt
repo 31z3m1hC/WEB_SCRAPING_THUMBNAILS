@@ -1,0 +1,6 @@
+{
+  "title": "Rethinking Homelessness in the Digital Age",
+  "author": "Alexis Durham",
+  "affiliation": "Brown University School of Social Work",
+  "email": "alexis_durham@brown.edu"
+}

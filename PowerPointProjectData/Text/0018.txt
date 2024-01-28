@@ -1,0 +1,6 @@
+{
+  "title": "Education Attainment and Job Success",
+  "author": "Dr. Angela Lee",
+  "affiliation": "Harvard University",
+  "email": "alee@harvard.edu"
+}

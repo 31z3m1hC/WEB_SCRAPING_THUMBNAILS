@@ -1,0 +1,6 @@
+{
+  "title": "Bacteria's Voice: Decoding Microbial Languages",
+  "author": "Jane Doe",
+  "affiliation": "Microbiology Research Institute",
+  "email": "janedoe@microbiologyresearch.com"
+}

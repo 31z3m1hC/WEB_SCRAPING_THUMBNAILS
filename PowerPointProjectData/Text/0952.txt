@@ -1,0 +1,6 @@
+{
+  "title": "Genetic Determinants of Alzheimer's",
+  "author": "Clive Ballard",
+  "affiliation": "University of Exeter",
+  "email": "c.ballard@exeter.ac.uk"
+}

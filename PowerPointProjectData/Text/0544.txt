@@ -1,0 +1,6 @@
+{
+  "title": "Cutaneous Leishmaniasis in South India",
+  "author": "Ramesh Kumar",
+  "affiliation": "Christian Medical College, Vellore",
+  "email": "ramesh@cmcvellore.ac.in"
+}

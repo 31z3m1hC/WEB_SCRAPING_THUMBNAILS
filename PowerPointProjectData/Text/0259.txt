@@ -1,0 +1,6 @@
+{
+  "title": "Cancer Detection via Breath Analysis",
+  "author": "Rebecca Richards-Kortum",
+  "affiliation": "Rice University",
+  "email": "rrk@rice.edu"
+}

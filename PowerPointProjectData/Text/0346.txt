@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Social Media on Well-being",
+  "author": "Amelia Abrams",
+  "affiliation": "University of California",
+  "email": "a.abrams@berkeley.edu"
+}

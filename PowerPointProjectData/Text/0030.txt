@@ -1,0 +1,6 @@
+{
+  "title": "Wildfires and Changing Climate",
+  "author": "Sarah Knox",
+  "affiliation": "University of California, Berkeley",
+  "email": "sknox@berkeley.edu"
+}

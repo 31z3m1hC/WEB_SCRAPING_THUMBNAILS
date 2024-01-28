@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Sleep on Memory",
+  "author": "Dr. Jennifer Ackerman",
+  "affiliation": "University of California, Berkeley",
+  "email": "jackerman@berkeley.edu"
+}

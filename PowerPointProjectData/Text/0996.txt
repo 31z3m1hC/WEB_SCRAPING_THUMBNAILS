@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Climate Change on Ozone Depletion",
+  "author": "Dr. Helen Harper",
+  "affiliation": "Colorado School of Mines",
+  "email": "hh@mines.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Yield with IoT",
+  "author": "Dr. Mark Watson",
+  "affiliation": "University of California, Davis",
+  "email": "mark.watson@ucdavis.edu"
+}

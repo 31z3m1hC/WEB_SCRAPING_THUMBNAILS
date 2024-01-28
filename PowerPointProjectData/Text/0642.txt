@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Hidden Stories: Exploring Lost Civilizations",
+  "author": "Robin Pierse",
+  "affiliation": "University of Cambridge",
+  "email": "robin.peirse@cam.ac.uk"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Aging and Brain Health",
+  "author": "Lisa Genova",
+  "affiliation": "Harvard University",
+  "email": "lisagenova@harvard.edu"
+}

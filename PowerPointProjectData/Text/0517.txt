@@ -1,0 +1,6 @@
+{
+  "title": "Accelerating Sustainable Development",
+  "author": "Jeffrey D. Sachs",
+  "affiliation": "Center for Sustainable Development",
+  "email": "jsachs@columbia.edu"
+}

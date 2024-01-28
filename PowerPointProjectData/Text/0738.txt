@@ -1,0 +1,6 @@
+{
+  "title": "Using AI for Climate Prediction",
+  "author": "Dr. Jane Smith",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "jsmith@mit.edu"
+}

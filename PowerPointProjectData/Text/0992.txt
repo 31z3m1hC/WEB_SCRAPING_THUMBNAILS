@@ -1,0 +1,6 @@
+{
+  "title": "AI for Smarter Cities",
+  "author": "Dr. Alan Turing",
+  "affiliation": "University of Cambridge",
+  "email": "a.m.turing@cantab.net"
+}

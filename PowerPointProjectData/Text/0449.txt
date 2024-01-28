@@ -1,0 +1,6 @@
+{
+  "title": "Urbanization Impact on Climate Change",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.doe@berkeley.edu"
+}

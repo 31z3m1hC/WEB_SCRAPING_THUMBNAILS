@@ -1,0 +1,6 @@
+{
+  "title": "Blue Light Exposure and Sleep Quality",
+  "author": "John Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "johnsmith@berkeley.edu"
+}

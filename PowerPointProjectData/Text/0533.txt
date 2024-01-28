@@ -1,0 +1,6 @@
+{
+  "title": "E-learning: Shaping the Future of Education",
+  "author": "John Smith",
+  "affiliation": "Stanford University",
+  "email": "johnsmith@stanford.edu"
+}

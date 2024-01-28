@@ -1,0 +1,6 @@
+{
+  "title": "Green Tech in Urban Areas",
+  "author": "Maria Jones",
+  "affiliation": "EcoCity Inc.",
+  "email": "maria.jones@ecocity.org"
+}

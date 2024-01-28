@@ -1,0 +1,6 @@
+{
+  "title": "COVID-19 Impact on Mental Health",
+  "author": "Dr. Susan David",
+  "affiliation": "Harvard Medical School",
+  "email": "susan_david@hms.harvard.edu"
+}

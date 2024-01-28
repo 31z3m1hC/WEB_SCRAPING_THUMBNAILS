@@ -1,0 +1,6 @@
+{
+  "title": "Climate Variability Affects Coral Health",
+  "author": "Sarah Wilson",
+  "affiliation": "Australian Institute of Marine Science",
+  "email": "sarah.wilson@aims.gov.au"
+}

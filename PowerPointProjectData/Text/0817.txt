@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Bird Migration Patterns with AI",
+  "author": "Dr. Emily Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "emily.smith@berkeley.edu"
+}

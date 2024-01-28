@@ -1,0 +1,6 @@
+{
+  "title": "Social Media and Mental Health",
+  "author": "Dr. Silvia I. Ferrari",
+  "affiliation": "University of California, Los Angeles",
+  "email": "silviai.ferrari@ucla.edu"
+}

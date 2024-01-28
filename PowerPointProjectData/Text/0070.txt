@@ -1,0 +1,6 @@
+{
+  "title": "AI Art: Bridging Creative Worlds",
+  "author": "Oliver J. Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "oliver.smith@berkeley.edu"
+}

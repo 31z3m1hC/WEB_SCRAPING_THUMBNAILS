@@ -1,0 +1,6 @@
+{
+  "title": "Plant Extracts Against Mosquitoes",
+  "author": "Hassan Zafar",
+  "affiliation": "Ghulam Ishaq Khan Institute",
+  "email": "hassan.zafar@giki.edu.pk"
+}

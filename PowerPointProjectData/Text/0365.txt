@@ -1,0 +1,6 @@
+{
+  "title": "Smart Homes: A Vision for a Secure Future",
+  "author": "Dr. Emily Winston",
+  "affiliation": "University of California, Berkeley",
+  "email": "emily.winston@berkeley.edu"
+}

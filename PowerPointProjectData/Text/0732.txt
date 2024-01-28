@@ -1,0 +1,6 @@
+{
+  "title": "Music and Memory: A Powerful Connection",
+  "author": "Dr. Diana Deutsch",
+  "affiliation": "University of California, San Diego",
+  "email": "diana.deutsch@ucsd.edu"
+}

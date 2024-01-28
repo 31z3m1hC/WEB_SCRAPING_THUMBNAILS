@@ -1,0 +1,6 @@
+{
+  "title": "Using Game Theory to Understand Voting",
+  "author": "Eric Maskin",
+  "affiliation": "Harvard University",
+  "email": "emaskin@harvard.edu"
+}

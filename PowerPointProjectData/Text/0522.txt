@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Cellular Respiration",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Berkeley",
+  "email": "janedoe@berkeley.edu"
+}

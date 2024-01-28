@@ -1,0 +1,6 @@
+{
+  "title": "Coordinated Behaviors of Birds",
+  "author": "Luisiana Bicca-Marques",
+  "affiliation": "Mamiraua Institute",
+  "email": "luisiana@mamiraua.org.br"
+}

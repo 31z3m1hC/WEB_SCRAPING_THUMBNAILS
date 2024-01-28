@@ -1,0 +1,6 @@
+{
+  "title": "Redefining Green Energy",
+  "author": "Dr. Jane Doe",
+  "affiliation": "Stanford University",
+  "email": "jdoe@stanford.edu"
+}

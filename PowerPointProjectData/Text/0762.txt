@@ -1,0 +1,6 @@
+{
+  "title": "Autonomous Vehicles: A Safer Future",
+  "author": "John Doe",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "johndoe@mit.edu"
+}

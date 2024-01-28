@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change and Coral Reefs",
+  "author": "Dr. Jane Doe",
+  "affiliation": "Marine Science Institute",
+  "email": "jane.doe@marine.edu"
+}

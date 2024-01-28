@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy: A Path to Sustainable Energy",
+  "author": "Dr. Sarah Williams",
+  "affiliation": "University of California, Berkeley",
+  "email": "swilliams@berkeley.edu"
+}

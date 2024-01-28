@@ -1,0 +1,6 @@
+{
+  "title": "Electric Cars: A Clean Ride into the Future",
+  "author": "John Smith",
+  "affiliation": "Oxford University",
+  "email": "john.smith@oxford.edu"
+}

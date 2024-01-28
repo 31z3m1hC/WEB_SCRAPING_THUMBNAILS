@@ -1,0 +1,6 @@
+{
+  "title": "Economic Growth and Environmental Impacts",
+  "author": "Thomas J. Coggins",
+  "affiliation": "EO Wilson Biodiversity Foundation",
+  "email": "thomas.coggins@eowilsonfoundation.org"
+}

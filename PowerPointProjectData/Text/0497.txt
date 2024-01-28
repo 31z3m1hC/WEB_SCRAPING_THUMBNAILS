@@ -1,0 +1,6 @@
+{
+  "title": "Banana Peel: A Natural Water Filter",
+  "author": "Dr. Sarah Smith",
+  "affiliation": "University of California, Davis",
+  "email": "drsarahsmith@ucdavis.edu"
+}

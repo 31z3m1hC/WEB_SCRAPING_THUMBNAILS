@@ -1,0 +1,6 @@
+{
+  "title": "Renewable Energy Integration",
+  "author": "David Kovar",
+  "affiliation": "Columbia University",
+  "email": "david.kovar@columbia.edu"
+}

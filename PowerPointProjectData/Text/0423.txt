@@ -1,0 +1,6 @@
+{
+  "title": "Mobile Learning and Student Engagement",
+  "author": "Dr. Jane Doe",
+  "affiliation": "University of California, Los Angeles",
+  "email": "jane.doe@ucla.edu"
+}

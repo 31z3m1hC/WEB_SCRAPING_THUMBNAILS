@@ -1,0 +1,6 @@
+{
+  "title": "Studying Patterns of Cosmic Ray Showers",
+  "author": "Dr. Brian Fick",
+  "affiliation": "University of Delaware",
+  "email": "fick@udel.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Green Energy's Promise",
+  "author": "Julia Anderson",
+  "affiliation": "University of Wisconsin - Madison",
+  "email": "janderson@wisc.edu"
+}

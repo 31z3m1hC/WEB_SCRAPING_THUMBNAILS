@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Seafood: A Global Threat",
+  "author": "Anne-Cecilie Lindqvist",
+  "affiliation": "Norwegian Institute for Water Research",
+  "email": "anne-cecilie.lindqvist@niva.no"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Mobile Health for Rural Communities",
+  "author": "Dhruv Khullar",
+  "affiliation": "Stanford University",
+  "email": "dhruvkh@stanford.edu"
+}

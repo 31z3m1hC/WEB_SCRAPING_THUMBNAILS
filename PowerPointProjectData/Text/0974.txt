@@ -1,0 +1,6 @@
+{
+  "title": "Music Therapy for Alzheimer's Patients",
+  "author": "Dr. Susan Thompson",
+  "affiliation": "University of California, Los Angeles",
+  "email": "sthompson@ucla.edu"
+}

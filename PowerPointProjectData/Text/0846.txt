@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Efficient Algorithms for Machine Learning",
+  "author": "Andrew Ng",
+  "affiliation": "Stanford University",
+  "email": "Andrew.Ng@Stanford.edu"
+}

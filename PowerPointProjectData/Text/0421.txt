@@ -1,0 +1,6 @@
+{
+  "title": "Sea Level Rise: Impacts and Adaptation Strategies",
+  "author": "Dr. Michael Oppenheimer",
+  "affiliation": "Princeton University",
+  "email": "moppo@princeton.edu"
+}

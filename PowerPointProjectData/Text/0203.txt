@@ -1,0 +1,6 @@
+{
+  "title": "Linking Sleep and Memory in the Human Brain",
+  "author": "Dr. Alyssa A. Prehn",
+  "affiliation": "University of California, Berkeley",
+  "email": "a.prehn@berkeley.edu"
+}

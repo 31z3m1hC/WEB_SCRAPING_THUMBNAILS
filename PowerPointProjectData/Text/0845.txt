@@ -1,0 +1,6 @@
+{
+  "title": "Learning Patterns in Human Memory",
+  "author": "Richard M. Shiffrin",
+  "affiliation": "Indiana University",
+  "email": "rshiffrin@indiana.edu"
+}

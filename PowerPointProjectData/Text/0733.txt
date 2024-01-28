@@ -1,0 +1,6 @@
+{
+  "title": "Face Recognition Using AI",
+  "author": "Oliver J. Becker",
+  "affiliation": "Stanford University",
+  "email": "oliver.becker@stanford.edu"
+}

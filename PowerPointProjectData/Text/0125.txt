@@ -1,0 +1,6 @@
+{
+  "title": "Untangling the Enigmatic World of Dreams",
+  "author": "Dr. Alice Roberts",
+  "affiliation": "University of Cambridge",
+  "email": "alice.roberts@cam.ac.uk"
+}

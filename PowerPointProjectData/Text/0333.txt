@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Coral Bleaching Patterns",
+  "author": "Carlos M. Duarte",
+  "affiliation": "KAUST",
+  "email": "carlos.duarte@kaust.edu.sa"
+}

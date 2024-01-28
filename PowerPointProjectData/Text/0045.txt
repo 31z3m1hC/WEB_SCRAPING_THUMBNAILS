@@ -1,0 +1,6 @@
+{
+  "title": "Positive Impact of Solar Energy Adoption",
+  "author": "Sarah Anderson",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.anderson@berkeley.edu"
+}

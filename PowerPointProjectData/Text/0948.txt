@@ -1,0 +1,6 @@
+{
+  "title": "Unlocking the Secrets of Cellular Communication",
+  "author": "Dr. Maria Rodriguez",
+  "affiliation": "University of California, Berkeley",
+  "email": "mrodriguez@berkeley.edu"
+}

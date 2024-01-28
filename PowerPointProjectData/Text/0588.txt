@@ -1,0 +1,6 @@
+{
+  "title": "Therapeutic Potential of Singing",
+  "author": "Dr. Laura K. Maxwell",
+  "affiliation": "University of California, San Diego",
+  "email": "lma_musicandscience@ucsd.edu"
+}

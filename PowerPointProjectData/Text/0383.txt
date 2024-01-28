@@ -1,0 +1,6 @@
+{
+  "title": "Combined Therapies for Cancer Treatment",
+  "author": "Dr. Olivia Price",
+  "affiliation": "New York University School of Medicine",
+  "email": "oprice@nyumc.org"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Hidden Patterns: Data Analysis Unveils Trends",
+  "author": "Sophia Williams",
+  "affiliation": "NC State University",
+  "email": "sophia.williams@ncsu.edu"
+}

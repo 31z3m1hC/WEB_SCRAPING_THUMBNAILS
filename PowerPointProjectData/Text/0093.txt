@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Alzheimer's: Unraveling the Cognitive Maze",
+  "author": "Dr. Sarah Miller",
+  "affiliation": "Neurology Research Institute",
+  "email": "sarah.miller@neuroinstitute.org"
+}

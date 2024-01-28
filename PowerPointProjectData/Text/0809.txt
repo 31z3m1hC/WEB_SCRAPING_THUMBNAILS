@@ -1,0 +1,6 @@
+{
+  "title": "Climate Shift and Its Consequences",
+  "author": "Alexandros Nikolaos Ntovas",
+  "affiliation": "Univeristy of Thessaly",
+  "email": "antovas@uth.gr"
+}

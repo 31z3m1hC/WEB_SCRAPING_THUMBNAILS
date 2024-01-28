@@ -1,0 +1,6 @@
+{
+  "title": "Online Learning: A Pandemic Transformation",
+  "author": "Ashley A. Brown",
+  "affiliation": "Stanford University",
+  "email": "ashley.brown@stanford.edu"
+}

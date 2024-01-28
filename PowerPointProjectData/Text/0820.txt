@@ -1,0 +1,6 @@
+{
+  "title": "The Moon's Influence on Earth's Tides",
+  "author": "Dr. Emily Jones",
+  "affiliation": "MIT Oceanographic Institute",
+  "email": "Emily_Jones@oceanography.org"
+}

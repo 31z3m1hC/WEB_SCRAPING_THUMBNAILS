@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Social Media on Mental Health",
+  "author": "Sarah Johnson",
+  "affiliation": "Harvard University",
+  "email": "sarah.johnson@harvard.edu"
+}

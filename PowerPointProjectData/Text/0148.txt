@@ -1,0 +1,6 @@
+{
+  "title": "Visualizing Evolving Languages",
+  "author": "David Adger",
+  "affiliation": "University of Texas at Austin",
+  "email": "dadger@austin.utexas.edu"
+}

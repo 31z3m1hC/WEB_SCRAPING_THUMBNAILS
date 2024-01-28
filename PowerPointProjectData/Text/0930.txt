@@ -1,0 +1,6 @@
+{
+  "title": "Online Shopping Behavior Study",
+  "author": "Scarlett Johansson",
+  "affiliation": "Springfield University",
+  "email": "scarlett.johansson@springfielduni.edu"
+}

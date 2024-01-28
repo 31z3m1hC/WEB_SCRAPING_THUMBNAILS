@@ -1,0 +1,6 @@
+{
+  "title": "Effect of Music on Plant Growth",
+  "author": "Dr. Hannah Reynolds",
+  "affiliation": "University of California, Davis",
+  "email": "hreynolds@ucdavis.edu"
+}

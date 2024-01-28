@@ -1,0 +1,6 @@
+{
+  "title": "Essential Oils: Nature's Healing Touch",
+  "author": "Dr. Michael Rosenzweig",
+  "affiliation": "University of California, Berkeley",
+  "email": "rosen@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Green Energy: Unleashing Solar Power",
+  "author": "Dr. Sarah Williams",
+  "affiliation": "Renewable Energy Research Institute",
+  "email": "sarah.williams@reri.org"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Social Media Addiction",
+  "author": "Akhil Gupta",
+  "affiliation": "IIT Hyderabad",
+  "email": "akhil.gupta@gmail.com"
+}

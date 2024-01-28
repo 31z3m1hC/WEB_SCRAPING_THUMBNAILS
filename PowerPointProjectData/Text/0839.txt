@@ -1,0 +1,6 @@
+{
+  "title": "Deconstructing Spatial Biases in Machine Learning",
+  "author": "Dr. Emily Denton",
+  "affiliation": "Google Brain",
+  "email": "emily.denton@gmail.com"
+}

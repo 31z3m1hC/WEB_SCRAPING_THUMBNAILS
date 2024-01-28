@@ -1,0 +1,6 @@
+{
+  "title": "Artificial Intelligence in Agriculture",
+  "author": "Dr. Emma Johnson",
+  "affiliation": "University of California, Davis",
+  "email": "ejohnson@ucdavis.edu"
+}

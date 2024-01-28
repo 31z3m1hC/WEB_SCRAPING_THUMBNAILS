@@ -1,0 +1,6 @@
+{
+  "title": "Personalization in Music Streaming Services",
+  "author": "Charles J. Mullin",
+  "affiliation": "Spotify Engineering",
+  "email": "charlesm@spotify.com"
+}

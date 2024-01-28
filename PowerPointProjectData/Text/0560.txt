@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Sleep Deprivation on Learning",
+  "author": "Dr. Alice Johnson",
+  "affiliation": "University of California, Berkeley",
+  "email": "alice.johnson@berkeley.edu"
+}

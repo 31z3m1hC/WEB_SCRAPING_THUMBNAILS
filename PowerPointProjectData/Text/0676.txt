@@ -1,0 +1,6 @@
+{
+  "title": "Carbon Capture and Storage: A Practical Solution",
+  "author": "Dr. Steven Chu",
+  "affiliation": "Stanford University",
+  "email": "chu@stanford.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "The Psychology of Monetary Incentives",
+  "author": "Daniel Kahneman",
+  "affiliation": "Princeton University",
+  "email": "kahneman@princeton.edu"
+}

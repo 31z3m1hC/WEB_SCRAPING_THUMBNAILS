@@ -1,0 +1,6 @@
+{
+  "title": "Influence of Education on Health Outcomes",
+  "author": "Sharon Schwartz",
+  "affiliation": "Harvard University",
+  "email": "sharon.schwartz@hsph.harvard.edu"
+}

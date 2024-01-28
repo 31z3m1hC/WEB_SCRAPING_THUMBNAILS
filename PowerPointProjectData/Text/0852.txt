@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Secrets of Human Emotions",
+  "author": "Emma Watson",
+  "affiliation": "Oxford University",
+  "email": "emma.watson@oxford.ac.uk"
+}

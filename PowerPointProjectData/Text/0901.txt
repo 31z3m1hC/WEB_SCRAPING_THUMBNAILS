@@ -1,0 +1,6 @@
+{
+  "title": "Personalized Fashion Advice",
+  "author": "Vivienne Westwood",
+  "affiliation": "University of the Arts London",
+  "email": "viviennewestwood@arts.ac.uk"
+}

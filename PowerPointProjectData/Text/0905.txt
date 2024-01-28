@@ -1,0 +1,6 @@
+{
+  "title": "AI-Generated Music: Creativity and Inspiration",
+  "author": "David Cope",
+  "affiliation": "University of California, Santa Cruz",
+  "email": "dcope@ucsc.edu"
+}

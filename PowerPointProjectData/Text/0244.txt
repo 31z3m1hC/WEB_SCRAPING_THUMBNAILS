@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Drinking Water: A Cause for Concern",
+  "author": "Sarah Richards",
+  "affiliation": "University of California, Los Angeles",
+  "email": "srichards@ucla.edu"
+}

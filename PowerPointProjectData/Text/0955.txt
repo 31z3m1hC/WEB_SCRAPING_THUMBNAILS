@@ -1,0 +1,6 @@
+{
+  "title": "Groundwater Arsenic Contamination in Bangladesh",
+  "author": "Md. Mozammel Hoque",
+  "affiliation": "Institute of Water Modeling, Bangladesh",
+  "email": "mozammel@iwmbd.org"
+}

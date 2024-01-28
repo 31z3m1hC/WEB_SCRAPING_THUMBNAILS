@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change: Rising Sea Levels",
+  "author": "Sarah Polsky",
+  "affiliation": "Columbia University",
+  "email": "spolsky@columbia.edu"
+}

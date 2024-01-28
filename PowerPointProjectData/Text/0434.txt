@@ -1,0 +1,6 @@
+{
+  "title": "Influencing Youth through Social Media",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarahjohnson@berkeley.edu"
+}

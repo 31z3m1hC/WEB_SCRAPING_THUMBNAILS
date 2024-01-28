@@ -1,0 +1,6 @@
+{
+  "title": "Childhood Obesity: A Global Crisis",
+  "author": "Dr. Sarah Anderson",
+  "affiliation": "University of California, Los Angeles",
+  "email": "sarah.anderson@ucla.edu"
+}

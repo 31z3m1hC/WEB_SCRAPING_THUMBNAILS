@@ -1,0 +1,6 @@
+{
+  "title": "Robotics in Healthcare",
+  "author": "Seyed M. Mahmoodi",
+  "affiliation": "Qatar University",
+  "email": "Mahmoodi@qu.edu.qa"
+}

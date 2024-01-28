@@ -1,0 +1,6 @@
+{
+  "title": "AI Optimization for Green Manufacturing",
+  "author": "Robert Hilton",
+  "affiliation": "Oxford University",
+  "email": "rhilton@oxford.ac.uk"
+}

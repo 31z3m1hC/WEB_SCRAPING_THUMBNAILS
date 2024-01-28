@@ -1,0 +1,6 @@
+{
+  "title": "Underwater Robot Navigation",
+  "author": "Jacque Mer",
+  "affiliation": "Marine Research Institute",
+  "email": "jacque.mer@marineresearch.org"
+}

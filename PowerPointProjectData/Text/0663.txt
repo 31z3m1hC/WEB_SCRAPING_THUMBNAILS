@@ -1,0 +1,6 @@
+{
+  "title": "Personal Data Revelations on Social Media",
+  "author": "Mina Mitkova",
+  "affiliation": "University College London",
+  "email": "m.mitkova@ucl.ac.uk"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Aquaponics: A Sustainable Food Production Technique",
+  "author": "Julia Chang",
+  "affiliation": "University of California, Davis",
+  "email": "juliachang@ucdavis.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Virtual Reality: From Gaming to Healthcare",
+  "author": "Dr. Dinesh Kumar",
+  "affiliation": "Stanford University",
+  "email": "dinesh.kumar@stanford.edu"
+}

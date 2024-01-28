@@ -1,0 +1,6 @@
+{
+  "title": "Greener Paths: E-Mobility for Sustainable Cities",
+  "author": "John Allen",
+  "affiliation": "Urban Planning Institute",
+  "email": "john.allen@upinstitute.org"
+}

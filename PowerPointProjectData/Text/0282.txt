@@ -1,0 +1,6 @@
+{
+  "title": "Mosquitoes' Preference for Human Blood Types",
+  "author": "Jessica A. Heming",
+  "affiliation": "University of Notre Dame",
+  "email": "Jessica.A.Heming@ND.edu"
+}

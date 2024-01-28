@@ -1,0 +1,6 @@
+{
+  "title": "Unravelling Climate Migrants' Adaptation Strategies",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of Oxford",
+  "email": "sarah.jones@univ.ox.ac.uk"
+}

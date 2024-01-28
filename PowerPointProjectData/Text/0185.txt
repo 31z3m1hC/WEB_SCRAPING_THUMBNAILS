@@ -1,0 +1,6 @@
+{
+  "title": "Organic Farming: A Sustainable Future",
+  "author": "Dr. Jane Doe",
+  "affiliation": "University of California, Davis",
+  "email": "jdoe@ucdavis.edu"
+}

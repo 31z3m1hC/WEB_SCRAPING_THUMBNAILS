@@ -1,0 +1,6 @@
+{
+  "title": "Optimizing Learning Efficiency through Personalized Feedback",
+  "author": "Daniel Murawski",
+  "affiliation": "Stanford University",
+  "email": "damuraws@stanford.edu"
+}

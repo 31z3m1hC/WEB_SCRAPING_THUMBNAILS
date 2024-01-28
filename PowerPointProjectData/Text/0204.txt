@@ -1,0 +1,6 @@
+{
+  "title": "The Sun's Influence on Climate",
+  "author": "Dr. Benjamin Jones",
+  "affiliation": "National Weather Service",
+  "email": "bjones@weather.gov"
+}

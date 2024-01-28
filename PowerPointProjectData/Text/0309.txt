@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change: Impacts on Ecosystems",
+  "author": "Dr. Rebecca Shaw",
+  "affiliation": "University of California, Berkeley",
+  "email": "rebecca.shaw@berkeley.edu"
+}

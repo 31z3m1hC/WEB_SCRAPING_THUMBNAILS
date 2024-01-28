@@ -1,0 +1,6 @@
+{
+  "title": "Nuclear Fusion: Unleashing the Power of Stars",
+  "author": "Dr. Samantha Smith",
+  "affiliation": "Lawrence Livermore National Laboratory",
+  "email": "samanthas@llnl.gov"
+}

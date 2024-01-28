@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Social Media on Mental Health",
+  "author": "Rebecca J. Kormi",
+  "affiliation": "University of California, Berkeley",
+  "email": "rkormi@berkeley.edu"
+}

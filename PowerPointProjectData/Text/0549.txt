@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Social Media on Youth Behavior",
+  "author": "Sarah Johnson",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.johnson@berkeley.edu"
+}

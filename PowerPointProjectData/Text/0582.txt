@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change Impact on Food Supplies",
+  "author": "Dr. Sarah Smith",
+  "affiliation": "Oxford University",
+  "email": "ssmith@oxford.ac.uk"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Coffee Consumption and Cardiovascular Health",
+  "author": "Emilio Ros",
+  "affiliation": "Hospital Cl\u00ednic de Barcelona",
+  "email": "emilioros@clinic.ub.es"
+}

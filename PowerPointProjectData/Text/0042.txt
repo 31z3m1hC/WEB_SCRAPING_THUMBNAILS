@@ -1,0 +1,6 @@
+{
+  "title": "Farmers' Perspectives on Climate Change",
+  "author": "Dr. Jane Doe",
+  "affiliation": "University of Agricultural Sciences",
+  "email": "jane.doe@university.edu"
+}

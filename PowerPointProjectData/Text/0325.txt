@@ -1,0 +1,6 @@
+{
+  "title": "Similarities and Differences",
+  "author": "Clare Hall",
+  "affiliation": "Gartner Business",
+  "email": "chabeeb@gartner.com"
+}

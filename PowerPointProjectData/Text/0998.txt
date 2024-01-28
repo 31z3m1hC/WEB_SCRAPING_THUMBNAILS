@@ -1,0 +1,6 @@
+{
+  "title": "Educating Minds, Empowering Lives",
+  "author": "Emma Watson",
+  "affiliation": "United Nations",
+  "email": "emmawatson@un.org"
+}

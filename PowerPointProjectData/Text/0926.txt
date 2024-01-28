@@ -1,0 +1,6 @@
+{
+  "title": "Power Plants' Emission Impact",
+  "author": "Dr. Emma Lewis",
+  "affiliation": "Stanford University",
+  "email": "emmalewis@stanford.edu"
+}

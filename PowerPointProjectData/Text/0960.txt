@@ -1,0 +1,6 @@
+{
+  "title": "Personalized AI Recommender Systems",
+  "author": "Ren\u00e9e Miller",
+  "affiliation": "Stanford University",
+  "email": "reneemiller@stanford.edu"
+}

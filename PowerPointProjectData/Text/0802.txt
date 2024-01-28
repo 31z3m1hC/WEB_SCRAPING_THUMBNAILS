@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling PTSD's Neural Underpinnings",
+  "author": "Sarah Jane Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.smith@berkeley.edu"
+}

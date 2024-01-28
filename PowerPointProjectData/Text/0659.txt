@@ -1,0 +1,6 @@
+{
+  "title": "Mindfulness for Better Sleep",
+  "author": "Alice Smith",
+  "affiliation": "Sleep Science Center",
+  "email": "alice.smith@sleepsciencecenter.org"
+}

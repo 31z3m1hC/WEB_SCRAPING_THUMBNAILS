@@ -1,0 +1,6 @@
+{
+  "title": "Remote Work Effect on Job Satisfaction",
+  "author": "Sophia Nardo",
+  "affiliation": "Stanford Graduate School of Business",
+  "email": "sophia.nardo@gsb.stanford.edu"
+}

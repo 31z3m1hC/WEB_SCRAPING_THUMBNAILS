@@ -1,0 +1,6 @@
+{
+  "title": "AI in Construction Industry",
+  "author": "Harvey Marcus",
+  "affiliation": "Drexel University",
+  "email": "HMarcus@drexel.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Unraveling the Secrets of Stellar Evolution",
+  "author": "Sophia Anderson",
+  "affiliation": "Max Planck Institute for Astrophysics",
+  "email": "sophia.anderson@mpia.de"
+}

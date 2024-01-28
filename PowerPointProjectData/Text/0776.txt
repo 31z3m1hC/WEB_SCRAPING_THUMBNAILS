@@ -1,0 +1,6 @@
+{
+  "title": "Investigating Plant Responses to Drought Stress",
+  "author": "Jane Doe",
+  "affiliation": "University of California, Davis",
+  "email": "jdoe@ucdavis.edu"
+}

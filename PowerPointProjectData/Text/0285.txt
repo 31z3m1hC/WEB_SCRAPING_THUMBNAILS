@@ -1,0 +1,6 @@
+{
+  "title": "AI and Medical Imaging",
+  "author": "Aisha Farooq",
+  "affiliation": "Harvard Medical School",
+  "email": "aisha.farooq@mcb.Harvard.edu"
+}

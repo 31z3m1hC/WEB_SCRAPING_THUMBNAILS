@@ -1,0 +1,6 @@
+{
+  "title": "Sustainable Energy: A Green Path Forward",
+  "author": "Dr. Rebecca Watson",
+  "affiliation": "Associate Professor, University of Chicago",
+  "email": "rwatson@uchicago.edu"
+}

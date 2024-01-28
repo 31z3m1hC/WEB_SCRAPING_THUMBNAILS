@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Social Isolation in Seniors",
+  "author": "Dr. Emily A. Smith",
+  "affiliation": "University of California, Los Angeles",
+  "email": "emily.smith@ucla.edu"
+}

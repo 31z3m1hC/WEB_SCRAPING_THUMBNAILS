@@ -1,0 +1,6 @@
+{
+  "title": "Smartphone Usage and Driving Performance",
+  "author": "David Strayer",
+  "affiliation": "University of Utah",
+  "email": "david.strayer@utah.edu"
+}

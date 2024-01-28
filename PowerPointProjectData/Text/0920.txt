@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy: A Sustainable Alternative",
+  "author": "Dr. Jane Doe",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "jane.doe@mit.edu"
+}

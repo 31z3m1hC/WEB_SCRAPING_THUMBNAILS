@@ -1,0 +1,6 @@
+{
+  "title": "From Bacteria to Drugs",
+  "author": "Alex Morgan",
+  "affiliation": "Stanford University",
+  "email": "alex.morgan@stanford.edu"
+}

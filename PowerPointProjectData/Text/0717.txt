@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Secrets of Coral Bleaching",
+  "author": "Dr. Jane Doe",
+  "affiliation": "University of California, Los Angeles",
+  "email": "jane.doe@ucla.edu"
+}

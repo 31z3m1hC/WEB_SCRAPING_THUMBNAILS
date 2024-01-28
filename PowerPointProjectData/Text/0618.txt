@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Brain Tumor Types",
+  "author": "Dr. Sophia Ahmed",
+  "affiliation": "Stanford University",
+  "email": "sophia.ahmed@stanford.edu"
+}

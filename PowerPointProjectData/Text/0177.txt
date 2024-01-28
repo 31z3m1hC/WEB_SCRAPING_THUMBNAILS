@@ -1,0 +1,6 @@
+{
+  "title": "Impacts of Climate Change on Coral Reefs",
+  "author": "Julia Baum",
+  "affiliation": "University of Victoria",
+  "email": "baumlab@uvic.ca"
+}

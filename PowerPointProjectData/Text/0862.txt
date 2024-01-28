@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change: Rising Temperatures, Drowning Coasts",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of Cambridge",
+  "email": "s.jones@cam.ac.uk"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Lifecycle of a Butterfly",
+  "author": "James K. Lindsey",
+  "affiliation": "National Museum of Natural History",
+  "email": "j.k.lindsey@si.edu"
+}

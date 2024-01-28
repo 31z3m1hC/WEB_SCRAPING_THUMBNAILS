@@ -1,0 +1,6 @@
+{
+  "title": "Economic Growth and Inequality",
+  "author": "Thomas Piketty",
+  "affiliation": "Paris School of Economics",
+  "email": "t.piketty@psemail.eu"
+}

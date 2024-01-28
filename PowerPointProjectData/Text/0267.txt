@@ -1,0 +1,6 @@
+{
+  "title": "Adaptation of Microbes to Antibiotics",
+  "author": "Rita Colwell",
+  "affiliation": "University of Maryland",
+  "email": "rita.colwell@gmail.com"
+}

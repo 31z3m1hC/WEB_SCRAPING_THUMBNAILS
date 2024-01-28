@@ -1,0 +1,6 @@
+{
+  "title": "Vitamin C's Role in Immunit",
+  "author": "Linus Pauling",
+  "affiliation": "University of California, Berkeley",
+  "email": "lpauling@berkeley.edu"
+}

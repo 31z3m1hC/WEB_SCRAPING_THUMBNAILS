@@ -1,0 +1,6 @@
+{
+  "title": "Unlocking Cancer's Secrets",
+  "author": "Dr. Helen Grey",
+  "affiliation": "Stanford University",
+  "email": "helen.grey@stanford.edu"
+}

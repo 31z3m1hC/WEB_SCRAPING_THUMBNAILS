@@ -1,0 +1,6 @@
+{
+  "title": "Harmful Effects of Plastic Waste",
+  "author": "Annika Kruse",
+  "affiliation": "California Environmental Protection Agency",
+  "email": "annika.kruse@calepa.ca.gov"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Student Experience and Online Learning",
+  "author": "Sarah Johnson",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.johnson@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Supermassive Black Hole Enigmas",
+  "author": "Lauranne Lanz",
+  "affiliation": "University of Hamburg",
+  "email": "lanz@hs.uni-hamburg.de"
+}

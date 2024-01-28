@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change and Human Health",
+  "author": "Zainab Ali",
+  "affiliation": "University of Colorado, Boulder",
+  "email": "zainab.ali@colorado.edu"
+}

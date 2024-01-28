@@ -1,0 +1,6 @@
+{
+  "title": "Antidepressant Effects of Ketamine",
+  "author": "Robert C. Malenka",
+  "affiliation": "Stanford University",
+  "email": "robert.malenka@stanford.edu"
+}

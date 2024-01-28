@@ -1,0 +1,6 @@
+{
+  "title": "AI in Healthcare: Enhancing Patient Care",
+  "author": "Dr. Emily Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "ejones@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Advancing Climate Policies Across Nations",
+  "author": "Thomas Spencer",
+  "affiliation": "University of California, Berkeley",
+  "email": "thomas.spencer@berkeley.edu"
+}

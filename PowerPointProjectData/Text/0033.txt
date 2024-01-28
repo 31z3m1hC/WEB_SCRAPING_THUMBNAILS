@@ -1,0 +1,6 @@
+{
+  "title": "Green Power: Harnessing the Sun's Energy",
+  "author": "Dr. Albert Soret",
+  "affiliation": "University of Geneva",
+  "email": "alfred.soret@unige.ch"
+}

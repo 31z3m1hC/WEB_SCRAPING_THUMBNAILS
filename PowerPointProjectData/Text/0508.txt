@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Solar Cell Efficiency",
+  "author": "Dr. Robert Docampo",
+  "affiliation": "Imperial College London",
+  "email": "r.docampo@imperial.ac.uk"
+}

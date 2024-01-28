@@ -1,0 +1,6 @@
+{
+  "title": "Antioxidants: Nature's Shield against Cellular Damage",
+  "author": "Evelyn Hecht",
+  "affiliation": "Stanford University",
+  "email": "evelyn.hecht@stanford.edu"
+}

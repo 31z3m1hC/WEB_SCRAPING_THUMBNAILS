@@ -1,0 +1,6 @@
+{
+  "title": "Impact of AI on Climate Change",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

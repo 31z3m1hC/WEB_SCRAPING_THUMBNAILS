@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Social Media on Mental Health",
+  "author": "Dr. Sarah Ahmed",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.ahmed@berkeley.edu"
+}

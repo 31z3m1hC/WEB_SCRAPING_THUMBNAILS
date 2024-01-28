@@ -1,0 +1,6 @@
+{
+  "title": "Assessing Climate Change's Impact on Coral Reefs",
+  "author": "Dr. Sarah Thompson",
+  "affiliation": "National Oceanic and Atmospheric Administration",
+  "email": "sarah.thompson@noaa.gov"
+}

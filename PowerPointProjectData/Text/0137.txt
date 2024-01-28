@@ -1,0 +1,6 @@
+{
+  "title": "E-Commerce Impact Retail Industry",
+  "author": "Lucy Jiang",
+  "affiliation": "The University of Texas at Austin",
+  "email": "lucy.jiang@utexas.edu"
+}

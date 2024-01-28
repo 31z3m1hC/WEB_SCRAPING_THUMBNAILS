@@ -1,0 +1,6 @@
+{
+  "title": "Music Therapy for Alzheimer's Patients",
+  "author": "Dr. Rachel Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "rachel.smith@berkeley.edu"
+}

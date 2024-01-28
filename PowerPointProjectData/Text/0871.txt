@@ -1,0 +1,6 @@
+{
+  "title": "Optical Metamaterials for Enhanced Detection",
+  "author": "Jeremy N. Munday",
+  "affiliation": "University of California, Santa Barbara",
+  "email": "munday@physics.ucsb.edu"
+}

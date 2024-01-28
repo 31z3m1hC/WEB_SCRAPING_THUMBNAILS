@@ -1,0 +1,6 @@
+{
+  "title": "Impacts of Climate Change on Whales",
+  "author": "Dr. Jane Doe",
+  "affiliation": "University of Alaska",
+  "email": "jane.doe@alaska.edu"
+}

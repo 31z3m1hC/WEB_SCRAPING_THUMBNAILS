@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Climate Change on Crop Yield",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Davis",
+  "email": "sjones@ucdavis.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change: Causes, Impacts, and Outlook",
+  "author": "Jessica Tierney",
+  "affiliation": "Lamont-Doherty Earth Observatory",
+  "email": "jtierney@ldeo.columbia.edu"
+}

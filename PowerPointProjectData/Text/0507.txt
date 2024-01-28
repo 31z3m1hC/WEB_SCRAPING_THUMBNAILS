@@ -1,0 +1,6 @@
+{
+  "title": "Artificial Intelligence for Drug Discovery",
+  "author": "Prof. Patrick Walters",
+  "affiliation": "The Scripps Research Institute",
+  "email": "pwalters@scripps.edu"
+}

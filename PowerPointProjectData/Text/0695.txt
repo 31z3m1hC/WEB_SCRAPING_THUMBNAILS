@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Cognitive Bias in Decision-Making",
+  "author": "Daniel Kahneman",
+  "affiliation": "Princeton University",
+  "email": "KahnemanD@princeton.edu"
+}

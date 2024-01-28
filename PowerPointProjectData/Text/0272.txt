@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Consumer Preferences",
+  "author": "Dr. Ritu Raj",
+  "affiliation": "BIMTECH University",
+  "email": "dr.raj@bimtechuniversity.com"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "COVID-19 mRNA Vaccines: A Closer Look",
+  "author": "Sarah Jane Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.smith@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Document Clustering Based Summaries",
+  "author": "Sayali Ankush Kadam",
+  "affiliation": "University of Massachusetts Amherst",
+  "email": "sakadam@cs.umass.edu"
+}

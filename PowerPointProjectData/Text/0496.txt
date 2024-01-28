@@ -1,0 +1,6 @@
+{
+  "title": "Examining Emotion Recognition Techniques",
+  "author": "Raphael Jose",
+  "affiliation": "University of Sussex",
+  "email": "raphael.jose@sussex.ac.uk"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Automated Stock Trading System",
+  "author": "Mark J. Carhart",
+  "affiliation": "University of California, Santa Barbara",
+  "email": "mcarhart@econ.ucsb.edu"
+}

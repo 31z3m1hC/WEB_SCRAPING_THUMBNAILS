@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Crop Yield Variability",
+  "author": "John Smith",
+  "affiliation": "Agricultural Research Institute",
+  "email": "John.Smith@ari.org"
+}

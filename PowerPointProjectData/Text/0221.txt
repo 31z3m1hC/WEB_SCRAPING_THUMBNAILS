@@ -1,0 +1,6 @@
+{
+  "title": "Time: An Illusion?",
+  "author": "Stephen Hawking",
+  "affiliation": "University of Cambridge",
+  "email": "hawking@brandeis.edu"
+}

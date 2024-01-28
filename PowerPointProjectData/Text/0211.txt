@@ -1,0 +1,6 @@
+{
+  "title": "Microplastic Pollution in Marine Life",
+  "author": "Sarah L. Wilson",
+  "affiliation": "Scripps Institution of Oceanography",
+  "email": "swilson@ucsd.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Why Birds Fly South for Winter",
+  "author": "John Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "jsmith@berkeley.edu"
+}

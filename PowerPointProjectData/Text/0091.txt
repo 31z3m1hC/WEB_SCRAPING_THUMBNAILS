@@ -1,0 +1,6 @@
+{
+  "title": "Forest Influences on Water Quality",
+  "author": "Abhishek Tripathi",
+  "affiliation": "ICFRE, Dehradun",
+  "email": "abhishektripathi.icfre@gmail.com"
+}

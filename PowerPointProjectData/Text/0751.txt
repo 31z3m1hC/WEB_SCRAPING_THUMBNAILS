@@ -1,0 +1,6 @@
+{
+  "title": "Understanding Drying Impact on Soil Fungi",
+  "author": "Sarah Ahmad",
+  "affiliation": "University of North Carolina",
+  "email": "sm_ahmad@unc.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Antibacterial Activity of Garlic Extract",
+  "author": "Pooja Saini",
+  "affiliation": "Institute of Microbial Technology",
+  "email": "pooja.saini@imtech.res.in"
+}

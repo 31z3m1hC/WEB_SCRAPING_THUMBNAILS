@@ -1,0 +1,6 @@
+{
+  "title": "Healthy Diets Improve Mind Function",
+  "author": "Dr. Alan Dangour",
+  "affiliation": "London School of Hygiene & Tropical Medicine",
+  "email": "a.dangour@lshtm.ac.uk"
+}

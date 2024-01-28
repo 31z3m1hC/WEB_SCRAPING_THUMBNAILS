@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Sleep Deprivation on Cognitive Performance",
+  "author": "Dr. Daria Kuss",
+  "affiliation": "University of California, Berkeley",
+  "email": "daria.kuss@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Vaccines: Fighting Diseases",
+  "author": "Dr. Anthony Fauci",
+  "affiliation": "National Institute of Allergy and Infectious Diseases",
+  "email": "afauci@niaid.nih.gov"
+}

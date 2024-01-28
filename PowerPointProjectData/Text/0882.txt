@@ -1,0 +1,6 @@
+{
+  "title": "Plants and Air Pollution",
+  "author": "Dr. Jane Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.smith@berkeley.edu"
+}

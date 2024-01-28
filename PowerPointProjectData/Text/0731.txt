@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Emotions Through Emojis",
+  "author": "Samantha Blair",
+  "affiliation": "University of California, Berkeley",
+  "email": "samantha.blair@berkeley.edu"
+}

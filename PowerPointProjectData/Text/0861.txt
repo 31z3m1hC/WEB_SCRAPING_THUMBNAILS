@@ -1,0 +1,6 @@
+{
+  "title": "Healthy Fats, Healthy Life",
+  "author": "Dr. Alexis Miranda",
+  "affiliation": "University of California, Davis",
+  "email": "am@ucdavis.edu"
+}

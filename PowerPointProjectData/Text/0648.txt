@@ -1,0 +1,6 @@
+{
+  "title": "Microplastics in Our Seas",
+  "author": "Sarah Wilson",
+  "affiliation": "University of California, Santa Cruz",
+  "email": "swilson@ucsc.edu"
+}

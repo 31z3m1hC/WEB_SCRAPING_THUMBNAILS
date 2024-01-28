@@ -1,0 +1,6 @@
+{
+  "title": "Can Machines Read Our Minds?",
+  "author": "John Smith",
+  "affiliation": "University of Cambridge",
+  "email": "jsmith@cam.ac.uk"
+}

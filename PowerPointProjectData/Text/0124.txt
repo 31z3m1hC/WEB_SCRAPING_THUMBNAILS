@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Climate Change on Water Availability",
+  "author": "Isabella Eberle",
+  "affiliation": "University of Hamburg",
+  "email": "isabella.eberle@uni-hamburg.de"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Promoting Urban Cycling: Assessing Strategies",
+  "author": "Paulo Ramalho",
+  "affiliation": "Department of Urban Planning",
+  "email": "pramalho@umich.edu"
+}

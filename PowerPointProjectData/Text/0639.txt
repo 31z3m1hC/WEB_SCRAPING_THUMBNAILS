@@ -1,0 +1,6 @@
+{
+  "title": "Microgreens: Superfoods in the Making",
+  "author": "Margaret Zhang",
+  "affiliation": "Cornell University",
+  "email": "m.zhang@cornell.edu"
+}

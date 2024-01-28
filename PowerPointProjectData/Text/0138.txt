@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy: Harbinger of Sustainable Future",
+  "author": "Dr. Eleanor Campbell",
+  "affiliation": "Oregon State University",
+  "email": "ecampbell@oregonstate.edu"
+}

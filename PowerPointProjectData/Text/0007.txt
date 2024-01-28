@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Empathy's Neural Mechanism",
+  "author": "Dr. Jennifer A. Silvers",
+  "affiliation": "University of California",
+  "email": "jsilvers@universityofcalifornia.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Quantum Algorithm Efficiency",
+  "author": "Professor Edward Mordechai Kressman",
+  "affiliation": "Carnegie Mellon University",
+  "email": "emkressman@cmu.edu"
+}

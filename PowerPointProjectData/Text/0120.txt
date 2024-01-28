@@ -1,0 +1,6 @@
+{
+  "title": "Improving Crop Yield with AI",
+  "author": "Dr. Jane Doe",
+  "affiliation": "Agricultural Research Institute",
+  "email": "jane.doe@agriculturalresearch.org"
+}

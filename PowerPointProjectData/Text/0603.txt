@@ -1,0 +1,6 @@
+{
+  "title": "Predicting Future Trends in Healthcare",
+  "author": "Dr. Emily Smith",
+  "affiliation": "Harvard Medical School",
+  "email": "emily.smith@hms.harvard.edu"
+}

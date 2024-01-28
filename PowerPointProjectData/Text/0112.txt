@@ -1,0 +1,6 @@
+{
+  "title": "Doubling Down and Catching Up",
+  "author": "George Mason",
+  "affiliation": "Harvard University",
+  "email": "george.mason@harvard.edu"
+}

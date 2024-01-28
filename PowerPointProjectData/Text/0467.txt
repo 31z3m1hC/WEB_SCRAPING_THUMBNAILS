@@ -1,0 +1,6 @@
+{
+  "title": "Wind Turbines: Powering the Future",
+  "author": "Dr. Jane Doe",
+  "affiliation": "Energy Research Institute",
+  "email": "janedoe@eri.org"
+}

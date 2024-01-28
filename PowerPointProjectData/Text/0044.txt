@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Sleep on Memory Consolidation",
+  "author": "Robert Stickgold",
+  "affiliation": "Harvard Medical School",
+  "email": "rstickgold@hms.harvard.edu"
+}

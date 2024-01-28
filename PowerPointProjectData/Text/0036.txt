@@ -1,0 +1,6 @@
+{
+  "title": "Education and Healthcare: A Correlation",
+  "author": "Lisa Lin, M.A.",
+  "affiliation": "University of California, Berkeley",
+  "email": "lisalin@berkeley.edu"
+}

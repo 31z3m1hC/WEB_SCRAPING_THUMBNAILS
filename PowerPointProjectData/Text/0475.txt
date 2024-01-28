@@ -1,0 +1,6 @@
+{
+  "title": "Impacts of Climate Change on Agriculture",
+  "author": "Sarah M. Tomczyk",
+  "affiliation": "University of California, Davis",
+  "email": "smtomczyk@ucdavis.edu"
+}

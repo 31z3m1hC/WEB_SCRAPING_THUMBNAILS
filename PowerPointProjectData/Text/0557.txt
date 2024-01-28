@@ -1,0 +1,6 @@
+{
+  "title": "Language AI in Education: Exploring New Possibilities",
+  "author": "Dr. Emily Jones",
+  "affiliation": "Stanford University",
+  "email": "ejones@stanford.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Roboticizing Weather Stations",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "NASA Goddard Institute for Space Studies",
+  "email": "sarah.jones@nasa.gov"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Music Therapy for Autism",
+  "author": "Susan Marino",
+  "affiliation": "Autism Speaks",
+  "email": "Susan.Marino@autismspeaks.org"
+}

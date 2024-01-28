@@ -1,0 +1,6 @@
+{
+  "title": "Plastic Bags: A Growing Threat",
+  "author": "John Smith",
+  "affiliation": "Greenpeace International",
+  "email": "john.smith@greenpeace.org"
+}

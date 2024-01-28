@@ -1,0 +1,6 @@
+{
+  "title": "AI-Powered Robots: Navigating the Healthcare Maze",
+  "author": "Dr.  Isabella Lee",
+  "affiliation": "Northwestern University",
+  "email": "isabellalee@northwestern.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Insects: The Natural World's Cleaners",
+  "author": "Dr. Anne Sverdrup-Thygeson",
+  "affiliation": "Norwegian Institute for Nature Research",
+  "email": "anne.sverdrup-thygeson@nina.no"
+}

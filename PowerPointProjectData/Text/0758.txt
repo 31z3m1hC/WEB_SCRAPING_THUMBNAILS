@@ -1,0 +1,6 @@
+{
+  "title": "Language Models in Moral Decision-Making",
+  "author": "Iyad Rahwan",
+  "affiliation": "Massachusetts Institute of Technology",
+  "email": "i.rahwan@mit.edu"
+}

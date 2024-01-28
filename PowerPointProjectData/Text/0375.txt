@@ -1,0 +1,6 @@
+{
+  "title": "Fighting Cancer with AI",
+  "author": "Sara D. Harris",
+  "affiliation": "University of Michigan",
+  "email": "sdharris@umich.edu"
+}

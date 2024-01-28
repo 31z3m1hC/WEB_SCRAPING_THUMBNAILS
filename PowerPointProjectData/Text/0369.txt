@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Enigma of Sleep Apnea",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "NewYork University",
+  "email": "sarah.jones@nyu.edu"
+}

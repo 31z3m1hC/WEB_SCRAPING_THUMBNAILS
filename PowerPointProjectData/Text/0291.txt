@@ -1,0 +1,6 @@
+{
+  "title": "Plastic Straws: Impact on Marine Biodiversity",
+  "author": "Jane Doe",
+  "affiliation": "National Marine Research Institute",
+  "email": "jane.doe@nmri.org"
+}

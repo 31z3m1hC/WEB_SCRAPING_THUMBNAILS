@@ -1,0 +1,6 @@
+{
+  "title": "Sugar Intake and Obesity Risk",
+  "author": "Dr. Sarah Hall",
+  "affiliation": "Harvard T.H Chan School of Public Health",
+  "email": "shall@hsph.harvard.edu"
+}

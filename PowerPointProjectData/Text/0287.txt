@@ -1,0 +1,6 @@
+{
+  "title": "Cybersecurity in Healthcare: A Review",
+  "author": "Mia Mahmud",
+  "affiliation": "University of Michigan",
+  "email": "mmia@umich.edu"
+}

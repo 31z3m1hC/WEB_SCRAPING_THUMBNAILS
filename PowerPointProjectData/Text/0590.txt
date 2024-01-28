@@ -1,0 +1,6 @@
+{
+  "title": "Reducing CO2 Emissions in Electric Power Systems",
+  "author": "Gautam Das",
+  "affiliation": "National Renewable Energy Laboratory",
+  "email": "gautam.das@nrel.gov"
+}

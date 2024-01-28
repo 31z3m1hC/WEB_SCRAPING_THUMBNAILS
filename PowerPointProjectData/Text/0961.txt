@@ -1,0 +1,6 @@
+{
+  "title": "Microplastic Pollution in Marine Ecosystems",
+  "author": "Sarah L. Fowler",
+  "affiliation": "Institute for Marine Sciences",
+  "email": "sarah.fowler@institute-marine-sciences.org"
+}

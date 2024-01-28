@@ -1,0 +1,6 @@
+{
+  "title": "Low-Cost Online Education",
+  "author": "Sarah Brown",
+  "affiliation": "University of California",
+  "email": "sbrown@universityofcalifornia.edu"
+}

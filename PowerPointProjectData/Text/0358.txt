@@ -1,0 +1,6 @@
+{
+  "title": "Enhancing Crop Yield: Optimizing Fertilizer Application",
+  "author": "Dr. Emily Carter",
+  "affiliation": "Agricultural Research Institute",
+  "email": "emily.carter@agri-research.org"
+}

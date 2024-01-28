@@ -1,0 +1,6 @@
+{
+  "title": "Smart grids: Cutting energy waste",
+  "author": "Peter Fox-Penner",
+  "affiliation": "CIEE, Boston University",
+  "email": "foxpenner@bu.edu"
+}

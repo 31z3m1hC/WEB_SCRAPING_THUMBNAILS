@@ -1,0 +1,6 @@
+{
+  "title": "Sustainable Water Management in Semi-Arid Regions",
+  "author": "Dr. Emma Thompson",
+  "affiliation": "Arid Lands Research Institute",
+  "email": "emma.thompson@aridlandsinstitute.org"
+}

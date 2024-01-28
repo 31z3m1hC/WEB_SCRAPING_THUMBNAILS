@@ -1,0 +1,6 @@
+{
+  "title": "Energy Storage Technologies for Sustainable Development",
+  "author": "Jason J. Therrien",
+  "affiliation": "University of California, Berkeley",
+  "email": "jtherrien@berkeley.edu"
+}

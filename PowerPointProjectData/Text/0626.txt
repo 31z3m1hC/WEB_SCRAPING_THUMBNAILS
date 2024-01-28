@@ -1,0 +1,6 @@
+{
+  "title": "Malaria Control in Africa",
+  "author": "Peterson Karanja",
+  "affiliation": "Kenyatta University",
+  "email": "peterson.karanja@ku.ac.ke"
+}

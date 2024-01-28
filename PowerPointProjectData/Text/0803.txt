@@ -1,0 +1,6 @@
+{
+  "title": "Solar Energy: A Clean and Renewable Energy Source",
+  "author": "Dr. Jessica Thomas",
+  "affiliation": "California Institute of Technology",
+  "email": "jessica.thomas@caltech.edu"
+}

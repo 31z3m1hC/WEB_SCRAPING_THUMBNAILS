@@ -1,0 +1,6 @@
+{
+  "title": "Effective Strategies for Reducing Air Pollution",
+  "author": "Dr. Sarah Johnson",
+  "affiliation": "Clean Air Research Institute",
+  "email": "sarah.johnson@cair.org"
+}

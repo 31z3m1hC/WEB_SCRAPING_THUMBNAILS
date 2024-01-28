@@ -1,0 +1,6 @@
+{
+  "title": "Least Privilege Model for Access",
+  "author": "Katharina Kallrath",
+  "affiliation": "University of Hamburg",
+  "email": "katharina.kallrath@uni-hamburg.de"
+}

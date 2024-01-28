@@ -1,0 +1,6 @@
+{
+  "title": "Microplastic Pollution: A Global Problem",
+  "author": "Sarah A. Wavde",
+  "affiliation": "University of California, San Diego",
+  "email": "swavde@ucsd.edu"
+}

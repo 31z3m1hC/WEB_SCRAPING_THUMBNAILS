@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change Impact on Food Security",
+  "author": "Dr. Sarah Trevor",
+  "affiliation": "University of California, Berkeley",
+  "email": "strevor@berkeley.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Healthy Eating Habits Among Children",
+  "author": "Dr. Sarah Miller",
+  "affiliation": "Stanford University",
+  "email": "smiller@stanford.edu"
+}

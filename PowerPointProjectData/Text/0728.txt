@@ -1,0 +1,6 @@
+{
+  "title": "Healthy Eating: A Guide for Busy Professionals",
+  "author": "Sara Thomas",
+  "affiliation": "Registered Dietitian",
+  "email": "sara.thomas@example.com"
+}

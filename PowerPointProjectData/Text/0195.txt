@@ -1,0 +1,6 @@
+{
+  "title": "The Role of Microfinance in Poverty Alleviation",
+  "author": "Muhammad Yunus",
+  "affiliation": "Grameen Bank",
+  "email": "muhammadyunus@grameen.com"
+}

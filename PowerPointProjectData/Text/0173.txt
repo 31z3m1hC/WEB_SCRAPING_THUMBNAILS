@@ -1,0 +1,6 @@
+{
+  "title": "Plastic Waste Dilemma",
+  "author": "Dr. Jane Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "jane.smith@berkeley.edu"
+}

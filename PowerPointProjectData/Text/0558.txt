@@ -1,0 +1,6 @@
+{
+  "title": "Exploring Plant-Based Meat Alternatives",
+  "author": "Sarah J. Smith",
+  "affiliation": "University of California, Davis",
+  "email": "sarah.smith@ucdavis.edu"
+}

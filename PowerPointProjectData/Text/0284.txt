@@ -1,0 +1,6 @@
+{
+  "title": "Digital Health Apps for Autism Support",
+  "author": "Jeremy O. Robinson",
+  "affiliation": "University of California, Berkeley",
+  "email": "jrobinson@cs.berkeley.edu"
+}

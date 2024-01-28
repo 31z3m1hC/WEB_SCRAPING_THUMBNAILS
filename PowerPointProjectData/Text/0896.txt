@@ -1,0 +1,6 @@
+{
+  "title": "Tinder and the Transformation of Romance",
+  "author": "Elizabeth Timmermans",
+  "affiliation": "University of California, Santa Barbara",
+  "email": "timmermans@es.ucsb.edu"
+}

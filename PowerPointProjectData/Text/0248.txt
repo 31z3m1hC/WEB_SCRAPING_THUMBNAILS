@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling Hidden Stories: A Journey Through Time",
+  "author": "Sarah J. Williams",
+  "affiliation": "University of California, Los Angeles",
+  "email": "sarah.williams@ucla.edu"
+}

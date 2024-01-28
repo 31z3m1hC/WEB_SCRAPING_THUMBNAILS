@@ -1,0 +1,6 @@
+{
+  "title": "Tooth Decay Prevention",
+  "author": "Maria Johnson",
+  "affiliation": "Harverd Dental School",
+  "email": "maria.johnson@harvard.edu"
+}

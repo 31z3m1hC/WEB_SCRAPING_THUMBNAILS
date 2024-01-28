@@ -1,0 +1,6 @@
+{
+  "title": "AI's Impact on Job Market",
+  "author": "Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sarah.jones@berkeley.edu"
+}

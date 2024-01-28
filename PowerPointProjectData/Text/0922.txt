@@ -1,0 +1,6 @@
+{
+  "title": "Polyphenol Powerhouses: Anthocyanins",
+  "author": "Dr. Sarah Smith",
+  "affiliation": "Boston University",
+  "email": "sarah.smith@bu.edu"
+}

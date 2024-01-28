@@ -1,0 +1,6 @@
+{
+  "title": "Autism Spectrum Disorder: Genetic Basis Unraveled",
+  "author": "Dr. Helen Murphy",
+  "affiliation": "University of California, Berkeley",
+  "email": "helensmurphy@berkeley.edu"
+}

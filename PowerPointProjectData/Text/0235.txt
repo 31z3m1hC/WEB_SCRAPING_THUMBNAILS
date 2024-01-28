@@ -1,0 +1,6 @@
+{
+  "title": "Contagious Yawning: Emotional or Empathetic Contagion?",
+  "author": "Liza-Marie Iacoboni",
+  "affiliation": "University of Miami",
+  "email": "liza.marie@miami.edu"
+}

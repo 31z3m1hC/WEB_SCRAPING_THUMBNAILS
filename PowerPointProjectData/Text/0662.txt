@@ -1,0 +1,6 @@
+{
+  "title": "Utilizing AI to Enhance Cardiovascular Health",
+  "author": "Amelia Peterson",
+  "affiliation": "Stanford University Medical Center",
+  "email": "amelia.peterson@stanford.edu"
+}

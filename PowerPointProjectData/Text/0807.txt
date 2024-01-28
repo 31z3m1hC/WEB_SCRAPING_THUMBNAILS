@@ -1,0 +1,6 @@
+{
+  "title": "Identifying Cancer Cells",
+  "author": "Dr. Lisa Brown",
+  "affiliation": "National Cancer Institute",
+  "email": "lisabrown@cancer.gov"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Algae: Greener, Cleaner & Sustainable Energy Source",
+  "author": "Michele Seck",
+  "affiliation": "Uppsala University",
+  "email": "michele.seck@ebc.uu.se"
+}

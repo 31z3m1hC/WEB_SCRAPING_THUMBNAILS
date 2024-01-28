@@ -1,0 +1,6 @@
+{
+  "title": "5G Networks: A Revolutionary Leap in Connectivity",
+  "author": "Dr. Tanuj Arora",
+  "affiliation": "Max Planck Institute for Innovation and Technology",
+  "email": "tanuj.arora@mpiit.de"
+}

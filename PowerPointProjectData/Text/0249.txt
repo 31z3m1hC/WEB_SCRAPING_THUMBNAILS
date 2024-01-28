@@ -1,0 +1,6 @@
+{
+  "title": "Remote Sensing for Malaria Control",
+  "author": "Andrew Tatem",
+  "affiliation": "Flowminder Foundation",
+  "email": "andrew.tatem@flowminder.org"
+}

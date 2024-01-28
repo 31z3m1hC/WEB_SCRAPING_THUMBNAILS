@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Early Music Learning on Children",
+  "author": "Kathleen Corwin",
+  "affiliation": "University of California, Irvine",
+  "email": "kcorwin@uci.edu"
+}

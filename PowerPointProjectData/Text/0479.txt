@@ -1,0 +1,6 @@
+{
+  "title": "Advances in Quantum Computing",
+  "author": "Isaac L. Chuang",
+  "affiliation": "MIT Center for Theoretical Physics",
+  "email": "ichuang@mit.edu"
+}

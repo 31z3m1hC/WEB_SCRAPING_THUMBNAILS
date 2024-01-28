@@ -1,0 +1,6 @@
+{
+  "title": "Language Influence on Decision-Making",
+  "author": "Emily Jones",
+  "affiliation": "University of Oxford",
+  "email": "emily.jones@university.ox.ac.uk"
+}

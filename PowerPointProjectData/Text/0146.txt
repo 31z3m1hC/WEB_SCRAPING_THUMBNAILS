@@ -1,0 +1,6 @@
+{
+  "title": "AI-Powered Prediction of Drug Side Effects",
+  "author": "Emily Jones",
+  "affiliation": "Stanford University",
+  "email": "emily.jones@stanford.edu"
+}

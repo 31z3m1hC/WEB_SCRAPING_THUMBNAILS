@@ -1,0 +1,6 @@
+{
+  "title": "Climate Change and Crop Yields",
+  "author": "Dr. Sarah Belcher",
+  "affiliation": "University of Illinois at Urbana-Champaign",
+  "email": "sbelcher@illinois.edu"
+}

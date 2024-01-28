@@ -1,0 +1,6 @@
+{
+  "title": "Assessing Teacher Quality: A Comprehensive Review",
+  "author": "Sarah Brown",
+  "affiliation": "Harvard University",
+  "email": "sbrown@harvard.edu"
+}

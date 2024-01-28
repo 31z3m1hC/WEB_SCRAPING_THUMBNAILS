@@ -1,0 +1,6 @@
+{
+  "title": "Does BMI Affect Migraine?",
+  "author": "Oliver Sacks",
+  "affiliation": "Columbia University",
+  "email": "oliver.sacks@columbia.edu"
+}

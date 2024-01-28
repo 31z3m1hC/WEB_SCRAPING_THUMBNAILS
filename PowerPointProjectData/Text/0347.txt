@@ -1,0 +1,6 @@
+{
+  "title": "Education Leads to Success",
+  "author": "Jane Smith",
+  "affiliation": "Harvard University",
+  "email": "jane.smith@harvard.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Impact of Climate Change on Food Production",
+  "author": "Dr. John Smith",
+  "affiliation": "Climate Science Institute",
+  "email": "dr.john.smith@climatescienceinstitute.org"
+}

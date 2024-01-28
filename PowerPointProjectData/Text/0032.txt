@@ -1,0 +1,6 @@
+{
+  "title": "Fluorescence Analysis of Biological Samples",
+  "author": "Dr. Jane Smith",
+  "affiliation": "University of California, Berkeley",
+  "email": "jsmith@berkeley.edu"
+}

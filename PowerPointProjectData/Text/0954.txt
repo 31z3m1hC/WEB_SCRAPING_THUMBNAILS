@@ -1,0 +1,6 @@
+{
+  "title": "Virtual Reality for Pain Management",
+  "author": "Dr. Robert Levy",
+  "affiliation": "Stanford University",
+  "email": "rlevy@stanford.edu"
+}

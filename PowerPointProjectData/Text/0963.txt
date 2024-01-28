@@ -1,0 +1,6 @@
+{
+  "title": "Juice Cleanse: Health Benefits and Risks",
+  "author": "Dr. Sarah Brewer",
+  "affiliation": "Registered Dietitian Nutritionist",
+  "email": "sarahbrewer@nutrition.org"
+}

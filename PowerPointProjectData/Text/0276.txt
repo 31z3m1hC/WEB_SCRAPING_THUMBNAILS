@@ -1,0 +1,6 @@
+{
+  "title": "Unveiling the Secrets of Stars: A Journey into Stellar Physics",
+  "author": "Isaac Newton",
+  "affiliation": "Cambridge University",
+  "email": "isaac.newton@cam.ac.uk"
+}

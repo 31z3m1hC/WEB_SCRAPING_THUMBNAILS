@@ -1,0 +1,6 @@
+{
+  "title": "Rising Sea Levels: An Impending Threat",
+  "author": "Dr. Sarah Jones",
+  "affiliation": "University of California, Berkeley",
+  "email": "sjones@berkeley.edu"
+}

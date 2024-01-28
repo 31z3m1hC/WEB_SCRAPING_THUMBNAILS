@@ -1,0 +1,6 @@
+{
+  "title": "AI in Healthcare",
+  "author": "John Smith",
+  "affiliation": "Stanford University",
+  "email": "john.smith@stanford.edu"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Social Media and Mental Health",
+  "author": "Jamie Madill",
+  "affiliation": "University of Oxford",
+  "email": "jamie.madill@psych.ox.ac.uk"
+}

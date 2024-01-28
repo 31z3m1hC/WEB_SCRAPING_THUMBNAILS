@@ -1,0 +1,6 @@
+{
+  "title": "Exercise Benefits for Mental Health",
+  "author": "Emily Bridges",
+  "affiliation": "University of Pennsylvania",
+  "email": "emilybridges@upenn.edu"
+}

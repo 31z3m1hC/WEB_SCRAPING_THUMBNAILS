@@ -1,0 +1,6 @@
+{
+  "title": "Smart Homes: Energy Efficiency and Comfort",
+  "author": "Amelia Anderson",
+  "affiliation": "University of California, Berkeley",
+  "email": "aanderson@berkeley.edu"
+}

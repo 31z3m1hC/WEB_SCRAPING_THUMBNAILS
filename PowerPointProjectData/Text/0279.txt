@@ -1,0 +1,6 @@
+{
+  "title": "COVID-19's Impact on Online Food Ordering",
+  "author": "Sarah Anderson",
+  "affiliation": "Kellogg School of Management",
+  "email": "sanderson@kellogg.northwestern.edu"
+}

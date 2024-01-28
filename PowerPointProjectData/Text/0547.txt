@@ -1,0 +1,6 @@
+{
+  "title": "Unraveling Cancer's Complexity",
+  "author": "Dr. Jane Doe",
+  "affiliation": "National Institute of Health",
+  "email": "jane.doe@nih.gov"
+}
